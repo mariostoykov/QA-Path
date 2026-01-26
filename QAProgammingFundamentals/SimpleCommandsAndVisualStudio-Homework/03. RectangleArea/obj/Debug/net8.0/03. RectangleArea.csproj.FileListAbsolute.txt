@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\03. RectangleArea\bin\Debug\net8.0\03. RectangleArea.exe
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\03. RectangleArea\bin\Debug\net8.0\03. RectangleArea.deps.json
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\03. RectangleArea\bin\Debug\net8.0\03. RectangleArea.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\03. RectangleArea\bin\Debug\net8.0\03. RectangleArea.dll
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\03. RectangleArea\bin\Debug\net8.0\03. RectangleArea.pdb
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\03. RectangleArea\obj\Debug\net8.0\03. RectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\03. RectangleArea\obj\Debug\net8.0\03. RectangleArea.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\03. RectangleArea\obj\Debug\net8.0\03. RectangleArea.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\03. RectangleArea\obj\Debug\net8.0\03. RectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\03. RectangleArea\obj\Debug\net8.0\03. RectangleArea.dll
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\03. RectangleArea\obj\Debug\net8.0\refint\03. RectangleArea.dll
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\03. RectangleArea\obj\Debug\net8.0\03. RectangleArea.pdb
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\03. RectangleArea\obj\Debug\net8.0\03. RectangleArea.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\03. RectangleArea\obj\Debug\net8.0\ref\03. RectangleArea.dll

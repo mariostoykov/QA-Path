@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\06.InchesToCentimetersConverter\bin\Debug\net8.0\06.InchesToCentimetersConverter.exe
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\06.InchesToCentimetersConverter\bin\Debug\net8.0\06.InchesToCentimetersConverter.deps.json
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\06.InchesToCentimetersConverter\bin\Debug\net8.0\06.InchesToCentimetersConverter.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\06.InchesToCentimetersConverter\bin\Debug\net8.0\06.InchesToCentimetersConverter.dll
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\06.InchesToCentimetersConverter\bin\Debug\net8.0\06.InchesToCentimetersConverter.pdb
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\06.InchesToCentimetersConverter\obj\Debug\net8.0\06.InchesToCentimetersConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\06.InchesToCentimetersConverter\obj\Debug\net8.0\06.InchesToCentimetersConverter.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\06.InchesToCentimetersConverter\obj\Debug\net8.0\06.InchesToCentimetersConverter.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\06.InchesToCentimetersConverter\obj\Debug\net8.0\06.InchesToCentimetersConverter.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\06.InchesToCentimetersConverter\obj\Debug\net8.0\06.InchesToCentimetersConverter.dll
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\06.InchesToCentimetersConverter\obj\Debug\net8.0\refint\06.InchesToCentimetersConverter.dll
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\06.InchesToCentimetersConverter\obj\Debug\net8.0\06.InchesToCentimetersConverter.pdb
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\06.InchesToCentimetersConverter\obj\Debug\net8.0\06.InchesToCentimetersConverter.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\06.InchesToCentimetersConverter\obj\Debug\net8.0\ref\06.InchesToCentimetersConverter.dll

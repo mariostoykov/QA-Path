@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\04.TrapezoidArea\bin\Debug\net8.0\04.TrapezoidArea.exe
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\04.TrapezoidArea\bin\Debug\net8.0\04.TrapezoidArea.deps.json
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\04.TrapezoidArea\bin\Debug\net8.0\04.TrapezoidArea.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\04.TrapezoidArea\bin\Debug\net8.0\04.TrapezoidArea.dll
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\04.TrapezoidArea\bin\Debug\net8.0\04.TrapezoidArea.pdb
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\04.TrapezoidArea\obj\Debug\net8.0\04.TrapezoidArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\04.TrapezoidArea\obj\Debug\net8.0\04.TrapezoidArea.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\04.TrapezoidArea\obj\Debug\net8.0\04.TrapezoidArea.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\04.TrapezoidArea\obj\Debug\net8.0\04.TrapezoidArea.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\04.TrapezoidArea\obj\Debug\net8.0\04.TrapezoidArea.dll
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\04.TrapezoidArea\obj\Debug\net8.0\refint\04.TrapezoidArea.dll
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\04.TrapezoidArea\obj\Debug\net8.0\04.TrapezoidArea.pdb
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\04.TrapezoidArea\obj\Debug\net8.0\04.TrapezoidArea.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\04.TrapezoidArea\obj\Debug\net8.0\ref\04.TrapezoidArea.dll

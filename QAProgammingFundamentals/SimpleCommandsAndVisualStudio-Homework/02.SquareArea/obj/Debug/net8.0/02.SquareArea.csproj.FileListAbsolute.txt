@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\02.SquareArea\bin\Debug\net8.0\02.SquareArea.exe
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\02.SquareArea\bin\Debug\net8.0\02.SquareArea.deps.json
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\02.SquareArea\bin\Debug\net8.0\02.SquareArea.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\02.SquareArea\bin\Debug\net8.0\02.SquareArea.dll
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\02.SquareArea\bin\Debug\net8.0\02.SquareArea.pdb
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\02.SquareArea\obj\Debug\net8.0\02.SquareArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\02.SquareArea\obj\Debug\net8.0\02.SquareArea.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\02.SquareArea\obj\Debug\net8.0\02.SquareArea.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\02.SquareArea\obj\Debug\net8.0\02.SquareArea.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\02.SquareArea\obj\Debug\net8.0\02.SquareArea.dll
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\02.SquareArea\obj\Debug\net8.0\refint\02.SquareArea.dll
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\02.SquareArea\obj\Debug\net8.0\02.SquareArea.pdb
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\02.SquareArea\obj\Debug\net8.0\02.SquareArea.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\02.SquareArea\obj\Debug\net8.0\ref\02.SquareArea.dll

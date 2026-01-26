@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\01.TextReading\bin\Debug\net8.0\01.TextReading.exe
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\01.TextReading\bin\Debug\net8.0\01.TextReading.deps.json
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\01.TextReading\bin\Debug\net8.0\01.TextReading.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\01.TextReading\bin\Debug\net8.0\01.TextReading.dll
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\01.TextReading\bin\Debug\net8.0\01.TextReading.pdb
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\01.TextReading\obj\Debug\net8.0\01.TextReading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\01.TextReading\obj\Debug\net8.0\01.TextReading.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\01.TextReading\obj\Debug\net8.0\01.TextReading.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\01.TextReading\obj\Debug\net8.0\01.TextReading.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\01.TextReading\obj\Debug\net8.0\01.TextReading.dll
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\01.TextReading\obj\Debug\net8.0\refint\01.TextReading.dll
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\01.TextReading\obj\Debug\net8.0\01.TextReading.pdb
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\01.TextReading\obj\Debug\net8.0\01.TextReading.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\01.TextReading\obj\Debug\net8.0\ref\01.TextReading.dll

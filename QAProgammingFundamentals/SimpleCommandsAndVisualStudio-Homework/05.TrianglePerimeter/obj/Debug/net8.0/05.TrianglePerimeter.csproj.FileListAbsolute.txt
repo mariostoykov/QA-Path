@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\05.TrianglePerimeter\bin\Debug\net8.0\05.TrianglePerimeter.exe
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\05.TrianglePerimeter\bin\Debug\net8.0\05.TrianglePerimeter.deps.json
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\05.TrianglePerimeter\bin\Debug\net8.0\05.TrianglePerimeter.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\05.TrianglePerimeter\bin\Debug\net8.0\05.TrianglePerimeter.dll
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\05.TrianglePerimeter\bin\Debug\net8.0\05.TrianglePerimeter.pdb
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\05.TrianglePerimeter\obj\Debug\net8.0\05.TrianglePerimeter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\05.TrianglePerimeter\obj\Debug\net8.0\05.TrianglePerimeter.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\05.TrianglePerimeter\obj\Debug\net8.0\05.TrianglePerimeter.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\05.TrianglePerimeter\obj\Debug\net8.0\05.TrianglePerimeter.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\05.TrianglePerimeter\obj\Debug\net8.0\05.TrianglePerimeter.dll
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\05.TrianglePerimeter\obj\Debug\net8.0\refint\05.TrianglePerimeter.dll
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\05.TrianglePerimeter\obj\Debug\net8.0\05.TrianglePerimeter.pdb
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\05.TrianglePerimeter\obj\Debug\net8.0\05.TrianglePerimeter.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\01.SimpleCommandsAndVisualStudio\05.TrianglePerimeter\obj\Debug\net8.0\ref\05.TrianglePerimeter.dll
