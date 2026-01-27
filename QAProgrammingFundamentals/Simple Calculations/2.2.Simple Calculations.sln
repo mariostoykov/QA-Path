@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.SimpleCalculation", "SimpleCalculation\01.SimpleCalculation.csproj", "{BCB1F79D-0FE6-47A5-B127-40BD30420173}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.FourOperations", "FourOperations\02.FourOperations.csproj", "{0FE4CCFD-99B7-4FA3-BBE7-719FD9F18E6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Market", "03.Market\03.Market.csproj", "{D250ECA3-3724-48E9-BCBA-9E73A920D877}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Tiles", "04.Tiles\04.Tiles.csproj", "{9E9C7A48-E0F6-4844-9F22-C11DB7CDD846}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.DepositCalculator", "05.DepositCalculator\05.DepositCalculator.csproj", "{AB9D18F6-3C53-4A41-9817-713BDF23F60C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.MandatoryLiterature", "06.MandatoryLiterature\06.MandatoryLiterature.csproj", "{211E4F18-98B7-455A-B737-6468BEC493D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.SuppliesForSchool", "07.SuppliesForSchool\07.SuppliesForSchool.csproj", "{122A689E-9546-4223-B242-EDDA75FE9FF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCB1F79D-0FE6-47A5-B127-40BD30420173}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCB1F79D-0FE6-47A5-B127-40BD30420173}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCB1F79D-0FE6-47A5-B127-40BD30420173}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCB1F79D-0FE6-47A5-B127-40BD30420173}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FE4CCFD-99B7-4FA3-BBE7-719FD9F18E6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FE4CCFD-99B7-4FA3-BBE7-719FD9F18E6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FE4CCFD-99B7-4FA3-BBE7-719FD9F18E6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FE4CCFD-99B7-4FA3-BBE7-719FD9F18E6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D250ECA3-3724-48E9-BCBA-9E73A920D877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D250ECA3-3724-48E9-BCBA-9E73A920D877}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D250ECA3-3724-48E9-BCBA-9E73A920D877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D250ECA3-3724-48E9-BCBA-9E73A920D877}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E9C7A48-E0F6-4844-9F22-C11DB7CDD846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E9C7A48-E0F6-4844-9F22-C11DB7CDD846}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E9C7A48-E0F6-4844-9F22-C11DB7CDD846}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E9C7A48-E0F6-4844-9F22-C11DB7CDD846}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB9D18F6-3C53-4A41-9817-713BDF23F60C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB9D18F6-3C53-4A41-9817-713BDF23F60C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB9D18F6-3C53-4A41-9817-713BDF23F60C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB9D18F6-3C53-4A41-9817-713BDF23F60C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{211E4F18-98B7-455A-B737-6468BEC493D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{211E4F18-98B7-455A-B737-6468BEC493D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{211E4F18-98B7-455A-B737-6468BEC493D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{211E4F18-98B7-455A-B737-6468BEC493D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{122A689E-9546-4223-B242-EDDA75FE9FF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{122A689E-9546-4223-B242-EDDA75FE9FF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{122A689E-9546-4223-B242-EDDA75FE9FF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{122A689E-9546-4223-B242-EDDA75FE9FF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

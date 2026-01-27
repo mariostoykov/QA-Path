@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\ConvertorUSDtoEUR\SimpleCalculation\bin\Debug\net8.0\SimpleCalculation.exe
+C:\Users\TOSHIBA\source\repos\ConvertorUSDtoEUR\SimpleCalculation\bin\Debug\net8.0\SimpleCalculation.deps.json
+C:\Users\TOSHIBA\source\repos\ConvertorUSDtoEUR\SimpleCalculation\bin\Debug\net8.0\SimpleCalculation.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\ConvertorUSDtoEUR\SimpleCalculation\bin\Debug\net8.0\SimpleCalculation.dll
+C:\Users\TOSHIBA\source\repos\ConvertorUSDtoEUR\SimpleCalculation\bin\Debug\net8.0\SimpleCalculation.pdb
+C:\Users\TOSHIBA\source\repos\ConvertorUSDtoEUR\SimpleCalculation\obj\Debug\net8.0\SimpleCalculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\ConvertorUSDtoEUR\SimpleCalculation\obj\Debug\net8.0\SimpleCalculation.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\ConvertorUSDtoEUR\SimpleCalculation\obj\Debug\net8.0\SimpleCalculation.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\ConvertorUSDtoEUR\SimpleCalculation\obj\Debug\net8.0\SimpleCalculation.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\ConvertorUSDtoEUR\SimpleCalculation\obj\Debug\net8.0\SimpleCalculation.dll
+C:\Users\TOSHIBA\source\repos\ConvertorUSDtoEUR\SimpleCalculation\obj\Debug\net8.0\refint\SimpleCalculation.dll
+C:\Users\TOSHIBA\source\repos\ConvertorUSDtoEUR\SimpleCalculation\obj\Debug\net8.0\SimpleCalculation.pdb
+C:\Users\TOSHIBA\source\repos\ConvertorUSDtoEUR\SimpleCalculation\obj\Debug\net8.0\SimpleCalculation.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\ConvertorUSDtoEUR\SimpleCalculation\obj\Debug\net8.0\ref\SimpleCalculation.dll

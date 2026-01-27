@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\ConvertorUSDtoEUR\06.MandatoryLiterature\bin\Debug\net8.0\06.MandatoryLiterature.exe
+C:\Users\TOSHIBA\source\repos\ConvertorUSDtoEUR\06.MandatoryLiterature\bin\Debug\net8.0\06.MandatoryLiterature.deps.json
+C:\Users\TOSHIBA\source\repos\ConvertorUSDtoEUR\06.MandatoryLiterature\bin\Debug\net8.0\06.MandatoryLiterature.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\ConvertorUSDtoEUR\06.MandatoryLiterature\bin\Debug\net8.0\06.MandatoryLiterature.dll
+C:\Users\TOSHIBA\source\repos\ConvertorUSDtoEUR\06.MandatoryLiterature\bin\Debug\net8.0\06.MandatoryLiterature.pdb
+C:\Users\TOSHIBA\source\repos\ConvertorUSDtoEUR\06.MandatoryLiterature\obj\Debug\net8.0\06.MandatoryLiterature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\ConvertorUSDtoEUR\06.MandatoryLiterature\obj\Debug\net8.0\06.MandatoryLiterature.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\ConvertorUSDtoEUR\06.MandatoryLiterature\obj\Debug\net8.0\06.MandatoryLiterature.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\ConvertorUSDtoEUR\06.MandatoryLiterature\obj\Debug\net8.0\06.MandatoryLiterature.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\ConvertorUSDtoEUR\06.MandatoryLiterature\obj\Debug\net8.0\06.MandatoryLiterature.dll
+C:\Users\TOSHIBA\source\repos\ConvertorUSDtoEUR\06.MandatoryLiterature\obj\Debug\net8.0\refint\06.MandatoryLiterature.dll
+C:\Users\TOSHIBA\source\repos\ConvertorUSDtoEUR\06.MandatoryLiterature\obj\Debug\net8.0\06.MandatoryLiterature.pdb
+C:\Users\TOSHIBA\source\repos\ConvertorUSDtoEUR\06.MandatoryLiterature\obj\Debug\net8.0\06.MandatoryLiterature.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\ConvertorUSDtoEUR\06.MandatoryLiterature\obj\Debug\net8.0\ref\06.MandatoryLiterature.dll

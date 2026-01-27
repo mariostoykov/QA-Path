@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\ConvertorUSDtoEUR\FourOperations\obj\Debug\net8.0\02.FourOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\ConvertorUSDtoEUR\FourOperations\obj\Debug\net8.0\02.FourOperations.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\ConvertorUSDtoEUR\FourOperations\obj\Debug\net8.0\02.FourOperations.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\ConvertorUSDtoEUR\FourOperations\obj\Debug\net8.0\02.FourOperations.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\ConvertorUSDtoEUR\FourOperations\bin\Debug\net8.0\02.FourOperations.exe
+C:\Users\TOSHIBA\source\repos\ConvertorUSDtoEUR\FourOperations\bin\Debug\net8.0\02.FourOperations.deps.json
+C:\Users\TOSHIBA\source\repos\ConvertorUSDtoEUR\FourOperations\bin\Debug\net8.0\02.FourOperations.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\ConvertorUSDtoEUR\FourOperations\bin\Debug\net8.0\02.FourOperations.dll
+C:\Users\TOSHIBA\source\repos\ConvertorUSDtoEUR\FourOperations\bin\Debug\net8.0\02.FourOperations.pdb
+C:\Users\TOSHIBA\source\repos\ConvertorUSDtoEUR\FourOperations\obj\Debug\net8.0\02.FourOperations.dll
+C:\Users\TOSHIBA\source\repos\ConvertorUSDtoEUR\FourOperations\obj\Debug\net8.0\refint\02.FourOperations.dll
+C:\Users\TOSHIBA\source\repos\ConvertorUSDtoEUR\FourOperations\obj\Debug\net8.0\02.FourOperations.pdb
+C:\Users\TOSHIBA\source\repos\ConvertorUSDtoEUR\FourOperations\obj\Debug\net8.0\02.FourOperations.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\ConvertorUSDtoEUR\FourOperations\obj\Debug\net8.0\ref\02.FourOperations.dll
