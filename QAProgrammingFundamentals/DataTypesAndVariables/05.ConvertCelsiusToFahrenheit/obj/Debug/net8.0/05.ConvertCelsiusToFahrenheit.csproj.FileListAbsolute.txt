@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\05.ConvertCelsiusToFahrenheit\bin\Debug\net8.0\05.ConvertCelsiusToFahrenheit.exe
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\05.ConvertCelsiusToFahrenheit\bin\Debug\net8.0\05.ConvertCelsiusToFahrenheit.deps.json
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\05.ConvertCelsiusToFahrenheit\bin\Debug\net8.0\05.ConvertCelsiusToFahrenheit.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\05.ConvertCelsiusToFahrenheit\bin\Debug\net8.0\05.ConvertCelsiusToFahrenheit.dll
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\05.ConvertCelsiusToFahrenheit\bin\Debug\net8.0\05.ConvertCelsiusToFahrenheit.pdb
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\05.ConvertCelsiusToFahrenheit\obj\Debug\net8.0\05.ConvertCelsiusToFahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\05.ConvertCelsiusToFahrenheit\obj\Debug\net8.0\05.ConvertCelsiusToFahrenheit.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\05.ConvertCelsiusToFahrenheit\obj\Debug\net8.0\05.ConvertCelsiusToFahrenheit.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\05.ConvertCelsiusToFahrenheit\obj\Debug\net8.0\05.ConvertCelsiusToFahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\05.ConvertCelsiusToFahrenheit\obj\Debug\net8.0\05.ConvertCelsiusToFahrenheit.dll
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\05.ConvertCelsiusToFahrenheit\obj\Debug\net8.0\refint\05.ConvertCelsiusToFahrenheit.dll
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\05.ConvertCelsiusToFahrenheit\obj\Debug\net8.0\05.ConvertCelsiusToFahrenheit.pdb
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\05.ConvertCelsiusToFahrenheit\obj\Debug\net8.0\05.ConvertCelsiusToFahrenheit.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\05.ConvertCelsiusToFahrenheit\obj\Debug\net8.0\ref\05.ConvertCelsiusToFahrenheit.dll

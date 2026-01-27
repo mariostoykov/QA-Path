@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\03.CircleAreaAndPerimeter\bin\Debug\net8.0\03.CircleAreaAndPerimeter.exe
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\03.CircleAreaAndPerimeter\bin\Debug\net8.0\03.CircleAreaAndPerimeter.deps.json
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\03.CircleAreaAndPerimeter\bin\Debug\net8.0\03.CircleAreaAndPerimeter.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\03.CircleAreaAndPerimeter\bin\Debug\net8.0\03.CircleAreaAndPerimeter.dll
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\03.CircleAreaAndPerimeter\bin\Debug\net8.0\03.CircleAreaAndPerimeter.pdb
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\03.CircleAreaAndPerimeter\obj\Debug\net8.0\03.CircleAreaAndPerimeter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\03.CircleAreaAndPerimeter\obj\Debug\net8.0\03.CircleAreaAndPerimeter.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\03.CircleAreaAndPerimeter\obj\Debug\net8.0\03.CircleAreaAndPerimeter.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\03.CircleAreaAndPerimeter\obj\Debug\net8.0\03.CircleAreaAndPerimeter.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\03.CircleAreaAndPerimeter\obj\Debug\net8.0\03.CircleAreaAndPerimeter.dll
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\03.CircleAreaAndPerimeter\obj\Debug\net8.0\refint\03.CircleAreaAndPerimeter.dll
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\03.CircleAreaAndPerimeter\obj\Debug\net8.0\03.CircleAreaAndPerimeter.pdb
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\03.CircleAreaAndPerimeter\obj\Debug\net8.0\03.CircleAreaAndPerimeter.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\03.CircleAreaAndPerimeter\obj\Debug\net8.0\ref\03.CircleAreaAndPerimeter.dll

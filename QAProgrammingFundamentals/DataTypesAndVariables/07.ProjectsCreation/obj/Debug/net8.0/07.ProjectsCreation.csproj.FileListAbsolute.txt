@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\07.ProjectsCreation\obj\Debug\net8.0\07.ProjectsCreation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\07.ProjectsCreation\obj\Debug\net8.0\07.ProjectsCreation.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\07.ProjectsCreation\obj\Debug\net8.0\07.ProjectsCreation.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\07.ProjectsCreation\obj\Debug\net8.0\07.ProjectsCreation.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\07.ProjectsCreation\bin\Debug\net8.0\07.ProjectsCreation.exe
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\07.ProjectsCreation\bin\Debug\net8.0\07.ProjectsCreation.deps.json
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\07.ProjectsCreation\bin\Debug\net8.0\07.ProjectsCreation.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\07.ProjectsCreation\bin\Debug\net8.0\07.ProjectsCreation.dll
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\07.ProjectsCreation\bin\Debug\net8.0\07.ProjectsCreation.pdb
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\07.ProjectsCreation\obj\Debug\net8.0\07.ProjectsCreation.dll
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\07.ProjectsCreation\obj\Debug\net8.0\refint\07.ProjectsCreation.dll
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\07.ProjectsCreation\obj\Debug\net8.0\07.ProjectsCreation.pdb
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\07.ProjectsCreation\obj\Debug\net8.0\07.ProjectsCreation.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\07.ProjectsCreation\obj\Debug\net8.0\ref\07.ProjectsCreation.dll

@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\06.PetsFood\bin\Debug\net8.0\06.PetsFood.exe
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\06.PetsFood\bin\Debug\net8.0\06.PetsFood.deps.json
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\06.PetsFood\bin\Debug\net8.0\06.PetsFood.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\06.PetsFood\bin\Debug\net8.0\06.PetsFood.dll
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\06.PetsFood\bin\Debug\net8.0\06.PetsFood.pdb
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\06.PetsFood\obj\Debug\net8.0\06.PetsFood.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\06.PetsFood\obj\Debug\net8.0\06.PetsFood.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\06.PetsFood\obj\Debug\net8.0\06.PetsFood.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\06.PetsFood\obj\Debug\net8.0\06.PetsFood.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\06.PetsFood\obj\Debug\net8.0\06.PetsFood.dll
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\06.PetsFood\obj\Debug\net8.0\refint\06.PetsFood.dll
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\06.PetsFood\obj\Debug\net8.0\06.PetsFood.pdb
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\06.PetsFood\obj\Debug\net8.0\06.PetsFood.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\06.PetsFood\obj\Debug\net8.0\ref\06.PetsFood.dll

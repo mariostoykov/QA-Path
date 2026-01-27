@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\04.ConvertMetersToKilometers\bin\Debug\net8.0\04.ConvertMetersToKilometers.exe
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\04.ConvertMetersToKilometers\bin\Debug\net8.0\04.ConvertMetersToKilometers.deps.json
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\04.ConvertMetersToKilometers\bin\Debug\net8.0\04.ConvertMetersToKilometers.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\04.ConvertMetersToKilometers\bin\Debug\net8.0\04.ConvertMetersToKilometers.dll
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\04.ConvertMetersToKilometers\bin\Debug\net8.0\04.ConvertMetersToKilometers.pdb
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\04.ConvertMetersToKilometers\obj\Debug\net8.0\04.ConvertMetersToKilometers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\04.ConvertMetersToKilometers\obj\Debug\net8.0\04.ConvertMetersToKilometers.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\04.ConvertMetersToKilometers\obj\Debug\net8.0\04.ConvertMetersToKilometers.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\04.ConvertMetersToKilometers\obj\Debug\net8.0\04.ConvertMetersToKilometers.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\04.ConvertMetersToKilometers\obj\Debug\net8.0\04.ConvertMetersToKilometers.dll
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\04.ConvertMetersToKilometers\obj\Debug\net8.0\refint\04.ConvertMetersToKilometers.dll
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\04.ConvertMetersToKilometers\obj\Debug\net8.0\04.ConvertMetersToKilometers.pdb
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\04.ConvertMetersToKilometers\obj\Debug\net8.0\04.ConvertMetersToKilometers.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\DataTypesAndVariables\04.ConvertMetersToKilometers\obj\Debug\net8.0\ref\04.ConvertMetersToKilometers.dll
