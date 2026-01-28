@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\01.ReversedNumbers\02.CenturiesToMinutes\obj\Debug\net8.0\02.CenturiesToMinutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\01.ReversedNumbers\02.CenturiesToMinutes\obj\Debug\net8.0\02.CenturiesToMinutes.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\01.ReversedNumbers\02.CenturiesToMinutes\obj\Debug\net8.0\02.CenturiesToMinutes.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\01.ReversedNumbers\02.CenturiesToMinutes\obj\Debug\net8.0\02.CenturiesToMinutes.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\01.ReversedNumbers\02.CenturiesToMinutes\bin\Debug\net8.0\02.CenturiesToMinutes.exe
+C:\Users\TOSHIBA\source\repos\01.ReversedNumbers\02.CenturiesToMinutes\bin\Debug\net8.0\02.CenturiesToMinutes.deps.json
+C:\Users\TOSHIBA\source\repos\01.ReversedNumbers\02.CenturiesToMinutes\bin\Debug\net8.0\02.CenturiesToMinutes.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\01.ReversedNumbers\02.CenturiesToMinutes\bin\Debug\net8.0\02.CenturiesToMinutes.dll
+C:\Users\TOSHIBA\source\repos\01.ReversedNumbers\02.CenturiesToMinutes\bin\Debug\net8.0\02.CenturiesToMinutes.pdb
+C:\Users\TOSHIBA\source\repos\01.ReversedNumbers\02.CenturiesToMinutes\obj\Debug\net8.0\02.CenturiesToMinutes.dll
+C:\Users\TOSHIBA\source\repos\01.ReversedNumbers\02.CenturiesToMinutes\obj\Debug\net8.0\refint\02.CenturiesToMinutes.dll
+C:\Users\TOSHIBA\source\repos\01.ReversedNumbers\02.CenturiesToMinutes\obj\Debug\net8.0\02.CenturiesToMinutes.pdb
+C:\Users\TOSHIBA\source\repos\01.ReversedNumbers\02.CenturiesToMinutes\obj\Debug\net8.0\02.CenturiesToMinutes.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\01.ReversedNumbers\02.CenturiesToMinutes\obj\Debug\net8.0\ref\02.CenturiesToMinutes.dll

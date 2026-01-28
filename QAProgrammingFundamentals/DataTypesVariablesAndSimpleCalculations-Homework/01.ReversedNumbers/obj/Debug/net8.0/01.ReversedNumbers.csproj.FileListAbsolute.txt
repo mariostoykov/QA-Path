@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\01.ReversedNumbers\2.Homework. DataTypesVariablesAndSimpleCalculations\bin\Debug\net8.0\01.ReversedNumbers.exe
+C:\Users\TOSHIBA\source\repos\01.ReversedNumbers\2.Homework. DataTypesVariablesAndSimpleCalculations\bin\Debug\net8.0\01.ReversedNumbers.deps.json
+C:\Users\TOSHIBA\source\repos\01.ReversedNumbers\2.Homework. DataTypesVariablesAndSimpleCalculations\bin\Debug\net8.0\01.ReversedNumbers.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\01.ReversedNumbers\2.Homework. DataTypesVariablesAndSimpleCalculations\bin\Debug\net8.0\01.ReversedNumbers.dll
+C:\Users\TOSHIBA\source\repos\01.ReversedNumbers\2.Homework. DataTypesVariablesAndSimpleCalculations\bin\Debug\net8.0\01.ReversedNumbers.pdb
+C:\Users\TOSHIBA\source\repos\01.ReversedNumbers\2.Homework. DataTypesVariablesAndSimpleCalculations\obj\Debug\net8.0\01.ReversedNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\01.ReversedNumbers\2.Homework. DataTypesVariablesAndSimpleCalculations\obj\Debug\net8.0\01.ReversedNumbers.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\01.ReversedNumbers\2.Homework. DataTypesVariablesAndSimpleCalculations\obj\Debug\net8.0\01.ReversedNumbers.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\01.ReversedNumbers\2.Homework. DataTypesVariablesAndSimpleCalculations\obj\Debug\net8.0\01.ReversedNumbers.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\01.ReversedNumbers\2.Homework. DataTypesVariablesAndSimpleCalculations\obj\Debug\net8.0\01.ReversedNumbers.dll
+C:\Users\TOSHIBA\source\repos\01.ReversedNumbers\2.Homework. DataTypesVariablesAndSimpleCalculations\obj\Debug\net8.0\refint\01.ReversedNumbers.dll
+C:\Users\TOSHIBA\source\repos\01.ReversedNumbers\2.Homework. DataTypesVariablesAndSimpleCalculations\obj\Debug\net8.0\01.ReversedNumbers.pdb
+C:\Users\TOSHIBA\source\repos\01.ReversedNumbers\2.Homework. DataTypesVariablesAndSimpleCalculations\obj\Debug\net8.0\01.ReversedNumbers.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\01.ReversedNumbers\2.Homework. DataTypesVariablesAndSimpleCalculations\obj\Debug\net8.0\ref\01.ReversedNumbers.dll

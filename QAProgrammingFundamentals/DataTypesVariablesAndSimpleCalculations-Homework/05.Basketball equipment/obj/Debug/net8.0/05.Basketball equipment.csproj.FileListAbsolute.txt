@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\01.ReversedNumbers\05.Basketball equipment\bin\Debug\net8.0\05.Basketball equipment.exe
+C:\Users\TOSHIBA\source\repos\01.ReversedNumbers\05.Basketball equipment\bin\Debug\net8.0\05.Basketball equipment.deps.json
+C:\Users\TOSHIBA\source\repos\01.ReversedNumbers\05.Basketball equipment\bin\Debug\net8.0\05.Basketball equipment.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\01.ReversedNumbers\05.Basketball equipment\bin\Debug\net8.0\05.Basketball equipment.dll
+C:\Users\TOSHIBA\source\repos\01.ReversedNumbers\05.Basketball equipment\bin\Debug\net8.0\05.Basketball equipment.pdb
+C:\Users\TOSHIBA\source\repos\01.ReversedNumbers\05.Basketball equipment\obj\Debug\net8.0\05.Basketball equipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\01.ReversedNumbers\05.Basketball equipment\obj\Debug\net8.0\05.Basketball equipment.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\01.ReversedNumbers\05.Basketball equipment\obj\Debug\net8.0\05.Basketball equipment.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\01.ReversedNumbers\05.Basketball equipment\obj\Debug\net8.0\05.Basketball equipment.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\01.ReversedNumbers\05.Basketball equipment\obj\Debug\net8.0\05.Basketball equipment.dll
+C:\Users\TOSHIBA\source\repos\01.ReversedNumbers\05.Basketball equipment\obj\Debug\net8.0\refint\05.Basketball equipment.dll
+C:\Users\TOSHIBA\source\repos\01.ReversedNumbers\05.Basketball equipment\obj\Debug\net8.0\05.Basketball equipment.pdb
+C:\Users\TOSHIBA\source\repos\01.ReversedNumbers\05.Basketball equipment\obj\Debug\net8.0\05.Basketball equipment.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\01.ReversedNumbers\05.Basketball equipment\obj\Debug\net8.0\ref\05.Basketball equipment.dll

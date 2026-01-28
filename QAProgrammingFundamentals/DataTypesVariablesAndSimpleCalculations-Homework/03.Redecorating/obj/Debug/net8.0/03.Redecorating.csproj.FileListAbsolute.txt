@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\01.ReversedNumbers\03.Redecorating\obj\Debug\net8.0\03.Redecorating.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\01.ReversedNumbers\03.Redecorating\obj\Debug\net8.0\03.Redecorating.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\01.ReversedNumbers\03.Redecorating\obj\Debug\net8.0\03.Redecorating.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\01.ReversedNumbers\03.Redecorating\obj\Debug\net8.0\03.Redecorating.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\01.ReversedNumbers\03.Redecorating\bin\Debug\net8.0\03.Redecorating.exe
+C:\Users\TOSHIBA\source\repos\01.ReversedNumbers\03.Redecorating\bin\Debug\net8.0\03.Redecorating.deps.json
+C:\Users\TOSHIBA\source\repos\01.ReversedNumbers\03.Redecorating\bin\Debug\net8.0\03.Redecorating.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\01.ReversedNumbers\03.Redecorating\bin\Debug\net8.0\03.Redecorating.dll
+C:\Users\TOSHIBA\source\repos\01.ReversedNumbers\03.Redecorating\bin\Debug\net8.0\03.Redecorating.pdb
+C:\Users\TOSHIBA\source\repos\01.ReversedNumbers\03.Redecorating\obj\Debug\net8.0\03.Redecorating.dll
+C:\Users\TOSHIBA\source\repos\01.ReversedNumbers\03.Redecorating\obj\Debug\net8.0\refint\03.Redecorating.dll
+C:\Users\TOSHIBA\source\repos\01.ReversedNumbers\03.Redecorating\obj\Debug\net8.0\03.Redecorating.pdb
+C:\Users\TOSHIBA\source\repos\01.ReversedNumbers\03.Redecorating\obj\Debug\net8.0\03.Redecorating.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\01.ReversedNumbers\03.Redecorating\obj\Debug\net8.0\ref\03.Redecorating.dll
