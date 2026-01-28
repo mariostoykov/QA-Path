@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\10.ValidTriangle\bin\Debug\net8.0\10.ValidTriangle.exe
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\10.ValidTriangle\bin\Debug\net8.0\10.ValidTriangle.deps.json
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\10.ValidTriangle\bin\Debug\net8.0\10.ValidTriangle.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\10.ValidTriangle\bin\Debug\net8.0\10.ValidTriangle.dll
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\10.ValidTriangle\bin\Debug\net8.0\10.ValidTriangle.pdb
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\10.ValidTriangle\obj\Debug\net8.0\10.ValidTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\10.ValidTriangle\obj\Debug\net8.0\10.ValidTriangle.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\10.ValidTriangle\obj\Debug\net8.0\10.ValidTriangle.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\10.ValidTriangle\obj\Debug\net8.0\10.ValidTriangle.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\10.ValidTriangle\obj\Debug\net8.0\10.ValidTriangle.dll
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\10.ValidTriangle\obj\Debug\net8.0\refint\10.ValidTriangle.dll
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\10.ValidTriangle\obj\Debug\net8.0\10.ValidTriangle.pdb
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\10.ValidTriangle\obj\Debug\net8.0\10.ValidTriangle.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\10.ValidTriangle\obj\Debug\net8.0\ref\10.ValidTriangle.dll

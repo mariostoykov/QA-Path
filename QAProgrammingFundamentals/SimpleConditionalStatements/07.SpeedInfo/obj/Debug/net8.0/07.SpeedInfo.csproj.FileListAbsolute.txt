@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\07.SpeedInfo\bin\Debug\net8.0\07.SpeedInfo.exe
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\07.SpeedInfo\bin\Debug\net8.0\07.SpeedInfo.deps.json
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\07.SpeedInfo\bin\Debug\net8.0\07.SpeedInfo.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\07.SpeedInfo\bin\Debug\net8.0\07.SpeedInfo.dll
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\07.SpeedInfo\bin\Debug\net8.0\07.SpeedInfo.pdb
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\07.SpeedInfo\obj\Debug\net8.0\07.SpeedInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\07.SpeedInfo\obj\Debug\net8.0\07.SpeedInfo.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\07.SpeedInfo\obj\Debug\net8.0\07.SpeedInfo.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\07.SpeedInfo\obj\Debug\net8.0\07.SpeedInfo.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\07.SpeedInfo\obj\Debug\net8.0\07.SpeedInfo.dll
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\07.SpeedInfo\obj\Debug\net8.0\refint\07.SpeedInfo.dll
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\07.SpeedInfo\obj\Debug\net8.0\07.SpeedInfo.pdb
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\07.SpeedInfo\obj\Debug\net8.0\07.SpeedInfo.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\07.SpeedInfo\obj\Debug\net8.0\ref\07.SpeedInfo.dll

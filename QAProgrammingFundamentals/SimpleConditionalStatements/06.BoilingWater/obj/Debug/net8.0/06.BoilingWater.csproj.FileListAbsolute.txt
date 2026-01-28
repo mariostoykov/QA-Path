@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\06.BoilingWater\bin\Debug\net8.0\06.BoilingWater.exe
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\06.BoilingWater\bin\Debug\net8.0\06.BoilingWater.deps.json
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\06.BoilingWater\bin\Debug\net8.0\06.BoilingWater.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\06.BoilingWater\bin\Debug\net8.0\06.BoilingWater.dll
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\06.BoilingWater\bin\Debug\net8.0\06.BoilingWater.pdb
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\06.BoilingWater\obj\Debug\net8.0\06.BoilingWater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\06.BoilingWater\obj\Debug\net8.0\06.BoilingWater.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\06.BoilingWater\obj\Debug\net8.0\06.BoilingWater.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\06.BoilingWater\obj\Debug\net8.0\06.BoilingWater.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\06.BoilingWater\obj\Debug\net8.0\06.BoilingWater.dll
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\06.BoilingWater\obj\Debug\net8.0\refint\06.BoilingWater.dll
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\06.BoilingWater\obj\Debug\net8.0\06.BoilingWater.pdb
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\06.BoilingWater\obj\Debug\net8.0\06.BoilingWater.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\06.BoilingWater\obj\Debug\net8.0\ref\06.BoilingWater.dll

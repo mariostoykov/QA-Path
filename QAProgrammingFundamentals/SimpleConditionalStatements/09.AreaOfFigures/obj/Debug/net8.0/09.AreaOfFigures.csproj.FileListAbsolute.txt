@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\09.AreaOfFigures\obj\Debug\net8.0\09.AreaOfFigures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\09.AreaOfFigures\obj\Debug\net8.0\09.AreaOfFigures.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\09.AreaOfFigures\obj\Debug\net8.0\09.AreaOfFigures.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\09.AreaOfFigures\obj\Debug\net8.0\09.AreaOfFigures.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\09.AreaOfFigures\bin\Debug\net8.0\09.AreaOfFigures.exe
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\09.AreaOfFigures\bin\Debug\net8.0\09.AreaOfFigures.deps.json
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\09.AreaOfFigures\bin\Debug\net8.0\09.AreaOfFigures.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\09.AreaOfFigures\bin\Debug\net8.0\09.AreaOfFigures.dll
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\09.AreaOfFigures\bin\Debug\net8.0\09.AreaOfFigures.pdb
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\09.AreaOfFigures\obj\Debug\net8.0\09.AreaOfFigures.dll
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\09.AreaOfFigures\obj\Debug\net8.0\refint\09.AreaOfFigures.dll
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\09.AreaOfFigures\obj\Debug\net8.0\09.AreaOfFigures.pdb
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\09.AreaOfFigures\obj\Debug\net8.0\09.AreaOfFigures.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\09.AreaOfFigures\obj\Debug\net8.0\ref\09.AreaOfFigures.dll

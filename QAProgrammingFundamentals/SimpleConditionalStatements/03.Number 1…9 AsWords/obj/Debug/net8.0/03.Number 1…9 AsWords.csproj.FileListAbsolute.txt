@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\03.Number 1…9 AsWords\bin\Debug\net8.0\03.Number 1…9 AsWords.exe
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\03.Number 1…9 AsWords\bin\Debug\net8.0\03.Number 1…9 AsWords.deps.json
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\03.Number 1…9 AsWords\bin\Debug\net8.0\03.Number 1…9 AsWords.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\03.Number 1…9 AsWords\bin\Debug\net8.0\03.Number 1…9 AsWords.dll
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\03.Number 1…9 AsWords\bin\Debug\net8.0\03.Number 1…9 AsWords.pdb
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\03.Number 1…9 AsWords\obj\Debug\net8.0\03.Number 1…9 AsWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\03.Number 1…9 AsWords\obj\Debug\net8.0\03.Number 1…9 AsWords.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\03.Number 1…9 AsWords\obj\Debug\net8.0\03.Number 1…9 AsWords.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\03.Number 1…9 AsWords\obj\Debug\net8.0\03.Number 1…9 AsWords.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\03.Number 1…9 AsWords\obj\Debug\net8.0\03.Number 1…9 AsWords.dll
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\03.Number 1…9 AsWords\obj\Debug\net8.0\refint\03.Number 1…9 AsWords.dll
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\03.Number 1…9 AsWords\obj\Debug\net8.0\03.Number 1…9 AsWords.pdb
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\03.Number 1…9 AsWords\obj\Debug\net8.0\03.Number 1…9 AsWords.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\01.FreezingWeather\03.Number 1…9 AsWords\obj\Debug\net8.0\ref\03.Number 1…9 AsWords.dll
