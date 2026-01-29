@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\6.ExamCountdown\bin\Debug\net8.0\6.ExamCountdown.exe
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\6.ExamCountdown\bin\Debug\net8.0\6.ExamCountdown.deps.json
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\6.ExamCountdown\bin\Debug\net8.0\6.ExamCountdown.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\6.ExamCountdown\bin\Debug\net8.0\6.ExamCountdown.dll
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\6.ExamCountdown\bin\Debug\net8.0\6.ExamCountdown.pdb
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\6.ExamCountdown\obj\Debug\net8.0\6.ExamCountdown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\6.ExamCountdown\obj\Debug\net8.0\6.ExamCountdown.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\6.ExamCountdown\obj\Debug\net8.0\6.ExamCountdown.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\6.ExamCountdown\obj\Debug\net8.0\6.ExamCountdown.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\6.ExamCountdown\obj\Debug\net8.0\6.ExamCountdown.dll
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\6.ExamCountdown\obj\Debug\net8.0\refint\6.ExamCountdown.dll
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\6.ExamCountdown\obj\Debug\net8.0\6.ExamCountdown.pdb
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\6.ExamCountdown\obj\Debug\net8.0\6.ExamCountdown.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\6.ExamCountdown\obj\Debug\net8.0\ref\6.ExamCountdown.dll

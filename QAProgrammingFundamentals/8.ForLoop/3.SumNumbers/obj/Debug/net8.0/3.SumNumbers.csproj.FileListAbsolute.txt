@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\3.SumNumbers\bin\Debug\net8.0\3.SumNumbers.exe
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\3.SumNumbers\bin\Debug\net8.0\3.SumNumbers.deps.json
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\3.SumNumbers\bin\Debug\net8.0\3.SumNumbers.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\3.SumNumbers\bin\Debug\net8.0\3.SumNumbers.dll
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\3.SumNumbers\bin\Debug\net8.0\3.SumNumbers.pdb
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\3.SumNumbers\obj\Debug\net8.0\3.SumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\3.SumNumbers\obj\Debug\net8.0\3.SumNumbers.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\3.SumNumbers\obj\Debug\net8.0\3.SumNumbers.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\3.SumNumbers\obj\Debug\net8.0\3.SumNumbers.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\3.SumNumbers\obj\Debug\net8.0\3.SumNumbers.dll
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\3.SumNumbers\obj\Debug\net8.0\refint\3.SumNumbers.dll
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\3.SumNumbers\obj\Debug\net8.0\3.SumNumbers.pdb
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\3.SumNumbers\obj\Debug\net8.0\3.SumNumbers.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\3.SumNumbers\obj\Debug\net8.0\ref\3.SumNumbers.dll

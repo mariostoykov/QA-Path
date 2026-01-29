@@ -1,0 +1,28 @@
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\7.LatinLetters\bin\Debug\net8.0\7.LatinLetters.exe
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\7.LatinLetters\bin\Debug\net8.0\7.LatinLetters.deps.json
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\7.LatinLetters\bin\Debug\net8.0\7.LatinLetters.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\7.LatinLetters\bin\Debug\net8.0\7.LatinLetters.dll
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\7.LatinLetters\bin\Debug\net8.0\7.LatinLetters.pdb
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\7.LatinLetters\obj\Debug\net8.0\7.LatinLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\7.LatinLetters\obj\Debug\net8.0\7.LatinLetters.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\7.LatinLetters\obj\Debug\net8.0\7.LatinLetters.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\7.LatinLetters\obj\Debug\net8.0\7.LatinLetters.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\7.LatinLetters\obj\Debug\net8.0\7.LatinLetters.dll
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\7.LatinLetters\obj\Debug\net8.0\refint\7.LatinLetters.dll
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\7.LatinLetters\obj\Debug\net8.0\7.LatinLetters.pdb
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\7.LatinLetters\obj\Debug\net8.0\7.LatinLetters.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\7.LatinLetters\obj\Debug\net8.0\ref\7.LatinLetters.dll
+C:\Users\TOSHIBA\source\repos\4.1 ForLoop\7.LatinLetters\bin\Debug\net8.0\7.LatinLetters.exe
+C:\Users\TOSHIBA\source\repos\4.1 ForLoop\7.LatinLetters\bin\Debug\net8.0\7.LatinLetters.deps.json
+C:\Users\TOSHIBA\source\repos\4.1 ForLoop\7.LatinLetters\bin\Debug\net8.0\7.LatinLetters.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\4.1 ForLoop\7.LatinLetters\bin\Debug\net8.0\7.LatinLetters.dll
+C:\Users\TOSHIBA\source\repos\4.1 ForLoop\7.LatinLetters\bin\Debug\net8.0\7.LatinLetters.pdb
+C:\Users\TOSHIBA\source\repos\4.1 ForLoop\7.LatinLetters\obj\Debug\net8.0\7.LatinLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\4.1 ForLoop\7.LatinLetters\obj\Debug\net8.0\7.LatinLetters.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\4.1 ForLoop\7.LatinLetters\obj\Debug\net8.0\7.LatinLetters.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\4.1 ForLoop\7.LatinLetters\obj\Debug\net8.0\7.LatinLetters.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\4.1 ForLoop\7.LatinLetters\obj\Debug\net8.0\7.LatinLetters.dll
+C:\Users\TOSHIBA\source\repos\4.1 ForLoop\7.LatinLetters\obj\Debug\net8.0\refint\7.LatinLetters.dll
+C:\Users\TOSHIBA\source\repos\4.1 ForLoop\7.LatinLetters\obj\Debug\net8.0\7.LatinLetters.pdb
+C:\Users\TOSHIBA\source\repos\4.1 ForLoop\7.LatinLetters\obj\Debug\net8.0\7.LatinLetters.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\4.1 ForLoop\7.LatinLetters\obj\Debug\net8.0\ref\7.LatinLetters.dll

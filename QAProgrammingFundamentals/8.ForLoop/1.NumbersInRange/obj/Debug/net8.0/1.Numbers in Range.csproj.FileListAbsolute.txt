@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\4.1.For Loop\bin\Debug\net8.0\1.Numbers in Range.exe
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\4.1.For Loop\bin\Debug\net8.0\1.Numbers in Range.deps.json
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\4.1.For Loop\bin\Debug\net8.0\1.Numbers in Range.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\4.1.For Loop\bin\Debug\net8.0\1.Numbers in Range.dll
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\4.1.For Loop\bin\Debug\net8.0\1.Numbers in Range.pdb
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\4.1.For Loop\obj\Debug\net8.0\1.Numbers in Range.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\4.1.For Loop\obj\Debug\net8.0\1.Numbers in Range.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\4.1.For Loop\obj\Debug\net8.0\1.Numbers in Range.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\4.1.For Loop\obj\Debug\net8.0\1.Numbers in Range.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\4.1.For Loop\obj\Debug\net8.0\1.Numbers in Range.dll
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\4.1.For Loop\obj\Debug\net8.0\refint\1.Numbers in Range.dll
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\4.1.For Loop\obj\Debug\net8.0\1.Numbers in Range.pdb
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\4.1.For Loop\obj\Debug\net8.0\1.Numbers in Range.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\4.1.For Loop\obj\Debug\net8.0\ref\1.Numbers in Range.dll

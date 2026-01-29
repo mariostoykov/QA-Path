@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\2.FirstNNumbersSum\bin\Debug\net8.0\2.FirstNNumbersSum.exe
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\2.FirstNNumbersSum\bin\Debug\net8.0\2.FirstNNumbersSum.deps.json
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\2.FirstNNumbersSum\bin\Debug\net8.0\2.FirstNNumbersSum.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\2.FirstNNumbersSum\bin\Debug\net8.0\2.FirstNNumbersSum.dll
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\2.FirstNNumbersSum\bin\Debug\net8.0\2.FirstNNumbersSum.pdb
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\2.FirstNNumbersSum\obj\Debug\net8.0\2.FirstNNumbersSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\2.FirstNNumbersSum\obj\Debug\net8.0\2.FirstNNumbersSum.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\2.FirstNNumbersSum\obj\Debug\net8.0\2.FirstNNumbersSum.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\2.FirstNNumbersSum\obj\Debug\net8.0\2.FirstNNumbersSum.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\2.FirstNNumbersSum\obj\Debug\net8.0\2.FirstNNumbersSum.dll
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\2.FirstNNumbersSum\obj\Debug\net8.0\refint\2.FirstNNumbersSum.dll
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\2.FirstNNumbersSum\obj\Debug\net8.0\2.FirstNNumbersSum.pdb
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\2.FirstNNumbersSum\obj\Debug\net8.0\2.FirstNNumbersSum.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\01.Numbers in Range\2.FirstNNumbersSum\obj\Debug\net8.0\ref\2.FirstNNumbersSum.dll
