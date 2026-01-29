@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\01.Marketplace\03.BonusScore\bin\Debug\net8.0\03.BonusScore.exe
+C:\Users\TOSHIBA\source\repos\01.Marketplace\03.BonusScore\bin\Debug\net8.0\03.BonusScore.deps.json
+C:\Users\TOSHIBA\source\repos\01.Marketplace\03.BonusScore\bin\Debug\net8.0\03.BonusScore.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\01.Marketplace\03.BonusScore\bin\Debug\net8.0\03.BonusScore.dll
+C:\Users\TOSHIBA\source\repos\01.Marketplace\03.BonusScore\bin\Debug\net8.0\03.BonusScore.pdb
+C:\Users\TOSHIBA\source\repos\01.Marketplace\03.BonusScore\obj\Debug\net8.0\03.BonusScore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\01.Marketplace\03.BonusScore\obj\Debug\net8.0\03.BonusScore.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\01.Marketplace\03.BonusScore\obj\Debug\net8.0\03.BonusScore.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\01.Marketplace\03.BonusScore\obj\Debug\net8.0\03.BonusScore.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\01.Marketplace\03.BonusScore\obj\Debug\net8.0\03.BonusScore.dll
+C:\Users\TOSHIBA\source\repos\01.Marketplace\03.BonusScore\obj\Debug\net8.0\refint\03.BonusScore.dll
+C:\Users\TOSHIBA\source\repos\01.Marketplace\03.BonusScore\obj\Debug\net8.0\03.BonusScore.pdb
+C:\Users\TOSHIBA\source\repos\01.Marketplace\03.BonusScore\obj\Debug\net8.0\03.BonusScore.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\01.Marketplace\03.BonusScore\obj\Debug\net8.0\ref\03.BonusScore.dll

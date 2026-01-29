@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\01.Marketplace\07.VowelОrConsonant\bin\Debug\net8.0\07.VowelОrConsonant.exe
+C:\Users\TOSHIBA\source\repos\01.Marketplace\07.VowelОrConsonant\bin\Debug\net8.0\07.VowelОrConsonant.deps.json
+C:\Users\TOSHIBA\source\repos\01.Marketplace\07.VowelОrConsonant\bin\Debug\net8.0\07.VowelОrConsonant.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\01.Marketplace\07.VowelОrConsonant\bin\Debug\net8.0\07.VowelОrConsonant.dll
+C:\Users\TOSHIBA\source\repos\01.Marketplace\07.VowelОrConsonant\bin\Debug\net8.0\07.VowelОrConsonant.pdb
+C:\Users\TOSHIBA\source\repos\01.Marketplace\07.VowelОrConsonant\obj\Debug\net8.0\07.VowelОrConsonant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\01.Marketplace\07.VowelОrConsonant\obj\Debug\net8.0\07.VowelОrConsonant.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\01.Marketplace\07.VowelОrConsonant\obj\Debug\net8.0\07.VowelОrConsonant.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\01.Marketplace\07.VowelОrConsonant\obj\Debug\net8.0\07.VowelОrConsonant.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\01.Marketplace\07.VowelОrConsonant\obj\Debug\net8.0\07.VowelОrConsonant.dll
+C:\Users\TOSHIBA\source\repos\01.Marketplace\07.VowelОrConsonant\obj\Debug\net8.0\refint\07.VowelОrConsonant.dll
+C:\Users\TOSHIBA\source\repos\01.Marketplace\07.VowelОrConsonant\obj\Debug\net8.0\07.VowelОrConsonant.pdb
+C:\Users\TOSHIBA\source\repos\01.Marketplace\07.VowelОrConsonant\obj\Debug\net8.0\07.VowelОrConsonant.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\01.Marketplace\07.VowelОrConsonant\obj\Debug\net8.0\ref\07.VowelОrConsonant.dll

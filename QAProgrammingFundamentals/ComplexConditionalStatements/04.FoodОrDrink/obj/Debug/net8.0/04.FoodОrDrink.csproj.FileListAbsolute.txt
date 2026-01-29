@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\01.Marketplace\04.FoodОrDrink\bin\Debug\net8.0\04.FoodОrDrink.exe
+C:\Users\TOSHIBA\source\repos\01.Marketplace\04.FoodОrDrink\bin\Debug\net8.0\04.FoodОrDrink.deps.json
+C:\Users\TOSHIBA\source\repos\01.Marketplace\04.FoodОrDrink\bin\Debug\net8.0\04.FoodОrDrink.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\01.Marketplace\04.FoodОrDrink\bin\Debug\net8.0\04.FoodОrDrink.dll
+C:\Users\TOSHIBA\source\repos\01.Marketplace\04.FoodОrDrink\bin\Debug\net8.0\04.FoodОrDrink.pdb
+C:\Users\TOSHIBA\source\repos\01.Marketplace\04.FoodОrDrink\obj\Debug\net8.0\04.FoodОrDrink.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\01.Marketplace\04.FoodОrDrink\obj\Debug\net8.0\04.FoodОrDrink.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\01.Marketplace\04.FoodОrDrink\obj\Debug\net8.0\04.FoodОrDrink.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\01.Marketplace\04.FoodОrDrink\obj\Debug\net8.0\04.FoodОrDrink.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\01.Marketplace\04.FoodОrDrink\obj\Debug\net8.0\04.FoodОrDrink.dll
+C:\Users\TOSHIBA\source\repos\01.Marketplace\04.FoodОrDrink\obj\Debug\net8.0\refint\04.FoodОrDrink.dll
+C:\Users\TOSHIBA\source\repos\01.Marketplace\04.FoodОrDrink\obj\Debug\net8.0\04.FoodОrDrink.pdb
+C:\Users\TOSHIBA\source\repos\01.Marketplace\04.FoodОrDrink\obj\Debug\net8.0\04.FoodОrDrink.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\01.Marketplace\04.FoodОrDrink\obj\Debug\net8.0\ref\04.FoodОrDrink.dll

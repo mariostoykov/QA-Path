@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\01.Marketplace\05.InvalidNumber\obj\Debug\net8.0\05.InvalidNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\01.Marketplace\05.InvalidNumber\obj\Debug\net8.0\05.InvalidNumber.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\01.Marketplace\05.InvalidNumber\obj\Debug\net8.0\05.InvalidNumber.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\01.Marketplace\05.InvalidNumber\obj\Debug\net8.0\05.InvalidNumber.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\01.Marketplace\05.InvalidNumber\bin\Debug\net8.0\05.InvalidNumber.exe
+C:\Users\TOSHIBA\source\repos\01.Marketplace\05.InvalidNumber\bin\Debug\net8.0\05.InvalidNumber.deps.json
+C:\Users\TOSHIBA\source\repos\01.Marketplace\05.InvalidNumber\bin\Debug\net8.0\05.InvalidNumber.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\01.Marketplace\05.InvalidNumber\bin\Debug\net8.0\05.InvalidNumber.dll
+C:\Users\TOSHIBA\source\repos\01.Marketplace\05.InvalidNumber\bin\Debug\net8.0\05.InvalidNumber.pdb
+C:\Users\TOSHIBA\source\repos\01.Marketplace\05.InvalidNumber\obj\Debug\net8.0\05.InvalidNumber.dll
+C:\Users\TOSHIBA\source\repos\01.Marketplace\05.InvalidNumber\obj\Debug\net8.0\refint\05.InvalidNumber.dll
+C:\Users\TOSHIBA\source\repos\01.Marketplace\05.InvalidNumber\obj\Debug\net8.0\05.InvalidNumber.pdb
+C:\Users\TOSHIBA\source\repos\01.Marketplace\05.InvalidNumber\obj\Debug\net8.0\05.InvalidNumber.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\01.Marketplace\05.InvalidNumber\obj\Debug\net8.0\ref\05.InvalidNumber.dll

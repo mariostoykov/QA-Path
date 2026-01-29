@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\01.Marketplace\06.DayОfWeek\bin\Debug\net8.0\06.DayОfWeek.exe
+C:\Users\TOSHIBA\source\repos\01.Marketplace\06.DayОfWeek\bin\Debug\net8.0\06.DayОfWeek.deps.json
+C:\Users\TOSHIBA\source\repos\01.Marketplace\06.DayОfWeek\bin\Debug\net8.0\06.DayОfWeek.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\01.Marketplace\06.DayОfWeek\bin\Debug\net8.0\06.DayОfWeek.dll
+C:\Users\TOSHIBA\source\repos\01.Marketplace\06.DayОfWeek\bin\Debug\net8.0\06.DayОfWeek.pdb
+C:\Users\TOSHIBA\source\repos\01.Marketplace\06.DayОfWeek\obj\Debug\net8.0\06.DayОfWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\01.Marketplace\06.DayОfWeek\obj\Debug\net8.0\06.DayОfWeek.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\01.Marketplace\06.DayОfWeek\obj\Debug\net8.0\06.DayОfWeek.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\01.Marketplace\06.DayОfWeek\obj\Debug\net8.0\06.DayОfWeek.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\01.Marketplace\06.DayОfWeek\obj\Debug\net8.0\06.DayОfWeek.dll
+C:\Users\TOSHIBA\source\repos\01.Marketplace\06.DayОfWeek\obj\Debug\net8.0\refint\06.DayОfWeek.dll
+C:\Users\TOSHIBA\source\repos\01.Marketplace\06.DayОfWeek\obj\Debug\net8.0\06.DayОfWeek.pdb
+C:\Users\TOSHIBA\source\repos\01.Marketplace\06.DayОfWeek\obj\Debug\net8.0\06.DayОfWeek.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\01.Marketplace\06.DayОfWeek\obj\Debug\net8.0\ref\06.DayОfWeek.dll

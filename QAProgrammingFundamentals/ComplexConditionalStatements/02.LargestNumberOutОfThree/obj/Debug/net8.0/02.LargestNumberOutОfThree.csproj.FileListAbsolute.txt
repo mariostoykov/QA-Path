@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\01.Marketplace\02.LargestNumberOutОfThree\bin\Debug\net8.0\02.LargestNumberOutОfThree.exe
+C:\Users\TOSHIBA\source\repos\01.Marketplace\02.LargestNumberOutОfThree\bin\Debug\net8.0\02.LargestNumberOutОfThree.deps.json
+C:\Users\TOSHIBA\source\repos\01.Marketplace\02.LargestNumberOutОfThree\bin\Debug\net8.0\02.LargestNumberOutОfThree.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\01.Marketplace\02.LargestNumberOutОfThree\bin\Debug\net8.0\02.LargestNumberOutОfThree.dll
+C:\Users\TOSHIBA\source\repos\01.Marketplace\02.LargestNumberOutОfThree\bin\Debug\net8.0\02.LargestNumberOutОfThree.pdb
+C:\Users\TOSHIBA\source\repos\01.Marketplace\02.LargestNumberOutОfThree\obj\Debug\net8.0\02.LargestNumberOutОfThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\01.Marketplace\02.LargestNumberOutОfThree\obj\Debug\net8.0\02.LargestNumberOutОfThree.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\01.Marketplace\02.LargestNumberOutОfThree\obj\Debug\net8.0\02.LargestNumberOutОfThree.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\01.Marketplace\02.LargestNumberOutОfThree\obj\Debug\net8.0\02.LargestNumberOutОfThree.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\01.Marketplace\02.LargestNumberOutОfThree\obj\Debug\net8.0\02.LargestNumberOutОfThree.dll
+C:\Users\TOSHIBA\source\repos\01.Marketplace\02.LargestNumberOutОfThree\obj\Debug\net8.0\refint\02.LargestNumberOutОfThree.dll
+C:\Users\TOSHIBA\source\repos\01.Marketplace\02.LargestNumberOutОfThree\obj\Debug\net8.0\02.LargestNumberOutОfThree.pdb
+C:\Users\TOSHIBA\source\repos\01.Marketplace\02.LargestNumberOutОfThree\obj\Debug\net8.0\02.LargestNumberOutОfThree.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\01.Marketplace\02.LargestNumberOutОfThree\obj\Debug\net8.0\ref\02.LargestNumberOutОfThree.dll
