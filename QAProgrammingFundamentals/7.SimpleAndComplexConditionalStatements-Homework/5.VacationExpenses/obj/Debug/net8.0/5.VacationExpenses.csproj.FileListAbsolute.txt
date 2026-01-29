@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\3.3.Homework-SimpleAndComplexConditionalStatements\5.VacationExpenses\bin\Debug\net8.0\5.VacationExpenses.exe
+C:\Users\TOSHIBA\source\repos\3.3.Homework-SimpleAndComplexConditionalStatements\5.VacationExpenses\bin\Debug\net8.0\5.VacationExpenses.deps.json
+C:\Users\TOSHIBA\source\repos\3.3.Homework-SimpleAndComplexConditionalStatements\5.VacationExpenses\bin\Debug\net8.0\5.VacationExpenses.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\3.3.Homework-SimpleAndComplexConditionalStatements\5.VacationExpenses\bin\Debug\net8.0\5.VacationExpenses.dll
+C:\Users\TOSHIBA\source\repos\3.3.Homework-SimpleAndComplexConditionalStatements\5.VacationExpenses\bin\Debug\net8.0\5.VacationExpenses.pdb
+C:\Users\TOSHIBA\source\repos\3.3.Homework-SimpleAndComplexConditionalStatements\5.VacationExpenses\obj\Debug\net8.0\5.VacationExpenses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\3.3.Homework-SimpleAndComplexConditionalStatements\5.VacationExpenses\obj\Debug\net8.0\5.VacationExpenses.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\3.3.Homework-SimpleAndComplexConditionalStatements\5.VacationExpenses\obj\Debug\net8.0\5.VacationExpenses.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\3.3.Homework-SimpleAndComplexConditionalStatements\5.VacationExpenses\obj\Debug\net8.0\5.VacationExpenses.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\3.3.Homework-SimpleAndComplexConditionalStatements\5.VacationExpenses\obj\Debug\net8.0\5.VacationExpenses.dll
+C:\Users\TOSHIBA\source\repos\3.3.Homework-SimpleAndComplexConditionalStatements\5.VacationExpenses\obj\Debug\net8.0\refint\5.VacationExpenses.dll
+C:\Users\TOSHIBA\source\repos\3.3.Homework-SimpleAndComplexConditionalStatements\5.VacationExpenses\obj\Debug\net8.0\5.VacationExpenses.pdb
+C:\Users\TOSHIBA\source\repos\3.3.Homework-SimpleAndComplexConditionalStatements\5.VacationExpenses\obj\Debug\net8.0\5.VacationExpenses.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\3.3.Homework-SimpleAndComplexConditionalStatements\5.VacationExpenses\obj\Debug\net8.0\ref\5.VacationExpenses.dll

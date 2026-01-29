@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\3.3.Homework-SimpleAndComplexConditionalStatements\4.NumberOperations\obj\Debug\net8.0\4.NumberOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\3.3.Homework-SimpleAndComplexConditionalStatements\4.NumberOperations\obj\Debug\net8.0\4.NumberOperations.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\3.3.Homework-SimpleAndComplexConditionalStatements\4.NumberOperations\obj\Debug\net8.0\4.NumberOperations.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\3.3.Homework-SimpleAndComplexConditionalStatements\4.NumberOperations\obj\Debug\net8.0\4.NumberOperations.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\3.3.Homework-SimpleAndComplexConditionalStatements\4.NumberOperations\bin\Debug\net8.0\4.NumberOperations.exe
+C:\Users\TOSHIBA\source\repos\3.3.Homework-SimpleAndComplexConditionalStatements\4.NumberOperations\bin\Debug\net8.0\4.NumberOperations.deps.json
+C:\Users\TOSHIBA\source\repos\3.3.Homework-SimpleAndComplexConditionalStatements\4.NumberOperations\bin\Debug\net8.0\4.NumberOperations.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\3.3.Homework-SimpleAndComplexConditionalStatements\4.NumberOperations\bin\Debug\net8.0\4.NumberOperations.dll
+C:\Users\TOSHIBA\source\repos\3.3.Homework-SimpleAndComplexConditionalStatements\4.NumberOperations\bin\Debug\net8.0\4.NumberOperations.pdb
+C:\Users\TOSHIBA\source\repos\3.3.Homework-SimpleAndComplexConditionalStatements\4.NumberOperations\obj\Debug\net8.0\4.NumberOperations.dll
+C:\Users\TOSHIBA\source\repos\3.3.Homework-SimpleAndComplexConditionalStatements\4.NumberOperations\obj\Debug\net8.0\refint\4.NumberOperations.dll
+C:\Users\TOSHIBA\source\repos\3.3.Homework-SimpleAndComplexConditionalStatements\4.NumberOperations\obj\Debug\net8.0\4.NumberOperations.pdb
+C:\Users\TOSHIBA\source\repos\3.3.Homework-SimpleAndComplexConditionalStatements\4.NumberOperations\obj\Debug\net8.0\4.NumberOperations.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\3.3.Homework-SimpleAndComplexConditionalStatements\4.NumberOperations\obj\Debug\net8.0\ref\4.NumberOperations.dll
