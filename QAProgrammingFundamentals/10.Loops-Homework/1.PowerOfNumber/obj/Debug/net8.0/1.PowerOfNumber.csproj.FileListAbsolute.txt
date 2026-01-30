@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\4.3.Homework-Loops\4.3.Homework-Loops\bin\Debug\net8.0\1.PowerOfNumber.exe
+C:\Users\TOSHIBA\source\repos\4.3.Homework-Loops\4.3.Homework-Loops\bin\Debug\net8.0\1.PowerOfNumber.deps.json
+C:\Users\TOSHIBA\source\repos\4.3.Homework-Loops\4.3.Homework-Loops\bin\Debug\net8.0\1.PowerOfNumber.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\4.3.Homework-Loops\4.3.Homework-Loops\bin\Debug\net8.0\1.PowerOfNumber.dll
+C:\Users\TOSHIBA\source\repos\4.3.Homework-Loops\4.3.Homework-Loops\bin\Debug\net8.0\1.PowerOfNumber.pdb
+C:\Users\TOSHIBA\source\repos\4.3.Homework-Loops\4.3.Homework-Loops\obj\Debug\net8.0\1.PowerOfNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\4.3.Homework-Loops\4.3.Homework-Loops\obj\Debug\net8.0\1.PowerOfNumber.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\4.3.Homework-Loops\4.3.Homework-Loops\obj\Debug\net8.0\1.PowerOfNumber.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\4.3.Homework-Loops\4.3.Homework-Loops\obj\Debug\net8.0\1.PowerOfNumber.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\4.3.Homework-Loops\4.3.Homework-Loops\obj\Debug\net8.0\1.PowerOfNumber.dll
+C:\Users\TOSHIBA\source\repos\4.3.Homework-Loops\4.3.Homework-Loops\obj\Debug\net8.0\refint\1.PowerOfNumber.dll
+C:\Users\TOSHIBA\source\repos\4.3.Homework-Loops\4.3.Homework-Loops\obj\Debug\net8.0\1.PowerOfNumber.pdb
+C:\Users\TOSHIBA\source\repos\4.3.Homework-Loops\4.3.Homework-Loops\obj\Debug\net8.0\1.PowerOfNumber.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\4.3.Homework-Loops\4.3.Homework-Loops\obj\Debug\net8.0\ref\1.PowerOfNumber.dll

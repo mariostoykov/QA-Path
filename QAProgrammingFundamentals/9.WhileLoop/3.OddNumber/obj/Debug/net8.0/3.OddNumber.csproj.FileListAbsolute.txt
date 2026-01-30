@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\3.OddNumber\bin\Debug\net8.0\3.OddNumber.exe
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\3.OddNumber\bin\Debug\net8.0\3.OddNumber.deps.json
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\3.OddNumber\bin\Debug\net8.0\3.OddNumber.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\3.OddNumber\bin\Debug\net8.0\3.OddNumber.dll
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\3.OddNumber\bin\Debug\net8.0\3.OddNumber.pdb
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\3.OddNumber\obj\Debug\net8.0\3.OddNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\3.OddNumber\obj\Debug\net8.0\3.OddNumber.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\3.OddNumber\obj\Debug\net8.0\3.OddNumber.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\3.OddNumber\obj\Debug\net8.0\3.OddNumber.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\3.OddNumber\obj\Debug\net8.0\3.OddNumber.dll
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\3.OddNumber\obj\Debug\net8.0\refint\3.OddNumber.dll
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\3.OddNumber\obj\Debug\net8.0\3.OddNumber.pdb
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\3.OddNumber\obj\Debug\net8.0\3.OddNumber.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\3.OddNumber\obj\Debug\net8.0\ref\3.OddNumber.dll

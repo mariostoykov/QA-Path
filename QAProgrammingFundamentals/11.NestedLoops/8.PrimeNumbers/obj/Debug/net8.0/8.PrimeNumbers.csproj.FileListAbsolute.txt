@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\8.PrimeNumbers\obj\Debug\net8.0\8.PrimeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\8.PrimeNumbers\obj\Debug\net8.0\8.PrimeNumbers.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\8.PrimeNumbers\obj\Debug\net8.0\8.PrimeNumbers.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\8.PrimeNumbers\obj\Debug\net8.0\8.PrimeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\8.PrimeNumbers\bin\Debug\net8.0\8.PrimeNumbers.exe
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\8.PrimeNumbers\bin\Debug\net8.0\8.PrimeNumbers.deps.json
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\8.PrimeNumbers\bin\Debug\net8.0\8.PrimeNumbers.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\8.PrimeNumbers\bin\Debug\net8.0\8.PrimeNumbers.dll
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\8.PrimeNumbers\bin\Debug\net8.0\8.PrimeNumbers.pdb
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\8.PrimeNumbers\obj\Debug\net8.0\8.PrimeNumbers.dll
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\8.PrimeNumbers\obj\Debug\net8.0\refint\8.PrimeNumbers.dll
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\8.PrimeNumbers\obj\Debug\net8.0\8.PrimeNumbers.pdb
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\8.PrimeNumbers\obj\Debug\net8.0\8.PrimeNumbers.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\8.PrimeNumbers\obj\Debug\net8.0\ref\8.PrimeNumbers.dll

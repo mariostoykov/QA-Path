@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "7.NumberProcessor/1.0.0": {
+        "runtime": {
+          "7.NumberProcessor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "7.NumberProcessor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

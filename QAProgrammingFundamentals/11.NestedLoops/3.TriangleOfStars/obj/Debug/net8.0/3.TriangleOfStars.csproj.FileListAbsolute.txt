@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\3.TriangleOfStars\bin\Debug\net8.0\3.TriangleOfStars.exe
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\3.TriangleOfStars\bin\Debug\net8.0\3.TriangleOfStars.deps.json
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\3.TriangleOfStars\bin\Debug\net8.0\3.TriangleOfStars.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\3.TriangleOfStars\bin\Debug\net8.0\3.TriangleOfStars.dll
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\3.TriangleOfStars\bin\Debug\net8.0\3.TriangleOfStars.pdb
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\3.TriangleOfStars\obj\Debug\net8.0\3.TriangleOfStars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\3.TriangleOfStars\obj\Debug\net8.0\3.TriangleOfStars.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\3.TriangleOfStars\obj\Debug\net8.0\3.TriangleOfStars.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\3.TriangleOfStars\obj\Debug\net8.0\3.TriangleOfStars.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\3.TriangleOfStars\obj\Debug\net8.0\3.TriangleOfStars.dll
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\3.TriangleOfStars\obj\Debug\net8.0\refint\3.TriangleOfStars.dll
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\3.TriangleOfStars\obj\Debug\net8.0\3.TriangleOfStars.pdb
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\3.TriangleOfStars\obj\Debug\net8.0\3.TriangleOfStars.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\3.TriangleOfStars\obj\Debug\net8.0\ref\3.TriangleOfStars.dll

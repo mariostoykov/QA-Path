@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\7.NumberProcessor\bin\Debug\net8.0\7.NumberProcessor.exe
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\7.NumberProcessor\bin\Debug\net8.0\7.NumberProcessor.deps.json
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\7.NumberProcessor\bin\Debug\net8.0\7.NumberProcessor.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\7.NumberProcessor\bin\Debug\net8.0\7.NumberProcessor.dll
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\7.NumberProcessor\bin\Debug\net8.0\7.NumberProcessor.pdb
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\7.NumberProcessor\obj\Debug\net8.0\7.NumberProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\7.NumberProcessor\obj\Debug\net8.0\7.NumberProcessor.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\7.NumberProcessor\obj\Debug\net8.0\7.NumberProcessor.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\7.NumberProcessor\obj\Debug\net8.0\7.NumberProcessor.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\7.NumberProcessor\obj\Debug\net8.0\7.NumberProcessor.dll
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\7.NumberProcessor\obj\Debug\net8.0\refint\7.NumberProcessor.dll
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\7.NumberProcessor\obj\Debug\net8.0\7.NumberProcessor.pdb
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\7.NumberProcessor\obj\Debug\net8.0\7.NumberProcessor.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\7.NumberProcessor\obj\Debug\net8.0\ref\7.NumberProcessor.dll

@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\7.SumOfDigitsCalculator\bin\Debug\net8.0\7.SumOfDigitsCalculator.exe
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\7.SumOfDigitsCalculator\bin\Debug\net8.0\7.SumOfDigitsCalculator.deps.json
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\7.SumOfDigitsCalculator\bin\Debug\net8.0\7.SumOfDigitsCalculator.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\7.SumOfDigitsCalculator\bin\Debug\net8.0\7.SumOfDigitsCalculator.dll
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\7.SumOfDigitsCalculator\bin\Debug\net8.0\7.SumOfDigitsCalculator.pdb
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\7.SumOfDigitsCalculator\obj\Debug\net8.0\7.SumOfDigitsCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\7.SumOfDigitsCalculator\obj\Debug\net8.0\7.SumOfDigitsCalculator.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\7.SumOfDigitsCalculator\obj\Debug\net8.0\7.SumOfDigitsCalculator.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\7.SumOfDigitsCalculator\obj\Debug\net8.0\7.SumOfDigitsCalculator.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\7.SumOfDigitsCalculator\obj\Debug\net8.0\7.SumOfDigitsCalculator.dll
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\7.SumOfDigitsCalculator\obj\Debug\net8.0\refint\7.SumOfDigitsCalculator.dll
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\7.SumOfDigitsCalculator\obj\Debug\net8.0\7.SumOfDigitsCalculator.pdb
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\7.SumOfDigitsCalculator\obj\Debug\net8.0\7.SumOfDigitsCalculator.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\7.SumOfDigitsCalculator\obj\Debug\net8.0\ref\7.SumOfDigitsCalculator.dll

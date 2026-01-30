@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\4.3.Homework-Loops\4.VowelSum\bin\Debug\net8.0\4.VowelSum.exe
+C:\Users\TOSHIBA\source\repos\4.3.Homework-Loops\4.VowelSum\bin\Debug\net8.0\4.VowelSum.deps.json
+C:\Users\TOSHIBA\source\repos\4.3.Homework-Loops\4.VowelSum\bin\Debug\net8.0\4.VowelSum.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\4.3.Homework-Loops\4.VowelSum\bin\Debug\net8.0\4.VowelSum.dll
+C:\Users\TOSHIBA\source\repos\4.3.Homework-Loops\4.VowelSum\bin\Debug\net8.0\4.VowelSum.pdb
+C:\Users\TOSHIBA\source\repos\4.3.Homework-Loops\4.VowelSum\obj\Debug\net8.0\4.VowelSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\4.3.Homework-Loops\4.VowelSum\obj\Debug\net8.0\4.VowelSum.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\4.3.Homework-Loops\4.VowelSum\obj\Debug\net8.0\4.VowelSum.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\4.3.Homework-Loops\4.VowelSum\obj\Debug\net8.0\4.VowelSum.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\4.3.Homework-Loops\4.VowelSum\obj\Debug\net8.0\4.VowelSum.dll
+C:\Users\TOSHIBA\source\repos\4.3.Homework-Loops\4.VowelSum\obj\Debug\net8.0\refint\4.VowelSum.dll
+C:\Users\TOSHIBA\source\repos\4.3.Homework-Loops\4.VowelSum\obj\Debug\net8.0\4.VowelSum.pdb
+C:\Users\TOSHIBA\source\repos\4.3.Homework-Loops\4.VowelSum\obj\Debug\net8.0\4.VowelSum.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\4.3.Homework-Loops\4.VowelSum\obj\Debug\net8.0\ref\4.VowelSum.dll

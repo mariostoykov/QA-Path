@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\6.NumberInRange\bin\Debug\net8.0\6.NumberInRange.exe
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\6.NumberInRange\bin\Debug\net8.0\6.NumberInRange.deps.json
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\6.NumberInRange\bin\Debug\net8.0\6.NumberInRange.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\6.NumberInRange\bin\Debug\net8.0\6.NumberInRange.dll
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\6.NumberInRange\bin\Debug\net8.0\6.NumberInRange.pdb
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\6.NumberInRange\obj\Debug\net8.0\6.NumberInRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\6.NumberInRange\obj\Debug\net8.0\6.NumberInRange.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\6.NumberInRange\obj\Debug\net8.0\6.NumberInRange.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\6.NumberInRange\obj\Debug\net8.0\6.NumberInRange.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\6.NumberInRange\obj\Debug\net8.0\6.NumberInRange.dll
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\6.NumberInRange\obj\Debug\net8.0\refint\6.NumberInRange.dll
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\6.NumberInRange\obj\Debug\net8.0\6.NumberInRange.pdb
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\6.NumberInRange\obj\Debug\net8.0\6.NumberInRange.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\6.NumberInRange\obj\Debug\net8.0\ref\6.NumberInRange.dll

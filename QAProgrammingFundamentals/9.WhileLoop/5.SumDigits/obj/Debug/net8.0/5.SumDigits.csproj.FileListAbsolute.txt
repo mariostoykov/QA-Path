@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\5.SumDigits\bin\Debug\net8.0\5.SumDigits.exe
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\5.SumDigits\bin\Debug\net8.0\5.SumDigits.deps.json
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\5.SumDigits\bin\Debug\net8.0\5.SumDigits.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\5.SumDigits\bin\Debug\net8.0\5.SumDigits.dll
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\5.SumDigits\bin\Debug\net8.0\5.SumDigits.pdb
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\5.SumDigits\obj\Debug\net8.0\5.SumDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\5.SumDigits\obj\Debug\net8.0\5.SumDigits.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\5.SumDigits\obj\Debug\net8.0\5.SumDigits.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\5.SumDigits\obj\Debug\net8.0\5.SumDigits.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\5.SumDigits\obj\Debug\net8.0\5.SumDigits.dll
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\5.SumDigits\obj\Debug\net8.0\refint\5.SumDigits.dll
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\5.SumDigits\obj\Debug\net8.0\5.SumDigits.pdb
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\5.SumDigits\obj\Debug\net8.0\5.SumDigits.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\5.SumDigits\obj\Debug\net8.0\ref\5.SumDigits.dll

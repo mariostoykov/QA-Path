@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\6.TravelSavings\obj\Debug\net8.0\6.TravelSavings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\6.TravelSavings\obj\Debug\net8.0\6.TravelSavings.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\6.TravelSavings\obj\Debug\net8.0\6.TravelSavings.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\6.TravelSavings\obj\Debug\net8.0\6.TravelSavings.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\6.TravelSavings\bin\Debug\net8.0\6.TravelSavings.exe
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\6.TravelSavings\bin\Debug\net8.0\6.TravelSavings.deps.json
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\6.TravelSavings\bin\Debug\net8.0\6.TravelSavings.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\6.TravelSavings\bin\Debug\net8.0\6.TravelSavings.dll
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\6.TravelSavings\bin\Debug\net8.0\6.TravelSavings.pdb
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\6.TravelSavings\obj\Debug\net8.0\6.TravelSavings.dll
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\6.TravelSavings\obj\Debug\net8.0\refint\6.TravelSavings.dll
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\6.TravelSavings\obj\Debug\net8.0\6.TravelSavings.pdb
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\6.TravelSavings\obj\Debug\net8.0\6.TravelSavings.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\6.TravelSavings\obj\Debug\net8.0\ref\6.TravelSavings.dll

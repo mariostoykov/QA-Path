@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\2.DecreasingNumbers\bin\Debug\net8.0\2.DecreasingNumbers.exe
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\2.DecreasingNumbers\bin\Debug\net8.0\2.DecreasingNumbers.deps.json
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\2.DecreasingNumbers\bin\Debug\net8.0\2.DecreasingNumbers.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\2.DecreasingNumbers\bin\Debug\net8.0\2.DecreasingNumbers.dll
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\2.DecreasingNumbers\bin\Debug\net8.0\2.DecreasingNumbers.pdb
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\2.DecreasingNumbers\obj\Debug\net8.0\2.DecreasingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\2.DecreasingNumbers\obj\Debug\net8.0\2.DecreasingNumbers.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\2.DecreasingNumbers\obj\Debug\net8.0\2.DecreasingNumbers.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\2.DecreasingNumbers\obj\Debug\net8.0\2.DecreasingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\2.DecreasingNumbers\obj\Debug\net8.0\2.DecreasingNumbers.dll
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\2.DecreasingNumbers\obj\Debug\net8.0\refint\2.DecreasingNumbers.dll
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\2.DecreasingNumbers\obj\Debug\net8.0\2.DecreasingNumbers.pdb
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\2.DecreasingNumbers\obj\Debug\net8.0\2.DecreasingNumbers.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\4.2 WhileLoop\2.DecreasingNumbers\obj\Debug\net8.0\ref\2.DecreasingNumbers.dll

@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\5.NumberPyramid\bin\Debug\net8.0\5.NumberPyramid.exe
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\5.NumberPyramid\bin\Debug\net8.0\5.NumberPyramid.deps.json
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\5.NumberPyramid\bin\Debug\net8.0\5.NumberPyramid.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\5.NumberPyramid\bin\Debug\net8.0\5.NumberPyramid.dll
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\5.NumberPyramid\bin\Debug\net8.0\5.NumberPyramid.pdb
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\5.NumberPyramid\obj\Debug\net8.0\5.NumberPyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\5.NumberPyramid\obj\Debug\net8.0\5.NumberPyramid.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\5.NumberPyramid\obj\Debug\net8.0\5.NumberPyramid.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\5.NumberPyramid\obj\Debug\net8.0\5.NumberPyramid.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\5.NumberPyramid\obj\Debug\net8.0\5.NumberPyramid.dll
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\5.NumberPyramid\obj\Debug\net8.0\refint\5.NumberPyramid.dll
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\5.NumberPyramid\obj\Debug\net8.0\5.NumberPyramid.pdb
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\5.NumberPyramid\obj\Debug\net8.0\5.NumberPyramid.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\5.1.NestedLoops\5.NumberPyramid\obj\Debug\net8.0\ref\5.NumberPyramid.dll
