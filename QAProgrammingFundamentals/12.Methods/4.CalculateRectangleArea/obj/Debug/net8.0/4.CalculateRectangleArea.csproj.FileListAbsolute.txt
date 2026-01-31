@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\5.2.Methods\4.CalculateRectangleArea\bin\Debug\net8.0\4.CalculateRectangleArea.exe
+C:\Users\TOSHIBA\source\repos\5.2.Methods\4.CalculateRectangleArea\bin\Debug\net8.0\4.CalculateRectangleArea.deps.json
+C:\Users\TOSHIBA\source\repos\5.2.Methods\4.CalculateRectangleArea\bin\Debug\net8.0\4.CalculateRectangleArea.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\5.2.Methods\4.CalculateRectangleArea\bin\Debug\net8.0\4.CalculateRectangleArea.dll
+C:\Users\TOSHIBA\source\repos\5.2.Methods\4.CalculateRectangleArea\bin\Debug\net8.0\4.CalculateRectangleArea.pdb
+C:\Users\TOSHIBA\source\repos\5.2.Methods\4.CalculateRectangleArea\obj\Debug\net8.0\4.CalculateRectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\5.2.Methods\4.CalculateRectangleArea\obj\Debug\net8.0\4.CalculateRectangleArea.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\5.2.Methods\4.CalculateRectangleArea\obj\Debug\net8.0\4.CalculateRectangleArea.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\5.2.Methods\4.CalculateRectangleArea\obj\Debug\net8.0\4.CalculateRectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\5.2.Methods\4.CalculateRectangleArea\obj\Debug\net8.0\4.CalculateRectangleArea.dll
+C:\Users\TOSHIBA\source\repos\5.2.Methods\4.CalculateRectangleArea\obj\Debug\net8.0\refint\4.CalculateRectangleArea.dll
+C:\Users\TOSHIBA\source\repos\5.2.Methods\4.CalculateRectangleArea\obj\Debug\net8.0\4.CalculateRectangleArea.pdb
+C:\Users\TOSHIBA\source\repos\5.2.Methods\4.CalculateRectangleArea\obj\Debug\net8.0\4.CalculateRectangleArea.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\5.2.Methods\4.CalculateRectangleArea\obj\Debug\net8.0\ref\4.CalculateRectangleArea.dll

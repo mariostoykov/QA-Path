@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\5.2.Methods\2.Grades\bin\Debug\net8.0\2.Grades.exe
+C:\Users\TOSHIBA\source\repos\5.2.Methods\2.Grades\bin\Debug\net8.0\2.Grades.deps.json
+C:\Users\TOSHIBA\source\repos\5.2.Methods\2.Grades\bin\Debug\net8.0\2.Grades.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\5.2.Methods\2.Grades\bin\Debug\net8.0\2.Grades.dll
+C:\Users\TOSHIBA\source\repos\5.2.Methods\2.Grades\bin\Debug\net8.0\2.Grades.pdb
+C:\Users\TOSHIBA\source\repos\5.2.Methods\2.Grades\obj\Debug\net8.0\2.Grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\5.2.Methods\2.Grades\obj\Debug\net8.0\2.Grades.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\5.2.Methods\2.Grades\obj\Debug\net8.0\2.Grades.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\5.2.Methods\2.Grades\obj\Debug\net8.0\2.Grades.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\5.2.Methods\2.Grades\obj\Debug\net8.0\2.Grades.dll
+C:\Users\TOSHIBA\source\repos\5.2.Methods\2.Grades\obj\Debug\net8.0\refint\2.Grades.dll
+C:\Users\TOSHIBA\source\repos\5.2.Methods\2.Grades\obj\Debug\net8.0\2.Grades.pdb
+C:\Users\TOSHIBA\source\repos\5.2.Methods\2.Grades\obj\Debug\net8.0\2.Grades.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\5.2.Methods\2.Grades\obj\Debug\net8.0\ref\2.Grades.dll

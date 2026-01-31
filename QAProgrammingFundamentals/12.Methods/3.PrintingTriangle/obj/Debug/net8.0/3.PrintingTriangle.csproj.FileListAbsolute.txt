@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\5.2.Methods\3.PrintingTriangle\bin\Debug\net8.0\3.PrintingTriangle.exe
+C:\Users\TOSHIBA\source\repos\5.2.Methods\3.PrintingTriangle\bin\Debug\net8.0\3.PrintingTriangle.deps.json
+C:\Users\TOSHIBA\source\repos\5.2.Methods\3.PrintingTriangle\bin\Debug\net8.0\3.PrintingTriangle.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\5.2.Methods\3.PrintingTriangle\bin\Debug\net8.0\3.PrintingTriangle.dll
+C:\Users\TOSHIBA\source\repos\5.2.Methods\3.PrintingTriangle\bin\Debug\net8.0\3.PrintingTriangle.pdb
+C:\Users\TOSHIBA\source\repos\5.2.Methods\3.PrintingTriangle\obj\Debug\net8.0\3.PrintingTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\5.2.Methods\3.PrintingTriangle\obj\Debug\net8.0\3.PrintingTriangle.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\5.2.Methods\3.PrintingTriangle\obj\Debug\net8.0\3.PrintingTriangle.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\5.2.Methods\3.PrintingTriangle\obj\Debug\net8.0\3.PrintingTriangle.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\5.2.Methods\3.PrintingTriangle\obj\Debug\net8.0\3.PrintingTriangle.dll
+C:\Users\TOSHIBA\source\repos\5.2.Methods\3.PrintingTriangle\obj\Debug\net8.0\refint\3.PrintingTriangle.dll
+C:\Users\TOSHIBA\source\repos\5.2.Methods\3.PrintingTriangle\obj\Debug\net8.0\3.PrintingTriangle.pdb
+C:\Users\TOSHIBA\source\repos\5.2.Methods\3.PrintingTriangle\obj\Debug\net8.0\3.PrintingTriangle.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\5.2.Methods\3.PrintingTriangle\obj\Debug\net8.0\ref\3.PrintingTriangle.dll

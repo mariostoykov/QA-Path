@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\5.2.Methods\5.2.Methods\bin\Debug\net8.0\1.SignOfIntegerNumber.exe
+C:\Users\TOSHIBA\source\repos\5.2.Methods\5.2.Methods\bin\Debug\net8.0\1.SignOfIntegerNumber.deps.json
+C:\Users\TOSHIBA\source\repos\5.2.Methods\5.2.Methods\bin\Debug\net8.0\1.SignOfIntegerNumber.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\5.2.Methods\5.2.Methods\bin\Debug\net8.0\1.SignOfIntegerNumber.dll
+C:\Users\TOSHIBA\source\repos\5.2.Methods\5.2.Methods\bin\Debug\net8.0\1.SignOfIntegerNumber.pdb
+C:\Users\TOSHIBA\source\repos\5.2.Methods\5.2.Methods\obj\Debug\net8.0\1.SignOfIntegerNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\5.2.Methods\5.2.Methods\obj\Debug\net8.0\1.SignOfIntegerNumber.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\5.2.Methods\5.2.Methods\obj\Debug\net8.0\1.SignOfIntegerNumber.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\5.2.Methods\5.2.Methods\obj\Debug\net8.0\1.SignOfIntegerNumber.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\5.2.Methods\5.2.Methods\obj\Debug\net8.0\1.SignOfIntegerNumber.dll
+C:\Users\TOSHIBA\source\repos\5.2.Methods\5.2.Methods\obj\Debug\net8.0\refint\1.SignOfIntegerNumber.dll
+C:\Users\TOSHIBA\source\repos\5.2.Methods\5.2.Methods\obj\Debug\net8.0\1.SignOfIntegerNumber.pdb
+C:\Users\TOSHIBA\source\repos\5.2.Methods\5.2.Methods\obj\Debug\net8.0\1.SignOfIntegerNumber.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\5.2.Methods\5.2.Methods\obj\Debug\net8.0\ref\1.SignOfIntegerNumber.dll
