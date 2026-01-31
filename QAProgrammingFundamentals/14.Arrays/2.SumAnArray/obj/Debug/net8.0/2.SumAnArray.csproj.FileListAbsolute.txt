@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\6.1.Arrays\2.SumAnArray\bin\Debug\net8.0\2.SumAnArray.exe
+C:\Users\TOSHIBA\source\repos\6.1.Arrays\2.SumAnArray\bin\Debug\net8.0\2.SumAnArray.deps.json
+C:\Users\TOSHIBA\source\repos\6.1.Arrays\2.SumAnArray\bin\Debug\net8.0\2.SumAnArray.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\6.1.Arrays\2.SumAnArray\bin\Debug\net8.0\2.SumAnArray.dll
+C:\Users\TOSHIBA\source\repos\6.1.Arrays\2.SumAnArray\bin\Debug\net8.0\2.SumAnArray.pdb
+C:\Users\TOSHIBA\source\repos\6.1.Arrays\2.SumAnArray\obj\Debug\net8.0\2.SumAnArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\6.1.Arrays\2.SumAnArray\obj\Debug\net8.0\2.SumAnArray.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\6.1.Arrays\2.SumAnArray\obj\Debug\net8.0\2.SumAnArray.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\6.1.Arrays\2.SumAnArray\obj\Debug\net8.0\2.SumAnArray.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\6.1.Arrays\2.SumAnArray\obj\Debug\net8.0\2.SumAnArray.dll
+C:\Users\TOSHIBA\source\repos\6.1.Arrays\2.SumAnArray\obj\Debug\net8.0\refint\2.SumAnArray.dll
+C:\Users\TOSHIBA\source\repos\6.1.Arrays\2.SumAnArray\obj\Debug\net8.0\2.SumAnArray.pdb
+C:\Users\TOSHIBA\source\repos\6.1.Arrays\2.SumAnArray\obj\Debug\net8.0\2.SumAnArray.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\6.1.Arrays\2.SumAnArray\obj\Debug\net8.0\ref\2.SumAnArray.dll

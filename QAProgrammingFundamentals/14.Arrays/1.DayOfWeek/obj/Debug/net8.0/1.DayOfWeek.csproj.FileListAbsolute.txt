@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\6.1.Arrays\6.1.Arrays\bin\Debug\net8.0\1.DayOfWeek.exe
+C:\Users\TOSHIBA\source\repos\6.1.Arrays\6.1.Arrays\bin\Debug\net8.0\1.DayOfWeek.deps.json
+C:\Users\TOSHIBA\source\repos\6.1.Arrays\6.1.Arrays\bin\Debug\net8.0\1.DayOfWeek.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\6.1.Arrays\6.1.Arrays\bin\Debug\net8.0\1.DayOfWeek.dll
+C:\Users\TOSHIBA\source\repos\6.1.Arrays\6.1.Arrays\bin\Debug\net8.0\1.DayOfWeek.pdb
+C:\Users\TOSHIBA\source\repos\6.1.Arrays\6.1.Arrays\obj\Debug\net8.0\1.DayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\6.1.Arrays\6.1.Arrays\obj\Debug\net8.0\1.DayOfWeek.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\6.1.Arrays\6.1.Arrays\obj\Debug\net8.0\1.DayOfWeek.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\6.1.Arrays\6.1.Arrays\obj\Debug\net8.0\1.DayOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\6.1.Arrays\6.1.Arrays\obj\Debug\net8.0\1.DayOfWeek.dll
+C:\Users\TOSHIBA\source\repos\6.1.Arrays\6.1.Arrays\obj\Debug\net8.0\refint\1.DayOfWeek.dll
+C:\Users\TOSHIBA\source\repos\6.1.Arrays\6.1.Arrays\obj\Debug\net8.0\1.DayOfWeek.pdb
+C:\Users\TOSHIBA\source\repos\6.1.Arrays\6.1.Arrays\obj\Debug\net8.0\1.DayOfWeek.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\6.1.Arrays\6.1.Arrays\obj\Debug\net8.0\ref\1.DayOfWeek.dll

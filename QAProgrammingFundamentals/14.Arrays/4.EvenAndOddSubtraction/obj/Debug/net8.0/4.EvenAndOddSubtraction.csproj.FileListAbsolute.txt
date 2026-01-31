@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\6.1.Arrays\4.EvenAndOddSubtraction\bin\Debug\net8.0\4.EvenAndOddSubtraction.exe
+C:\Users\TOSHIBA\source\repos\6.1.Arrays\4.EvenAndOddSubtraction\bin\Debug\net8.0\4.EvenAndOddSubtraction.deps.json
+C:\Users\TOSHIBA\source\repos\6.1.Arrays\4.EvenAndOddSubtraction\bin\Debug\net8.0\4.EvenAndOddSubtraction.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\6.1.Arrays\4.EvenAndOddSubtraction\bin\Debug\net8.0\4.EvenAndOddSubtraction.dll
+C:\Users\TOSHIBA\source\repos\6.1.Arrays\4.EvenAndOddSubtraction\bin\Debug\net8.0\4.EvenAndOddSubtraction.pdb
+C:\Users\TOSHIBA\source\repos\6.1.Arrays\4.EvenAndOddSubtraction\obj\Debug\net8.0\4.EvenAndOddSubtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\6.1.Arrays\4.EvenAndOddSubtraction\obj\Debug\net8.0\4.EvenAndOddSubtraction.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\6.1.Arrays\4.EvenAndOddSubtraction\obj\Debug\net8.0\4.EvenAndOddSubtraction.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\6.1.Arrays\4.EvenAndOddSubtraction\obj\Debug\net8.0\4.EvenAndOddSubtraction.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\6.1.Arrays\4.EvenAndOddSubtraction\obj\Debug\net8.0\4.EvenAndOddSubtraction.dll
+C:\Users\TOSHIBA\source\repos\6.1.Arrays\4.EvenAndOddSubtraction\obj\Debug\net8.0\refint\4.EvenAndOddSubtraction.dll
+C:\Users\TOSHIBA\source\repos\6.1.Arrays\4.EvenAndOddSubtraction\obj\Debug\net8.0\4.EvenAndOddSubtraction.pdb
+C:\Users\TOSHIBA\source\repos\6.1.Arrays\4.EvenAndOddSubtraction\obj\Debug\net8.0\4.EvenAndOddSubtraction.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\6.1.Arrays\4.EvenAndOddSubtraction\obj\Debug\net8.0\ref\4.EvenAndOddSubtraction.dll
