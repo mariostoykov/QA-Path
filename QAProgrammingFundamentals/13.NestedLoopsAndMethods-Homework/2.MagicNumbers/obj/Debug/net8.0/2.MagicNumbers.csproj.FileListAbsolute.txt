@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\5.3.NestedLoopsAndMethods\2.MagicNumbers\bin\Debug\net8.0\2.MagicNumbers.exe
+C:\Users\TOSHIBA\source\repos\5.3.NestedLoopsAndMethods\2.MagicNumbers\bin\Debug\net8.0\2.MagicNumbers.deps.json
+C:\Users\TOSHIBA\source\repos\5.3.NestedLoopsAndMethods\2.MagicNumbers\bin\Debug\net8.0\2.MagicNumbers.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\5.3.NestedLoopsAndMethods\2.MagicNumbers\bin\Debug\net8.0\2.MagicNumbers.dll
+C:\Users\TOSHIBA\source\repos\5.3.NestedLoopsAndMethods\2.MagicNumbers\bin\Debug\net8.0\2.MagicNumbers.pdb
+C:\Users\TOSHIBA\source\repos\5.3.NestedLoopsAndMethods\2.MagicNumbers\obj\Debug\net8.0\2.MagicNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\5.3.NestedLoopsAndMethods\2.MagicNumbers\obj\Debug\net8.0\2.MagicNumbers.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\5.3.NestedLoopsAndMethods\2.MagicNumbers\obj\Debug\net8.0\2.MagicNumbers.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\5.3.NestedLoopsAndMethods\2.MagicNumbers\obj\Debug\net8.0\2.MagicNumbers.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\5.3.NestedLoopsAndMethods\2.MagicNumbers\obj\Debug\net8.0\2.MagicNumbers.dll
+C:\Users\TOSHIBA\source\repos\5.3.NestedLoopsAndMethods\2.MagicNumbers\obj\Debug\net8.0\refint\2.MagicNumbers.dll
+C:\Users\TOSHIBA\source\repos\5.3.NestedLoopsAndMethods\2.MagicNumbers\obj\Debug\net8.0\2.MagicNumbers.pdb
+C:\Users\TOSHIBA\source\repos\5.3.NestedLoopsAndMethods\2.MagicNumbers\obj\Debug\net8.0\2.MagicNumbers.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\5.3.NestedLoopsAndMethods\2.MagicNumbers\obj\Debug\net8.0\ref\2.MagicNumbers.dll

@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\5.3.NestedLoopsAndMethods\4.LetterCombinations\bin\Debug\net8.0\4.LetterCombinations.exe
+C:\Users\TOSHIBA\source\repos\5.3.NestedLoopsAndMethods\4.LetterCombinations\bin\Debug\net8.0\4.LetterCombinations.deps.json
+C:\Users\TOSHIBA\source\repos\5.3.NestedLoopsAndMethods\4.LetterCombinations\bin\Debug\net8.0\4.LetterCombinations.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\5.3.NestedLoopsAndMethods\4.LetterCombinations\bin\Debug\net8.0\4.LetterCombinations.dll
+C:\Users\TOSHIBA\source\repos\5.3.NestedLoopsAndMethods\4.LetterCombinations\bin\Debug\net8.0\4.LetterCombinations.pdb
+C:\Users\TOSHIBA\source\repos\5.3.NestedLoopsAndMethods\4.LetterCombinations\obj\Debug\net8.0\4.LetterCombinations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\5.3.NestedLoopsAndMethods\4.LetterCombinations\obj\Debug\net8.0\4.LetterCombinations.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\5.3.NestedLoopsAndMethods\4.LetterCombinations\obj\Debug\net8.0\4.LetterCombinations.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\5.3.NestedLoopsAndMethods\4.LetterCombinations\obj\Debug\net8.0\4.LetterCombinations.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\5.3.NestedLoopsAndMethods\4.LetterCombinations\obj\Debug\net8.0\4.LetterCombinations.dll
+C:\Users\TOSHIBA\source\repos\5.3.NestedLoopsAndMethods\4.LetterCombinations\obj\Debug\net8.0\refint\4.LetterCombinations.dll
+C:\Users\TOSHIBA\source\repos\5.3.NestedLoopsAndMethods\4.LetterCombinations\obj\Debug\net8.0\4.LetterCombinations.pdb
+C:\Users\TOSHIBA\source\repos\5.3.NestedLoopsAndMethods\4.LetterCombinations\obj\Debug\net8.0\4.LetterCombinations.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\5.3.NestedLoopsAndMethods\4.LetterCombinations\obj\Debug\net8.0\ref\4.LetterCombinations.dll

@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\5.3.NestedLoopsAndMethods\3.UniquePINCodes\bin\Debug\net8.0\3.UniquePINCodes.exe
+C:\Users\TOSHIBA\source\repos\5.3.NestedLoopsAndMethods\3.UniquePINCodes\bin\Debug\net8.0\3.UniquePINCodes.deps.json
+C:\Users\TOSHIBA\source\repos\5.3.NestedLoopsAndMethods\3.UniquePINCodes\bin\Debug\net8.0\3.UniquePINCodes.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\5.3.NestedLoopsAndMethods\3.UniquePINCodes\bin\Debug\net8.0\3.UniquePINCodes.dll
+C:\Users\TOSHIBA\source\repos\5.3.NestedLoopsAndMethods\3.UniquePINCodes\bin\Debug\net8.0\3.UniquePINCodes.pdb
+C:\Users\TOSHIBA\source\repos\5.3.NestedLoopsAndMethods\3.UniquePINCodes\obj\Debug\net8.0\3.UniquePINCodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\5.3.NestedLoopsAndMethods\3.UniquePINCodes\obj\Debug\net8.0\3.UniquePINCodes.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\5.3.NestedLoopsAndMethods\3.UniquePINCodes\obj\Debug\net8.0\3.UniquePINCodes.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\5.3.NestedLoopsAndMethods\3.UniquePINCodes\obj\Debug\net8.0\3.UniquePINCodes.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\5.3.NestedLoopsAndMethods\3.UniquePINCodes\obj\Debug\net8.0\3.UniquePINCodes.dll
+C:\Users\TOSHIBA\source\repos\5.3.NestedLoopsAndMethods\3.UniquePINCodes\obj\Debug\net8.0\refint\3.UniquePINCodes.dll
+C:\Users\TOSHIBA\source\repos\5.3.NestedLoopsAndMethods\3.UniquePINCodes\obj\Debug\net8.0\3.UniquePINCodes.pdb
+C:\Users\TOSHIBA\source\repos\5.3.NestedLoopsAndMethods\3.UniquePINCodes\obj\Debug\net8.0\3.UniquePINCodes.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\5.3.NestedLoopsAndMethods\3.UniquePINCodes\obj\Debug\net8.0\ref\3.UniquePINCodes.dll

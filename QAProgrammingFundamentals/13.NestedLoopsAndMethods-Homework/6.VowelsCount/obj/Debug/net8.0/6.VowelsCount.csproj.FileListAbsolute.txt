@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\5.3.NestedLoopsAndMethods\6.VowelsCount\obj\Debug\net8.0\6.VowelsCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\5.3.NestedLoopsAndMethods\6.VowelsCount\obj\Debug\net8.0\6.VowelsCount.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\5.3.NestedLoopsAndMethods\6.VowelsCount\obj\Debug\net8.0\6.VowelsCount.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\5.3.NestedLoopsAndMethods\6.VowelsCount\obj\Debug\net8.0\6.VowelsCount.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\5.3.NestedLoopsAndMethods\6.VowelsCount\bin\Debug\net8.0\6.VowelsCount.exe
+C:\Users\TOSHIBA\source\repos\5.3.NestedLoopsAndMethods\6.VowelsCount\bin\Debug\net8.0\6.VowelsCount.deps.json
+C:\Users\TOSHIBA\source\repos\5.3.NestedLoopsAndMethods\6.VowelsCount\bin\Debug\net8.0\6.VowelsCount.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\5.3.NestedLoopsAndMethods\6.VowelsCount\bin\Debug\net8.0\6.VowelsCount.dll
+C:\Users\TOSHIBA\source\repos\5.3.NestedLoopsAndMethods\6.VowelsCount\bin\Debug\net8.0\6.VowelsCount.pdb
+C:\Users\TOSHIBA\source\repos\5.3.NestedLoopsAndMethods\6.VowelsCount\obj\Debug\net8.0\6.VowelsCount.dll
+C:\Users\TOSHIBA\source\repos\5.3.NestedLoopsAndMethods\6.VowelsCount\obj\Debug\net8.0\refint\6.VowelsCount.dll
+C:\Users\TOSHIBA\source\repos\5.3.NestedLoopsAndMethods\6.VowelsCount\obj\Debug\net8.0\6.VowelsCount.pdb
+C:\Users\TOSHIBA\source\repos\5.3.NestedLoopsAndMethods\6.VowelsCount\obj\Debug\net8.0\6.VowelsCount.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\5.3.NestedLoopsAndMethods\6.VowelsCount\obj\Debug\net8.0\ref\6.VowelsCount.dll

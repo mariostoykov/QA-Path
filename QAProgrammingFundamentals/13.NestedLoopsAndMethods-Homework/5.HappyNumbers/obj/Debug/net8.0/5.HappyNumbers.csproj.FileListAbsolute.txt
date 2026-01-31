@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\5.3.Homework-NestedLoopsAndMethods\5.HappyNumbers\obj\Debug\net8.0\5.HappyNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\5.3.Homework-NestedLoopsAndMethods\5.HappyNumbers\obj\Debug\net8.0\5.HappyNumbers.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\5.3.Homework-NestedLoopsAndMethods\5.HappyNumbers\obj\Debug\net8.0\5.HappyNumbers.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\5.3.Homework-NestedLoopsAndMethods\5.HappyNumbers\obj\Debug\net8.0\5.HappyNumbers.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\5.3.Homework-NestedLoopsAndMethods\5.HappyNumbers\bin\Debug\net8.0\5.HappyNumbers.exe
+C:\Users\TOSHIBA\source\repos\5.3.Homework-NestedLoopsAndMethods\5.HappyNumbers\bin\Debug\net8.0\5.HappyNumbers.deps.json
+C:\Users\TOSHIBA\source\repos\5.3.Homework-NestedLoopsAndMethods\5.HappyNumbers\bin\Debug\net8.0\5.HappyNumbers.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\5.3.Homework-NestedLoopsAndMethods\5.HappyNumbers\bin\Debug\net8.0\5.HappyNumbers.dll
+C:\Users\TOSHIBA\source\repos\5.3.Homework-NestedLoopsAndMethods\5.HappyNumbers\bin\Debug\net8.0\5.HappyNumbers.pdb
+C:\Users\TOSHIBA\source\repos\5.3.Homework-NestedLoopsAndMethods\5.HappyNumbers\obj\Debug\net8.0\5.HappyNumbers.dll
+C:\Users\TOSHIBA\source\repos\5.3.Homework-NestedLoopsAndMethods\5.HappyNumbers\obj\Debug\net8.0\refint\5.HappyNumbers.dll
+C:\Users\TOSHIBA\source\repos\5.3.Homework-NestedLoopsAndMethods\5.HappyNumbers\obj\Debug\net8.0\5.HappyNumbers.pdb
+C:\Users\TOSHIBA\source\repos\5.3.Homework-NestedLoopsAndMethods\5.HappyNumbers\obj\Debug\net8.0\5.HappyNumbers.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\5.3.Homework-NestedLoopsAndMethods\5.HappyNumbers\obj\Debug\net8.0\ref\5.HappyNumbers.dll
