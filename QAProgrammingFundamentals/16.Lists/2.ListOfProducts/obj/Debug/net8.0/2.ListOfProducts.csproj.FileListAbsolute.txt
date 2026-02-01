@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\7.1.Lists\2.ListOfProducts\bin\Debug\net8.0\2.ListOfProducts.exe
+C:\Users\TOSHIBA\source\repos\7.1.Lists\2.ListOfProducts\bin\Debug\net8.0\2.ListOfProducts.deps.json
+C:\Users\TOSHIBA\source\repos\7.1.Lists\2.ListOfProducts\bin\Debug\net8.0\2.ListOfProducts.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\7.1.Lists\2.ListOfProducts\bin\Debug\net8.0\2.ListOfProducts.dll
+C:\Users\TOSHIBA\source\repos\7.1.Lists\2.ListOfProducts\bin\Debug\net8.0\2.ListOfProducts.pdb
+C:\Users\TOSHIBA\source\repos\7.1.Lists\2.ListOfProducts\obj\Debug\net8.0\2.ListOfProducts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\7.1.Lists\2.ListOfProducts\obj\Debug\net8.0\2.ListOfProducts.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\7.1.Lists\2.ListOfProducts\obj\Debug\net8.0\2.ListOfProducts.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\7.1.Lists\2.ListOfProducts\obj\Debug\net8.0\2.ListOfProducts.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\7.1.Lists\2.ListOfProducts\obj\Debug\net8.0\2.ListOfProducts.dll
+C:\Users\TOSHIBA\source\repos\7.1.Lists\2.ListOfProducts\obj\Debug\net8.0\refint\2.ListOfProducts.dll
+C:\Users\TOSHIBA\source\repos\7.1.Lists\2.ListOfProducts\obj\Debug\net8.0\2.ListOfProducts.pdb
+C:\Users\TOSHIBA\source\repos\7.1.Lists\2.ListOfProducts\obj\Debug\net8.0\2.ListOfProducts.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\7.1.Lists\2.ListOfProducts\obj\Debug\net8.0\ref\2.ListOfProducts.dll
