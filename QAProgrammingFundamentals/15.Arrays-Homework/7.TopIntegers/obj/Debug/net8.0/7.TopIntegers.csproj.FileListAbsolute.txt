@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\7.TopIntegers\bin\Debug\net8.0\7.TopIntegers.exe
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\7.TopIntegers\bin\Debug\net8.0\7.TopIntegers.deps.json
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\7.TopIntegers\bin\Debug\net8.0\7.TopIntegers.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\7.TopIntegers\bin\Debug\net8.0\7.TopIntegers.dll
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\7.TopIntegers\bin\Debug\net8.0\7.TopIntegers.pdb
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\7.TopIntegers\obj\Debug\net8.0\7.TopIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\7.TopIntegers\obj\Debug\net8.0\7.TopIntegers.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\7.TopIntegers\obj\Debug\net8.0\7.TopIntegers.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\7.TopIntegers\obj\Debug\net8.0\7.TopIntegers.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\7.TopIntegers\obj\Debug\net8.0\7.TopIntegers.dll
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\7.TopIntegers\obj\Debug\net8.0\refint\7.TopIntegers.dll
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\7.TopIntegers\obj\Debug\net8.0\7.TopIntegers.pdb
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\7.TopIntegers\obj\Debug\net8.0\7.TopIntegers.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\7.TopIntegers\obj\Debug\net8.0\ref\7.TopIntegers.dll

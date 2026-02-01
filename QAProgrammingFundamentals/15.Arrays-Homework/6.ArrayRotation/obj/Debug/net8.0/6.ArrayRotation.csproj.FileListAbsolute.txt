@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\6.ArrayRotation\bin\Debug\net8.0\6.ArrayRotation.exe
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\6.ArrayRotation\bin\Debug\net8.0\6.ArrayRotation.deps.json
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\6.ArrayRotation\bin\Debug\net8.0\6.ArrayRotation.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\6.ArrayRotation\bin\Debug\net8.0\6.ArrayRotation.dll
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\6.ArrayRotation\bin\Debug\net8.0\6.ArrayRotation.pdb
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\6.ArrayRotation\obj\Debug\net8.0\6.ArrayRotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\6.ArrayRotation\obj\Debug\net8.0\6.ArrayRotation.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\6.ArrayRotation\obj\Debug\net8.0\6.ArrayRotation.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\6.ArrayRotation\obj\Debug\net8.0\6.ArrayRotation.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\6.ArrayRotation\obj\Debug\net8.0\6.ArrayRotation.dll
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\6.ArrayRotation\obj\Debug\net8.0\refint\6.ArrayRotation.dll
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\6.ArrayRotation\obj\Debug\net8.0\6.ArrayRotation.pdb
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\6.ArrayRotation\obj\Debug\net8.0\6.ArrayRotation.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\6.ArrayRotation\obj\Debug\net8.0\ref\6.ArrayRotation.dll

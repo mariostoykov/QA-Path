@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\6.2.Homework.Arrays\bin\Debug\net8.0\1.EqualArrays.exe
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\6.2.Homework.Arrays\bin\Debug\net8.0\1.EqualArrays.deps.json
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\6.2.Homework.Arrays\bin\Debug\net8.0\1.EqualArrays.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\6.2.Homework.Arrays\bin\Debug\net8.0\1.EqualArrays.dll
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\6.2.Homework.Arrays\bin\Debug\net8.0\1.EqualArrays.pdb
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\6.2.Homework.Arrays\obj\Debug\net8.0\1.EqualArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\6.2.Homework.Arrays\obj\Debug\net8.0\1.EqualArrays.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\6.2.Homework.Arrays\obj\Debug\net8.0\1.EqualArrays.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\6.2.Homework.Arrays\obj\Debug\net8.0\1.EqualArrays.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\6.2.Homework.Arrays\obj\Debug\net8.0\1.EqualArrays.dll
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\6.2.Homework.Arrays\obj\Debug\net8.0\refint\1.EqualArrays.dll
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\6.2.Homework.Arrays\obj\Debug\net8.0\1.EqualArrays.pdb
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\6.2.Homework.Arrays\obj\Debug\net8.0\1.EqualArrays.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\6.2.Homework.Arrays\obj\Debug\net8.0\ref\1.EqualArrays.dll

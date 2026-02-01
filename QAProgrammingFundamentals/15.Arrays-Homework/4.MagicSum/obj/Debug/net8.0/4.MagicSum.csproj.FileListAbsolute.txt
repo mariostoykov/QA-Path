@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\4.MagicSum\bin\Debug\net8.0\4.MagicSum.exe
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\4.MagicSum\bin\Debug\net8.0\4.MagicSum.deps.json
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\4.MagicSum\bin\Debug\net8.0\4.MagicSum.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\4.MagicSum\bin\Debug\net8.0\4.MagicSum.dll
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\4.MagicSum\bin\Debug\net8.0\4.MagicSum.pdb
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\4.MagicSum\obj\Debug\net8.0\4.MagicSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\4.MagicSum\obj\Debug\net8.0\4.MagicSum.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\4.MagicSum\obj\Debug\net8.0\4.MagicSum.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\4.MagicSum\obj\Debug\net8.0\4.MagicSum.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\4.MagicSum\obj\Debug\net8.0\4.MagicSum.dll
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\4.MagicSum\obj\Debug\net8.0\refint\4.MagicSum.dll
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\4.MagicSum\obj\Debug\net8.0\4.MagicSum.pdb
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\4.MagicSum\obj\Debug\net8.0\4.MagicSum.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\4.MagicSum\obj\Debug\net8.0\ref\4.MagicSum.dll

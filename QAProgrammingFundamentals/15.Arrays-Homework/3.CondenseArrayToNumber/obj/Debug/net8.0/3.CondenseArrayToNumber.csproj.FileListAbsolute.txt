@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\3.CondenseArrayToNumber\bin\Debug\net8.0\3.CondenseArrayToNumber.exe
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\3.CondenseArrayToNumber\bin\Debug\net8.0\3.CondenseArrayToNumber.deps.json
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\3.CondenseArrayToNumber\bin\Debug\net8.0\3.CondenseArrayToNumber.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\3.CondenseArrayToNumber\bin\Debug\net8.0\3.CondenseArrayToNumber.dll
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\3.CondenseArrayToNumber\bin\Debug\net8.0\3.CondenseArrayToNumber.pdb
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\3.CondenseArrayToNumber\obj\Debug\net8.0\3.CondenseArrayToNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\3.CondenseArrayToNumber\obj\Debug\net8.0\3.CondenseArrayToNumber.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\3.CondenseArrayToNumber\obj\Debug\net8.0\3.CondenseArrayToNumber.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\3.CondenseArrayToNumber\obj\Debug\net8.0\3.CondenseArrayToNumber.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\3.CondenseArrayToNumber\obj\Debug\net8.0\3.CondenseArrayToNumber.dll
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\3.CondenseArrayToNumber\obj\Debug\net8.0\refint\3.CondenseArrayToNumber.dll
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\3.CondenseArrayToNumber\obj\Debug\net8.0\3.CondenseArrayToNumber.pdb
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\3.CondenseArrayToNumber\obj\Debug\net8.0\3.CondenseArrayToNumber.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\6.2.Homework.Arrays\3.CondenseArrayToNumber\obj\Debug\net8.0\ref\3.CondenseArrayToNumber.dll
