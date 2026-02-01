@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\7.2.Lists-Homework\3.ListOperations\bin\Debug\net8.0\3.ListOperations.exe
+C:\Users\TOSHIBA\source\repos\7.2.Lists-Homework\3.ListOperations\bin\Debug\net8.0\3.ListOperations.deps.json
+C:\Users\TOSHIBA\source\repos\7.2.Lists-Homework\3.ListOperations\bin\Debug\net8.0\3.ListOperations.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\7.2.Lists-Homework\3.ListOperations\bin\Debug\net8.0\3.ListOperations.dll
+C:\Users\TOSHIBA\source\repos\7.2.Lists-Homework\3.ListOperations\bin\Debug\net8.0\3.ListOperations.pdb
+C:\Users\TOSHIBA\source\repos\7.2.Lists-Homework\3.ListOperations\obj\Debug\net8.0\3.ListOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\7.2.Lists-Homework\3.ListOperations\obj\Debug\net8.0\3.ListOperations.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\7.2.Lists-Homework\3.ListOperations\obj\Debug\net8.0\3.ListOperations.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\7.2.Lists-Homework\3.ListOperations\obj\Debug\net8.0\3.ListOperations.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\7.2.Lists-Homework\3.ListOperations\obj\Debug\net8.0\3.ListOperations.dll
+C:\Users\TOSHIBA\source\repos\7.2.Lists-Homework\3.ListOperations\obj\Debug\net8.0\refint\3.ListOperations.dll
+C:\Users\TOSHIBA\source\repos\7.2.Lists-Homework\3.ListOperations\obj\Debug\net8.0\3.ListOperations.pdb
+C:\Users\TOSHIBA\source\repos\7.2.Lists-Homework\3.ListOperations\obj\Debug\net8.0\3.ListOperations.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\7.2.Lists-Homework\3.ListOperations\obj\Debug\net8.0\ref\3.ListOperations.dll
