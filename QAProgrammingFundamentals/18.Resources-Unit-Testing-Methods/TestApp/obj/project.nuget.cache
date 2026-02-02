@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UTROgj5s19U=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TOSHIBA\\Downloads\\QA path\\Programming for QA\\Programming Fundamentals and Unit Testing\\07.1.Resources-Unit-Testing-Methods\\TestApp\\TestApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TOSHIBA\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\TOSHIBA\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\TOSHIBA\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

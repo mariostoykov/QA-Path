@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
+<coverage line-rate="0.984732824427481" branch-rate="1" lines-covered="129" lines-valid="131" branches-covered="26" branches-valid="26" complexity="42" version="0" timestamp="1740922704">
+  <sources>
+    <source>C:\Users\TOSHIBA\</source>
+  </sources>
+  <packages>
+    <package name="TestApp" line-rate="1" branch-rate="1" complexity="29">
+      <classes>
+        <class name="TestApp.Calculate" filename="C:\Users\TOSHIBA\Downloads\QA path\Programming for QA\Programming Fundamentals and Unit Testing\07.1.Resources-Unit-Testing-Methods\TestApp\Calculate.cs" line-rate="1" branch-rate="1" complexity="2">
+          <methods>
+            <method name="Addition" signature="(...)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="6" hits="1" branch="false" />
+                <line number="7" hits="1" branch="false" />
+                <line number="8" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="Subtraction" signature="(...)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="11" hits="1" branch="false" />
+                <line number="12" hits="1" branch="false" />
+                <line number="13" hits="1" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="6" hits="1" branch="false" />
+            <line number="7" hits="1" branch="false" />
+            <line number="8" hits="1" branch="false" />
+            <line number="11" hits="1" branch="false" />
+            <line number="12" hits="1" branch="false" />
+            <line number="13" hits="1" branch="false" />
+          </lines>
+        </class>
+        <class name="TestApp.Factorial" filename="C:\Users\TOSHIBA\Downloads\QA path\Programming for QA\Programming Fundamentals and Unit Testing\07.1.Resources-Unit-Testing-Methods\TestApp\Factorial.cs" line-rate="1" branch-rate="1" complexity="2">
+          <methods>
+            <method name="CalculateFactorial" signature="(...)" line-rate="1" branch-rate="1" complexity="2">
+              <lines>
+                <line number="8" hits="7" branch="false" />
+                <line number="9" hits="7" branch="true" condition-coverage="100% (2/2)" />
+                <line number="10" hits="2" branch="false" />
+                <line number="11" hits="2" branch="false" />
+                <line number="14" hits="5" branch="false" />
+                <line number="15" hits="7" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="8" hits="7" branch="false" />
+            <line number="9" hits="7" branch="true" condition-coverage="100% (2/2)" />
+            <line number="10" hits="2" branch="false" />
+            <line number="11" hits="2" branch="false" />
+            <line number="14" hits="5" branch="false" />
+            <line number="15" hits="7" branch="false" />
+          </lines>
+        </class>
+        <class name="TestApp.Grades" filename="C:\Users\TOSHIBA\Downloads\QA path\Programming for QA\Programming Fundamentals and Unit Testing\07.1.Resources-Unit-Testing-Methods\TestApp\Grades.cs" line-rate="1" branch-rate="1" complexity="12">
+          <methods>
+            <method name="GradeAsWords" signature="(...)" line-rate="1" branch-rate="1" complexity="12">
+              <lines>
+                <line number="6" hits="9" branch="false" />
+                <line number="7" hits="9" branch="true" condition-coverage="100% (12/12)" />
+                <line number="10" hits="1" branch="false" />
+                <line number="12" hits="1" branch="false" />
+                <line number="14" hits="1" branch="false" />
+                <line number="16" hits="1" branch="false" />
+                <line number="18" hits="1" branch="false" />
+                <line number="20" hits="4" branch="false" />
+                <line number="22" hits="9" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="6" hits="9" branch="false" />
+            <line number="7" hits="9" branch="true" condition-coverage="100% (12/12)" />
+            <line number="10" hits="1" branch="false" />
+            <line number="12" hits="1" branch="false" />
+            <line number="14" hits="1" branch="false" />
+            <line number="16" hits="1" branch="false" />
+            <line number="18" hits="1" branch="false" />
+            <line number="20" hits="4" branch="false" />
+            <line number="22" hits="9" branch="false" />
+          </lines>
+        </class>
+        <class name="TestApp.StringReverse" filename="C:\Users\TOSHIBA\Downloads\QA path\Programming for QA\Programming Fundamentals and Unit Testing\07.1.Resources-Unit-Testing-Methods\TestApp\StringReverse.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="Reverse" signature="(...)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="8" hits="3" branch="false" />
+                <line number="9" hits="3" branch="false" />
+                <line number="10" hits="3" branch="false" />
+                <line number="11" hits="3" branch="false" />
+                <line number="12" hits="3" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="8" hits="3" branch="false" />
+            <line number="9" hits="3" branch="false" />
+            <line number="10" hits="3" branch="false" />
+            <line number="11" hits="3" branch="false" />
+            <line number="12" hits="3" branch="false" />
+          </lines>
+        </class>
+        <class name="TestApp.Triangle" filename="C:\Users\TOSHIBA\Downloads\QA path\Programming for QA\Programming Fundamentals and Unit Testing\07.1.Resources-Unit-Testing-Methods\TestApp\Triangle.cs" line-rate="1" branch-rate="1" complexity="12">
+          <methods>
+            <method name="PrintTriangle" signature="(...)" line-rate="1" branch-rate="1" complexity="12">
+              <lines>
+                <line number="8" hits="3" branch="false" />
+                <line number="9" hits="3" branch="false" />
+                <line number="11" hits="22" branch="true" condition-coverage="100% (2/2)" />
+                <line number="12" hits="8" branch="false" />
+                <line number="13" hits="58" branch="true" condition-coverage="100% (2/2)" />
+                <line number="14" hits="21" branch="false" />
+                <line number="15" hits="21" branch="true" condition-coverage="100% (2/2)" />
+                <line number="16" hits="21" branch="false" />
+                <line number="18" hits="8" branch="false" />
+                <line number="19" hits="8" branch="false" />
+                <line number="21" hits="18" branch="true" condition-coverage="100% (2/2)" />
+                <line number="22" hits="6" branch="false" />
+                <line number="23" hits="38" branch="true" condition-coverage="100% (2/2)" />
+                <line number="24" hits="13" branch="false" />
+                <line number="25" hits="13" branch="true" condition-coverage="100% (2/2)" />
+                <line number="26" hits="13" branch="false" />
+                <line number="28" hits="6" branch="false" />
+                <line number="29" hits="6" branch="false" />
+                <line number="31" hits="3" branch="false" />
+                <line number="32" hits="3" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="8" hits="3" branch="false" />
+            <line number="9" hits="3" branch="false" />
+            <line number="11" hits="22" branch="true" condition-coverage="100% (2/2)" />
+            <line number="12" hits="8" branch="false" />
+            <line number="13" hits="58" branch="true" condition-coverage="100% (2/2)" />
+            <line number="14" hits="21" branch="false" />
+            <line number="15" hits="21" branch="true" condition-coverage="100% (2/2)" />
+            <line number="16" hits="21" branch="false" />
+            <line number="18" hits="8" branch="false" />
+            <line number="19" hits="8" branch="false" />
+            <line number="21" hits="18" branch="true" condition-coverage="100% (2/2)" />
+            <line number="22" hits="6" branch="false" />
+            <line number="23" hits="38" branch="true" condition-coverage="100% (2/2)" />
+            <line number="24" hits="13" branch="false" />
+            <line number="25" hits="13" branch="true" condition-coverage="100% (2/2)" />
+            <line number="26" hits="13" branch="false" />
+            <line number="28" hits="6" branch="false" />
+            <line number="29" hits="6" branch="false" />
+            <line number="31" hits="3" branch="false" />
+            <line number="32" hits="3" branch="false" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="TestApp.UnitTests" line-rate="0.976470588235294" branch-rate="1" complexity="13">
+      <classes>
+        <class name="AutoGeneratedProgram" filename="C:\Users\TOSHIBA\.nuget\packages\microsoft.net.test.sdk\16.11.0\build\netcoreapp2.1\Microsoft.NET.Test.Sdk.Program.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="Main" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="4" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="4" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="TestApp.UnitTests.CalculateTests" filename="C:\Users\TOSHIBA\Downloads\QA path\Programming for QA\Programming Fundamentals and Unit Testing\07.1.Resources-Unit-Testing-Methods\TestApp.UnitTests\CalculateTests.cs" line-rate="1" branch-rate="1" complexity="2">
+          <methods>
+            <method name="Test_Addition" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="9" hits="1" branch="false" />
+                <line number="11" hits="1" branch="false" />
+                <line number="12" hits="1" branch="false" />
+                <line number="13" hits="1" branch="false" />
+                <line number="14" hits="1" branch="false" />
+                <line number="17" hits="1" branch="false" />
+                <line number="20" hits="1" branch="false" />
+                <line number="21" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="Test_Subtraction" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="25" hits="1" branch="false" />
+                <line number="27" hits="1" branch="false" />
+                <line number="28" hits="1" branch="false" />
+                <line number="29" hits="1" branch="false" />
+                <line number="30" hits="1" branch="false" />
+                <line number="33" hits="1" branch="false" />
+                <line number="36" hits="1" branch="false" />
+                <line number="37" hits="1" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="9" hits="1" branch="false" />
+            <line number="11" hits="1" branch="false" />
+            <line number="12" hits="1" branch="false" />
+            <line number="13" hits="1" branch="false" />
+            <line number="14" hits="1" branch="false" />
+            <line number="17" hits="1" branch="false" />
+            <line number="20" hits="1" branch="false" />
+            <line number="21" hits="1" branch="false" />
+            <line number="25" hits="1" branch="false" />
+            <line number="27" hits="1" branch="false" />
+            <line number="28" hits="1" branch="false" />
+            <line number="29" hits="1" branch="false" />
+            <line number="30" hits="1" branch="false" />
+            <line number="33" hits="1" branch="false" />
+            <line number="36" hits="1" branch="false" />
+            <line number="37" hits="1" branch="false" />
+          </lines>
+        </class>
+        <class name="TestApp.UnitTests.FactorialTests" filename="C:\Users\TOSHIBA\Downloads\QA path\Programming for QA\Programming Fundamentals and Unit Testing\07.1.Resources-Unit-Testing-Methods\TestApp.UnitTests\FactorialTests.cs" line-rate="1" branch-rate="1" complexity="2">
+          <methods>
+            <method name="Test_CalculateFactorial_InputZero_ReturnsOne" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="9" hits="1" branch="false" />
+                <line number="11" hits="1" branch="false" />
+                <line number="12" hits="1" branch="false" />
+                <line number="15" hits="1" branch="false" />
+                <line number="18" hits="1" branch="false" />
+                <line number="19" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="Test_CalculateFactorial_InputPositiveNumber_ReturnsCorrectFactorial" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="23" hits="1" branch="false" />
+                <line number="25" hits="1" branch="false" />
+                <line number="26" hits="1" branch="false" />
+                <line number="29" hits="1" branch="false" />
+                <line number="32" hits="1" branch="false" />
+                <line number="33" hits="1" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="9" hits="1" branch="false" />
+            <line number="11" hits="1" branch="false" />
+            <line number="12" hits="1" branch="false" />
+            <line number="15" hits="1" branch="false" />
+            <line number="18" hits="1" branch="false" />
+            <line number="19" hits="1" branch="false" />
+            <line number="23" hits="1" branch="false" />
+            <line number="25" hits="1" branch="false" />
+            <line number="26" hits="1" branch="false" />
+            <line number="29" hits="1" branch="false" />
+            <line number="32" hits="1" branch="false" />
+            <line number="33" hits="1" branch="false" />
+          </lines>
+        </class>
+        <class name="TestApp.UnitTests.GradesTests" filename="C:\Users\TOSHIBA\Downloads\QA path\Programming for QA\Programming Fundamentals and Unit Testing\07.1.Resources-Unit-Testing-Methods\TestApp.UnitTests\GradesTests.cs" line-rate="0.875" branch-rate="1" complexity="2">
+          <methods>
+            <method name="Test_GradeAsWords_ReturnsCorrectString" signature="(...)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="13" hits="5" branch="false" />
+                <line number="17" hits="5" branch="false" />
+                <line number="20" hits="5" branch="false" />
+                <line number="21" hits="5" branch="false" />
+              </lines>
+            </method>
+            <method name="Test_GradeAsWords_ReturnsCorrectString_EdgeCases" signature="(...)" line-rate="0.75" branch-rate="1" complexity="1">
+              <lines>
+                <line number="27" hits="4" branch="false" />
+                <line number="31" hits="4" branch="false" />
+                <line number="34" hits="4" branch="false" />
+                <line number="35" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="13" hits="5" branch="false" />
+            <line number="17" hits="5" branch="false" />
+            <line number="20" hits="5" branch="false" />
+            <line number="21" hits="5" branch="false" />
+            <line number="27" hits="4" branch="false" />
+            <line number="31" hits="4" branch="false" />
+            <line number="34" hits="4" branch="false" />
+            <line number="35" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="TestApp.UnitTests.StringReverseTests" filename="C:\Users\TOSHIBA\Downloads\QA path\Programming for QA\Programming Fundamentals and Unit Testing\07.1.Resources-Unit-Testing-Methods\TestApp.UnitTests\StringReverseTests.cs" line-rate="1" branch-rate="1" complexity="3">
+          <methods>
+            <method name="Test_Reverse_WhenGivenEmptyString_ReturnsEmptyString" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="10" hits="1" branch="false" />
+                <line number="12" hits="1" branch="false" />
+                <line number="13" hits="1" branch="false" />
+                <line number="16" hits="1" branch="false" />
+                <line number="19" hits="1" branch="false" />
+                <line number="20" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="Test_Reverse_WhenGivenSingleCharacterString_ReturnsSameCharacter" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="24" hits="1" branch="false" />
+                <line number="26" hits="1" branch="false" />
+                <line number="27" hits="1" branch="false" />
+                <line number="30" hits="1" branch="false" />
+                <line number="33" hits="1" branch="false" />
+                <line number="34" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="Test_Reverse_WhenGivenNormalString_ReturnsReversedString" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="38" hits="1" branch="false" />
+                <line number="40" hits="1" branch="false" />
+                <line number="41" hits="1" branch="false" />
+                <line number="44" hits="1" branch="false" />
+                <line number="47" hits="1" branch="false" />
+                <line number="48" hits="1" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="10" hits="1" branch="false" />
+            <line number="12" hits="1" branch="false" />
+            <line number="13" hits="1" branch="false" />
+            <line number="16" hits="1" branch="false" />
+            <line number="19" hits="1" branch="false" />
+            <line number="20" hits="1" branch="false" />
+            <line number="24" hits="1" branch="false" />
+            <line number="26" hits="1" branch="false" />
+            <line number="27" hits="1" branch="false" />
+            <line number="30" hits="1" branch="false" />
+            <line number="33" hits="1" branch="false" />
+            <line number="34" hits="1" branch="false" />
+            <line number="38" hits="1" branch="false" />
+            <line number="40" hits="1" branch="false" />
+            <line number="41" hits="1" branch="false" />
+            <line number="44" hits="1" branch="false" />
+            <line number="47" hits="1" branch="false" />
+            <line number="48" hits="1" branch="false" />
+          </lines>
+        </class>
+        <class name="TestApp.UnitTests.TriangleTests" filename="C:\Users\TOSHIBA\Downloads\QA path\Programming for QA\Programming Fundamentals and Unit Testing\07.1.Resources-Unit-Testing-Methods\TestApp.UnitTests\TriangleTests.cs" line-rate="1" branch-rate="1" complexity="3">
+          <methods>
+            <method name="Test_Triangle_OutputMatchesExpected_Size0" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="10" hits="1" branch="false" />
+                <line number="12" hits="1" branch="false" />
+                <line number="13" hits="1" branch="false" />
+                <line number="16" hits="1" branch="false" />
+                <line number="19" hits="1" branch="false" />
+                <line number="20" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="Test_Triangle_OutputMatchesExpected_Size3" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="24" hits="1" branch="false" />
+                <line number="26" hits="1" branch="false" />
+                <line number="27" hits="1" branch="false" />
+                <line number="28" hits="1" branch="false" />
+                <line number="29" hits="1" branch="false" />
+                <line number="30" hits="1" branch="false" />
+                <line number="31" hits="1" branch="false" />
+                <line number="34" hits="1" branch="false" />
+                <line number="37" hits="1" branch="false" />
+                <line number="38" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="Test_Triangle_OutputMatchesExpected_Size5" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="42" hits="1" branch="false" />
+                <line number="44" hits="1" branch="false" />
+                <line number="45" hits="1" branch="false" />
+                <line number="46" hits="1" branch="false" />
+                <line number="47" hits="1" branch="false" />
+                <line number="48" hits="1" branch="false" />
+                <line number="49" hits="1" branch="false" />
+                <line number="50" hits="1" branch="false" />
+                <line number="51" hits="1" branch="false" />
+                <line number="52" hits="1" branch="false" />
+                <line number="53" hits="1" branch="false" />
+                <line number="56" hits="1" branch="false" />
+                <line number="59" hits="1" branch="false" />
+                <line number="60" hits="1" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="10" hits="1" branch="false" />
+            <line number="12" hits="1" branch="false" />
+            <line number="13" hits="1" branch="false" />
+            <line number="16" hits="1" branch="false" />
+            <line number="19" hits="1" branch="false" />
+            <line number="20" hits="1" branch="false" />
+            <line number="24" hits="1" branch="false" />
+            <line number="26" hits="1" branch="false" />
+            <line number="27" hits="1" branch="false" />
+            <line number="28" hits="1" branch="false" />
+            <line number="29" hits="1" branch="false" />
+            <line number="30" hits="1" branch="false" />
+            <line number="31" hits="1" branch="false" />
+            <line number="34" hits="1" branch="false" />
+            <line number="37" hits="1" branch="false" />
+            <line number="38" hits="1" branch="false" />
+            <line number="42" hits="1" branch="false" />
+            <line number="44" hits="1" branch="false" />
+            <line number="45" hits="1" branch="false" />
+            <line number="46" hits="1" branch="false" />
+            <line number="47" hits="1" branch="false" />
+            <line number="48" hits="1" branch="false" />
+            <line number="49" hits="1" branch="false" />
+            <line number="50" hits="1" branch="false" />
+            <line number="51" hits="1" branch="false" />
+            <line number="52" hits="1" branch="false" />
+            <line number="53" hits="1" branch="false" />
+            <line number="56" hits="1" branch="false" />
+            <line number="59" hits="1" branch="false" />
+            <line number="60" hits="1" branch="false" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+  </packages>
+</coverage>
