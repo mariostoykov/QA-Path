@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TOSHIBA\\Downloads\\QA path\\Programming for QA\\Programming Fundamentals and Unit Testing\\20-Unit-Testing-Methods-Exercise-Resources\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\toshiba\\downloads\\qa path\\programming for qa\\programming fundamentals and unit testing\\20-unit-testing-methods-exercise-resources\\testapp.unittests\\palindromeintegerstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\palindromeintegerstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\toshiba\\downloads\\qa path\\programming for qa\\programming fundamentals and unit testing\\20-unit-testing-methods-exercise-resources\\testapp.unittests\\primefactortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\primefactortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\toshiba\\downloads\\qa path\\programming for qa\\programming fundamentals and unit testing\\20-unit-testing-methods-exercise-resources\\testapp.unittests\\fibonaccitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\fibonaccitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\toshiba\\downloads\\qa path\\programming for qa\\programming fundamentals and unit testing\\20-unit-testing-methods-exercise-resources\\testapp.unittests\\middlecharacterstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\middlecharacterstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\toshiba\\downloads\\qa path\\programming for qa\\programming fundamentals and unit testing\\20-unit-testing-methods-exercise-resources\\testapp.unittests\\emailtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\emailtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\toshiba\\downloads\\qa path\\programming for qa\\programming fundamentals and unit testing\\20-unit-testing-methods-exercise-resources\\testapp.unittests\\signofintegernumberstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\signofintegernumberstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\toshiba\\downloads\\qa path\\programming for qa\\programming fundamentals and unit testing\\20-unit-testing-methods-exercise-resources\\testapp.unittests\\averagegradetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\averagegradetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PalindromeIntegersTests.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\QA path\\Programming for QA\\Programming Fundamentals and Unit Testing\\20-Unit-Testing-Methods-Exercise-Resources\\TestApp.UnitTests\\PalindromeIntegersTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\PalindromeIntegersTests.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\QA path\\Programming for QA\\Programming Fundamentals and Unit Testing\\20-Unit-Testing-Methods-Exercise-Resources\\TestApp.UnitTests\\PalindromeIntegersTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\PalindromeIntegersTests.cs",
+              "ViewState": "AgIAADUAAAAANDMzMzMLwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T15:30:46.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MiddleCharactersTests.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\QA path\\Programming for QA\\Programming Fundamentals and Unit Testing\\20-Unit-Testing-Methods-Exercise-Resources\\TestApp.UnitTests\\MiddleCharactersTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\MiddleCharactersTests.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\QA path\\Programming for QA\\Programming Fundamentals and Unit Testing\\20-Unit-Testing-Methods-Exercise-Resources\\TestApp.UnitTests\\MiddleCharactersTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\MiddleCharactersTests.cs",
+              "ViewState": "AgIAADIAAAAAMzMzMzMXwEgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T14:45:00.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SignOfIntegerNumbersTests.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\QA path\\Programming for QA\\Programming Fundamentals and Unit Testing\\20-Unit-Testing-Methods-Exercise-Resources\\TestApp.UnitTests\\SignOfIntegerNumbersTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\SignOfIntegerNumbersTests.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\QA path\\Programming for QA\\Programming Fundamentals and Unit Testing\\20-Unit-Testing-Methods-Exercise-Resources\\TestApp.UnitTests\\SignOfIntegerNumbersTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\SignOfIntegerNumbersTests.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowEAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T14:16:39.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrimeFactorTests.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\QA path\\Programming for QA\\Programming Fundamentals and Unit Testing\\20-Unit-Testing-Methods-Exercise-Resources\\TestApp.UnitTests\\PrimeFactorTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\PrimeFactorTests.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\QA path\\Programming for QA\\Programming Fundamentals and Unit Testing\\20-Unit-Testing-Methods-Exercise-Resources\\TestApp.UnitTests\\PrimeFactorTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\PrimeFactorTests.cs",
+              "ViewState": "AgIAAAMAAACAZmZmZmYkwB4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T14:06:43.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailTests.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\QA path\\Programming for QA\\Programming Fundamentals and Unit Testing\\20-Unit-Testing-Methods-Exercise-Resources\\TestApp.UnitTests\\EmailTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\EmailTests.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\QA path\\Programming for QA\\Programming Fundamentals and Unit Testing\\20-Unit-Testing-Methods-Exercise-Resources\\TestApp.UnitTests\\EmailTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\EmailTests.cs",
+              "ViewState": "AgIAABEAAAAAzczMzMwmwCwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T12:14:51.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FibonacciTests.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\QA path\\Programming for QA\\Programming Fundamentals and Unit Testing\\20-Unit-Testing-Methods-Exercise-Resources\\TestApp.UnitTests\\FibonacciTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\FibonacciTests.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\QA path\\Programming for QA\\Programming Fundamentals and Unit Testing\\20-Unit-Testing-Methods-Exercise-Resources\\TestApp.UnitTests\\FibonacciTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\FibonacciTests.cs",
+              "ViewState": "AgIAAAIAAABAMzMzMzMbwBEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T11:36:35.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AverageGradeTests.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\QA path\\Programming for QA\\Programming Fundamentals and Unit Testing\\20-Unit-Testing-Methods-Exercise-Resources\\TestApp.UnitTests\\AverageGradeTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\AverageGradeTests.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\QA path\\Programming for QA\\Programming Fundamentals and Unit Testing\\20-Unit-Testing-Methods-Exercise-Resources\\TestApp.UnitTests\\AverageGradeTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\AverageGradeTests.cs",
+              "ViewState": "AgIAAFAAAAAAoJmZmZnJv1kAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T14:29:21.692Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

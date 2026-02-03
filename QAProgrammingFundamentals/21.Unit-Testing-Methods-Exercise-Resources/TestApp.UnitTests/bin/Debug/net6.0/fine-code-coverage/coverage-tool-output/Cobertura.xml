@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
+<coverage line-rate="0.99604743083004" branch-rate="1" lines-covered="252" lines-valid="253" branches-covered="42" branches-valid="42" complexity="72" version="0" timestamp="1740937270">
+  <sources>
+    <source>C:\Users\TOSHIBA\</source>
+  </sources>
+  <packages>
+    <package name="TestApp" line-rate="1" branch-rate="1" complexity="43">
+      <classes>
+        <class name="TestApp.AverageGrade" filename="C:\Users\TOSHIBA\Downloads\QA path\Programming for QA\Programming Fundamentals and Unit Testing\20-Unit-Testing-Methods-Exercise-Resources\TestApp\AverageGrade.cs" line-rate="1" branch-rate="1" complexity="20">
+          <methods>
+            <method name="GetGradeDefinition" signature="(...)" line-rate="1" branch-rate="1" complexity="20">
+              <lines>
+                <line number="12" hits="7" branch="false" />
+                <line number="13" hits="7" branch="false" />
+                <line number="15" hits="7" branch="true" condition-coverage="100% (4/4)" />
+                <line number="16" hits="1" branch="false" />
+                <line number="17" hits="1" branch="false" />
+                <line number="19" hits="6" branch="true" condition-coverage="100% (4/4)" />
+                <line number="20" hits="1" branch="false" />
+                <line number="21" hits="1" branch="false" />
+                <line number="23" hits="5" branch="true" condition-coverage="100% (4/4)" />
+                <line number="24" hits="1" branch="false" />
+                <line number="25" hits="1" branch="false" />
+                <line number="27" hits="4" branch="true" condition-coverage="100% (4/4)" />
+                <line number="28" hits="1" branch="false" />
+                <line number="29" hits="1" branch="false" />
+                <line number="31" hits="3" branch="true" condition-coverage="100% (4/4)" />
+                <line number="32" hits="1" branch="false" />
+                <line number="33" hits="1" branch="false" />
+                <line number="36" hits="2" branch="false" />
+                <line number="37" hits="2" branch="false" />
+                <line number="39" hits="7" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="12" hits="7" branch="false" />
+            <line number="13" hits="7" branch="false" />
+            <line number="15" hits="7" branch="true" condition-coverage="100% (4/4)" />
+            <line number="16" hits="1" branch="false" />
+            <line number="17" hits="1" branch="false" />
+            <line number="19" hits="6" branch="true" condition-coverage="100% (4/4)" />
+            <line number="20" hits="1" branch="false" />
+            <line number="21" hits="1" branch="false" />
+            <line number="23" hits="5" branch="true" condition-coverage="100% (4/4)" />
+            <line number="24" hits="1" branch="false" />
+            <line number="25" hits="1" branch="false" />
+            <line number="27" hits="4" branch="true" condition-coverage="100% (4/4)" />
+            <line number="28" hits="1" branch="false" />
+            <line number="29" hits="1" branch="false" />
+            <line number="31" hits="3" branch="true" condition-coverage="100% (4/4)" />
+            <line number="32" hits="1" branch="false" />
+            <line number="33" hits="1" branch="false" />
+            <line number="36" hits="2" branch="false" />
+            <line number="37" hits="2" branch="false" />
+            <line number="39" hits="7" branch="false" />
+          </lines>
+        </class>
+        <class name="TestApp.Email" filename="C:\Users\TOSHIBA\Downloads\QA path\Programming for QA\Programming Fundamentals and Unit Testing\20-Unit-Testing-Methods-Exercise-Resources\TestApp\Email.cs" line-rate="1" branch-rate="1" complexity="2">
+          <methods>
+            <method name="IsValidEmail" signature="(...)" line-rate="1" branch-rate="1" complexity="2">
+              <lines>
+                <line number="8" hits="3" branch="false" />
+                <line number="9" hits="3" branch="true" condition-coverage="100% (2/2)" />
+                <line number="10" hits="1" branch="false" />
+                <line number="11" hits="1" branch="false" />
+                <line number="14" hits="2" branch="false" />
+                <line number="15" hits="3" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="8" hits="3" branch="false" />
+            <line number="9" hits="3" branch="true" condition-coverage="100% (2/2)" />
+            <line number="10" hits="1" branch="false" />
+            <line number="11" hits="1" branch="false" />
+            <line number="14" hits="2" branch="false" />
+            <line number="15" hits="3" branch="false" />
+          </lines>
+        </class>
+        <class name="TestApp.Fibonacci" filename="C:\Users\TOSHIBA\Downloads\QA path\Programming for QA\Programming Fundamentals and Unit Testing\20-Unit-Testing-Methods-Exercise-Resources\TestApp\Fibonacci.cs" line-rate="1" branch-rate="1" complexity="2">
+          <methods>
+            <method name="CalculateFibonacci" signature="(...)" line-rate="1" branch-rate="1" complexity="2">
+              <lines>
+                <line number="8" hits="16" branch="false" />
+                <line number="9" hits="16" branch="true" condition-coverage="100% (2/2)" />
+                <line number="10" hits="9" branch="false" />
+                <line number="11" hits="9" branch="false" />
+                <line number="14" hits="7" branch="false" />
+                <line number="15" hits="16" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="8" hits="16" branch="false" />
+            <line number="9" hits="16" branch="true" condition-coverage="100% (2/2)" />
+            <line number="10" hits="9" branch="false" />
+            <line number="11" hits="9" branch="false" />
+            <line number="14" hits="7" branch="false" />
+            <line number="15" hits="16" branch="false" />
+          </lines>
+        </class>
+        <class name="TestApp.MiddleCharacters" filename="C:\Users\TOSHIBA\Downloads\QA path\Programming for QA\Programming Fundamentals and Unit Testing\20-Unit-Testing-Methods-Exercise-Resources\TestApp\MiddleCharacters.cs" line-rate="1" branch-rate="1" complexity="4">
+          <methods>
+            <method name="GetMiddleChars" signature="(...)" line-rate="1" branch-rate="1" complexity="4">
+              <lines>
+                <line number="12" hits="5" branch="false" />
+                <line number="13" hits="5" branch="false" />
+                <line number="15" hits="5" branch="true" condition-coverage="100% (2/2)" />
+                <line number="16" hits="2" branch="false" />
+                <line number="17" hits="2" branch="false" />
+                <line number="20" hits="3" branch="true" condition-coverage="100% (2/2)" />
+                <line number="21" hits="1" branch="false" />
+                <line number="22" hits="1" branch="false" />
+                <line number="25" hits="2" branch="false" />
+                <line number="26" hits="2" branch="false" />
+                <line number="28" hits="5" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="12" hits="5" branch="false" />
+            <line number="13" hits="5" branch="false" />
+            <line number="15" hits="5" branch="true" condition-coverage="100% (2/2)" />
+            <line number="16" hits="2" branch="false" />
+            <line number="17" hits="2" branch="false" />
+            <line number="20" hits="3" branch="true" condition-coverage="100% (2/2)" />
+            <line number="21" hits="1" branch="false" />
+            <line number="22" hits="1" branch="false" />
+            <line number="25" hits="2" branch="false" />
+            <line number="26" hits="2" branch="false" />
+            <line number="28" hits="5" branch="false" />
+          </lines>
+        </class>
+        <class name="TestApp.PalindromeIntegers" filename="C:\Users\TOSHIBA\Downloads\QA path\Programming for QA\Programming Fundamentals and Unit Testing\20-Unit-Testing-Methods-Exercise-Resources\TestApp\PalindromeIntegers.cs" line-rate="1" branch-rate="1" complexity="5">
+          <methods>
+            <method name="FindPalindromes" signature="(...)" line-rate="1" branch-rate="1" complexity="4">
+              <lines>
+                <line number="12" hits="5" branch="false" />
+                <line number="13" hits="5" branch="false" />
+                <line number="15" hits="41" branch="true" condition-coverage="100% (2/2)" />
+                <line number="16" hits="13" branch="false" />
+                <line number="17" hits="13" branch="true" condition-coverage="100% (2/2)" />
+                <line number="18" hits="8" branch="false" />
+                <line number="19" hits="8" branch="false" />
+                <line number="20" hits="8" branch="false" />
+                <line number="21" hits="13" branch="false" />
+                <line number="23" hits="5" branch="false" />
+                <line number="24" hits="5" branch="false" />
+              </lines>
+            </method>
+            <method name="IsPalindrome" signature="(...)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="27" hits="13" branch="false" />
+                <line number="28" hits="13" branch="false" />
+                <line number="29" hits="13" branch="false" />
+                <line number="30" hits="13" branch="false" />
+                <line number="31" hits="13" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="12" hits="5" branch="false" />
+            <line number="13" hits="5" branch="false" />
+            <line number="15" hits="41" branch="true" condition-coverage="100% (2/2)" />
+            <line number="16" hits="13" branch="false" />
+            <line number="17" hits="13" branch="true" condition-coverage="100% (2/2)" />
+            <line number="18" hits="8" branch="false" />
+            <line number="19" hits="8" branch="false" />
+            <line number="20" hits="8" branch="false" />
+            <line number="21" hits="13" branch="false" />
+            <line number="23" hits="5" branch="false" />
+            <line number="24" hits="5" branch="false" />
+            <line number="27" hits="13" branch="false" />
+            <line number="28" hits="13" branch="false" />
+            <line number="29" hits="13" branch="false" />
+            <line number="30" hits="13" branch="false" />
+            <line number="31" hits="13" branch="false" />
+          </lines>
+        </class>
+        <class name="TestApp.PrimeFactor" filename="C:\Users\TOSHIBA\Downloads\QA path\Programming for QA\Programming Fundamentals and Unit Testing\20-Unit-Testing-Methods-Exercise-Resources\TestApp\PrimeFactor.cs" line-rate="1" branch-rate="1" complexity="4">
+          <methods>
+            <method name="FindLargestPrimeFactor" signature="(...)" line-rate="1" branch-rate="1" complexity="4">
+              <lines>
+                <line number="8" hits="2" branch="false" />
+                <line number="9" hits="2" branch="false" />
+                <line number="10" hits="2" branch="false" />
+                <line number="12" hits="45" branch="true" condition-coverage="100% (2/2)" />
+                <line number="13" hits="43" branch="false" />
+                <line number="14" hits="43" branch="true" condition-coverage="100% (2/2)" />
+                <line number="15" hits="5" branch="false" />
+                <line number="16" hits="5" branch="false" />
+                <line number="17" hits="5" branch="false" />
+                <line number="18" hits="5" branch="false" />
+                <line number="21" hits="38" branch="false" />
+                <line number="22" hits="38" branch="false" />
+                <line number="24" hits="2" branch="false" />
+                <line number="25" hits="2" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="8" hits="2" branch="false" />
+            <line number="9" hits="2" branch="false" />
+            <line number="10" hits="2" branch="false" />
+            <line number="12" hits="45" branch="true" condition-coverage="100% (2/2)" />
+            <line number="13" hits="43" branch="false" />
+            <line number="14" hits="43" branch="true" condition-coverage="100% (2/2)" />
+            <line number="15" hits="5" branch="false" />
+            <line number="16" hits="5" branch="false" />
+            <line number="17" hits="5" branch="false" />
+            <line number="18" hits="5" branch="false" />
+            <line number="21" hits="38" branch="false" />
+            <line number="22" hits="38" branch="false" />
+            <line number="24" hits="2" branch="false" />
+            <line number="25" hits="2" branch="false" />
+          </lines>
+        </class>
+        <class name="TestApp.SignOfIntegerNumbers" filename="C:\Users\TOSHIBA\Downloads\QA path\Programming for QA\Programming Fundamentals and Unit Testing\20-Unit-Testing-Methods-Exercise-Resources\TestApp\SignOfIntegerNumbers.cs" line-rate="1" branch-rate="1" complexity="6">
+          <methods>
+            <method name="CheckSign" signature="(...)" line-rate="1" branch-rate="1" complexity="6">
+              <lines>
+                <line number="12" hits="4" branch="false" />
+                <line number="13" hits="4" branch="false" />
+                <line number="15" hits="4" branch="true" condition-coverage="100% (2/2)" />
+                <line number="16" hits="1" branch="false" />
+                <line number="17" hits="1" branch="false" />
+                <line number="20" hits="3" branch="true" condition-coverage="100% (2/2)" />
+                <line number="21" hits="1" branch="false" />
+                <line number="22" hits="1" branch="false" />
+                <line number="24" hits="2" branch="true" condition-coverage="100% (2/2)" />
+                <line number="25" hits="1" branch="false" />
+                <line number="26" hits="1" branch="false" />
+                <line number="29" hits="1" branch="false" />
+                <line number="30" hits="1" branch="false" />
+                <line number="32" hits="4" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="12" hits="4" branch="false" />
+            <line number="13" hits="4" branch="false" />
+            <line number="15" hits="4" branch="true" condition-coverage="100% (2/2)" />
+            <line number="16" hits="1" branch="false" />
+            <line number="17" hits="1" branch="false" />
+            <line number="20" hits="3" branch="true" condition-coverage="100% (2/2)" />
+            <line number="21" hits="1" branch="false" />
+            <line number="22" hits="1" branch="false" />
+            <line number="24" hits="2" branch="true" condition-coverage="100% (2/2)" />
+            <line number="25" hits="1" branch="false" />
+            <line number="26" hits="1" branch="false" />
+            <line number="29" hits="1" branch="false" />
+            <line number="30" hits="1" branch="false" />
+            <line number="32" hits="4" branch="false" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="TestApp.UnitTests" line-rate="0.993975903614458" branch-rate="1" complexity="29">
+      <classes>
+        <class name="AutoGeneratedProgram" filename="C:\Users\TOSHIBA\.nuget\packages\microsoft.net.test.sdk\17.5.0\build\netcoreapp3.1\Microsoft.NET.Test.Sdk.Program.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="Main" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="4" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="4" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="TestApp.UnitTests.AverageGradeTests" filename="C:\Users\TOSHIBA\Downloads\QA path\Programming for QA\Programming Fundamentals and Unit Testing\20-Unit-Testing-Methods-Exercise-Resources\TestApp.UnitTests\AverageGradeTests.cs" line-rate="1" branch-rate="1" complexity="7">
+          <methods>
+            <method name="Test_GetGradeDefinition_AverageGradeUnderTwo_ReturnsErrorMessage" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="14" hits="1" branch="false" />
+                <line number="16" hits="1" branch="false" />
+                <line number="17" hits="1" branch="false" />
+                <line number="20" hits="1" branch="false" />
+                <line number="23" hits="1" branch="false" />
+                <line number="25" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="Test_GetGradeDefinition_AverageGradeOverSix_ReturnsErrorMessage" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="29" hits="1" branch="false" />
+                <line number="31" hits="1" branch="false" />
+                <line number="32" hits="1" branch="false" />
+                <line number="35" hits="1" branch="false" />
+                <line number="38" hits="1" branch="false" />
+                <line number="40" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="Test_GetGradeDefinition_FailScoreAverageGrade_ReturnsFailDefinitionMessage" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="44" hits="1" branch="false" />
+                <line number="46" hits="1" branch="false" />
+                <line number="47" hits="1" branch="false" />
+                <line number="50" hits="1" branch="false" />
+                <line number="53" hits="1" branch="false" />
+                <line number="55" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="Test_GetGradeDefinition_PoorScoreAverageGrade_ReturnsPoorDefinitionMessage" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="59" hits="1" branch="false" />
+                <line number="61" hits="1" branch="false" />
+                <line number="62" hits="1" branch="false" />
+                <line number="65" hits="1" branch="false" />
+                <line number="68" hits="1" branch="false" />
+                <line number="69" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="Test_GetGradeDefinition_GoodScoreAverageGrade_ReturnsGoodDefinitionMessage" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="73" hits="1" branch="false" />
+                <line number="75" hits="1" branch="false" />
+                <line number="76" hits="1" branch="false" />
+                <line number="79" hits="1" branch="false" />
+                <line number="82" hits="1" branch="false" />
+                <line number="83" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="Test_GetGradeDefinition_VeryGoodScoreAverageGrade_ReturnsVeryGoodDefinitionMessage" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="87" hits="1" branch="false" />
+                <line number="89" hits="1" branch="false" />
+                <line number="90" hits="1" branch="false" />
+                <line number="93" hits="1" branch="false" />
+                <line number="96" hits="1" branch="false" />
+                <line number="97" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="Test_GetGradeDefinition_ExcellentScoreAverageGrade_ReturnsExcellentDefinitionMessage" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="101" hits="1" branch="false" />
+                <line number="103" hits="1" branch="false" />
+                <line number="104" hits="1" branch="false" />
+                <line number="107" hits="1" branch="false" />
+                <line number="110" hits="1" branch="false" />
+                <line number="111" hits="1" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="14" hits="1" branch="false" />
+            <line number="16" hits="1" branch="false" />
+            <line number="17" hits="1" branch="false" />
+            <line number="20" hits="1" branch="false" />
+            <line number="23" hits="1" branch="false" />
+            <line number="25" hits="1" branch="false" />
+            <line number="29" hits="1" branch="false" />
+            <line number="31" hits="1" branch="false" />
+            <line number="32" hits="1" branch="false" />
+            <line number="35" hits="1" branch="false" />
+            <line number="38" hits="1" branch="false" />
+            <line number="40" hits="1" branch="false" />
+            <line number="44" hits="1" branch="false" />
+            <line number="46" hits="1" branch="false" />
+            <line number="47" hits="1" branch="false" />
+            <line number="50" hits="1" branch="false" />
+            <line number="53" hits="1" branch="false" />
+            <line number="55" hits="1" branch="false" />
+            <line number="59" hits="1" branch="false" />
+            <line number="61" hits="1" branch="false" />
+            <line number="62" hits="1" branch="false" />
+            <line number="65" hits="1" branch="false" />
+            <line number="68" hits="1" branch="false" />
+            <line number="69" hits="1" branch="false" />
+            <line number="73" hits="1" branch="false" />
+            <line number="75" hits="1" branch="false" />
+            <line number="76" hits="1" branch="false" />
+            <line number="79" hits="1" branch="false" />
+            <line number="82" hits="1" branch="false" />
+            <line number="83" hits="1" branch="false" />
+            <line number="87" hits="1" branch="false" />
+            <line number="89" hits="1" branch="false" />
+            <line number="90" hits="1" branch="false" />
+            <line number="93" hits="1" branch="false" />
+            <line number="96" hits="1" branch="false" />
+            <line number="97" hits="1" branch="false" />
+            <line number="101" hits="1" branch="false" />
+            <line number="103" hits="1" branch="false" />
+            <line number="104" hits="1" branch="false" />
+            <line number="107" hits="1" branch="false" />
+            <line number="110" hits="1" branch="false" />
+            <line number="111" hits="1" branch="false" />
+          </lines>
+        </class>
+        <class name="TestApp.UnitTests.EmailTests" filename="C:\Users\TOSHIBA\Downloads\QA path\Programming for QA\Programming Fundamentals and Unit Testing\20-Unit-Testing-Methods-Exercise-Resources\TestApp.UnitTests\EmailTests.cs" line-rate="1" branch-rate="1" complexity="3">
+          <methods>
+            <method name="Test_IsValidEmail_ValidEmail" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="10" hits="1" branch="false" />
+                <line number="12" hits="1" branch="false" />
+                <line number="15" hits="1" branch="false" />
+                <line number="18" hits="1" branch="false" />
+                <line number="19" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="Test_IsValidEmail_InvalidEmail" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="24" hits="1" branch="false" />
+                <line number="26" hits="1" branch="false" />
+                <line number="29" hits="1" branch="false" />
+                <line number="32" hits="1" branch="false" />
+                <line number="33" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="Test_IsValidEmail_NullInput" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="37" hits="1" branch="false" />
+                <line number="39" hits="1" branch="false" />
+                <line number="42" hits="1" branch="false" />
+                <line number="45" hits="1" branch="false" />
+                <line number="46" hits="1" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="10" hits="1" branch="false" />
+            <line number="12" hits="1" branch="false" />
+            <line number="15" hits="1" branch="false" />
+            <line number="18" hits="1" branch="false" />
+            <line number="19" hits="1" branch="false" />
+            <line number="24" hits="1" branch="false" />
+            <line number="26" hits="1" branch="false" />
+            <line number="29" hits="1" branch="false" />
+            <line number="32" hits="1" branch="false" />
+            <line number="33" hits="1" branch="false" />
+            <line number="37" hits="1" branch="false" />
+            <line number="39" hits="1" branch="false" />
+            <line number="42" hits="1" branch="false" />
+            <line number="45" hits="1" branch="false" />
+            <line number="46" hits="1" branch="false" />
+          </lines>
+        </class>
+        <class name="TestApp.UnitTests.FibonacciTests" filename="C:\Users\TOSHIBA\Downloads\QA path\Programming for QA\Programming Fundamentals and Unit Testing\20-Unit-Testing-Methods-Exercise-Resources\TestApp.UnitTests\FibonacciTests.cs" line-rate="1" branch-rate="1" complexity="2">
+          <methods>
+            <method name="Test_CalculateFibonacci_ZeroInput" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="9" hits="1" branch="false" />
+                <line number="11" hits="1" branch="false" />
+                <line number="12" hits="1" branch="false" />
+                <line number="15" hits="1" branch="false" />
+                <line number="18" hits="1" branch="false" />
+                <line number="20" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="Test_CalculateFibonacci_PositiveInput" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="24" hits="1" branch="false" />
+                <line number="26" hits="1" branch="false" />
+                <line number="27" hits="1" branch="false" />
+                <line number="30" hits="1" branch="false" />
+                <line number="33" hits="1" branch="false" />
+                <line number="34" hits="1" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="9" hits="1" branch="false" />
+            <line number="11" hits="1" branch="false" />
+            <line number="12" hits="1" branch="false" />
+            <line number="15" hits="1" branch="false" />
+            <line number="18" hits="1" branch="false" />
+            <line number="20" hits="1" branch="false" />
+            <line number="24" hits="1" branch="false" />
+            <line number="26" hits="1" branch="false" />
+            <line number="27" hits="1" branch="false" />
+            <line number="30" hits="1" branch="false" />
+            <line number="33" hits="1" branch="false" />
+            <line number="34" hits="1" branch="false" />
+          </lines>
+        </class>
+        <class name="TestApp.UnitTests.MiddleCharactersTests" filename="C:\Users\TOSHIBA\Downloads\QA path\Programming for QA\Programming Fundamentals and Unit Testing\20-Unit-Testing-Methods-Exercise-Resources\TestApp.UnitTests\MiddleCharactersTests.cs" line-rate="1" branch-rate="1" complexity="5">
+          <methods>
+            <method name="Test_GetMiddleChars_EmptyString_ReturnsEmptyStringMessage" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="14" hits="1" branch="false" />
+                <line number="16" hits="1" branch="false" />
+                <line number="17" hits="1" branch="false" />
+                <line number="20" hits="1" branch="false" />
+                <line number="23" hits="1" branch="false" />
+                <line number="25" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="Test_GetMiddleChars_WhiteSpaceString_ReturnsEmptyStringMessage" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="29" hits="1" branch="false" />
+                <line number="31" hits="1" branch="false" />
+                <line number="32" hits="1" branch="false" />
+                <line number="35" hits="1" branch="false" />
+                <line number="38" hits="1" branch="false" />
+                <line number="39" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="Test_GetMiddleChars_SingleCharacterString_ReturnsTheCharacter" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="43" hits="1" branch="false" />
+                <line number="45" hits="1" branch="false" />
+                <line number="46" hits="1" branch="false" />
+                <line number="49" hits="1" branch="false" />
+                <line number="52" hits="1" branch="false" />
+                <line number="53" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="Test_GetMiddleChars_EvenStringLength_ReturnsTwoCharactersString" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="57" hits="1" branch="false" />
+                <line number="59" hits="1" branch="false" />
+                <line number="60" hits="1" branch="false" />
+                <line number="63" hits="1" branch="false" />
+                <line number="66" hits="1" branch="false" />
+                <line number="67" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="Test_GetMiddleChars_OddStringLength_ReturnsOneCharactersString" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="71" hits="1" branch="false" />
+                <line number="73" hits="1" branch="false" />
+                <line number="74" hits="1" branch="false" />
+                <line number="77" hits="1" branch="false" />
+                <line number="80" hits="1" branch="false" />
+                <line number="81" hits="1" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="14" hits="1" branch="false" />
+            <line number="16" hits="1" branch="false" />
+            <line number="17" hits="1" branch="false" />
+            <line number="20" hits="1" branch="false" />
+            <line number="23" hits="1" branch="false" />
+            <line number="25" hits="1" branch="false" />
+            <line number="29" hits="1" branch="false" />
+            <line number="31" hits="1" branch="false" />
+            <line number="32" hits="1" branch="false" />
+            <line number="35" hits="1" branch="false" />
+            <line number="38" hits="1" branch="false" />
+            <line number="39" hits="1" branch="false" />
+            <line number="43" hits="1" branch="false" />
+            <line number="45" hits="1" branch="false" />
+            <line number="46" hits="1" branch="false" />
+            <line number="49" hits="1" branch="false" />
+            <line number="52" hits="1" branch="false" />
+            <line number="53" hits="1" branch="false" />
+            <line number="57" hits="1" branch="false" />
+            <line number="59" hits="1" branch="false" />
+            <line number="60" hits="1" branch="false" />
+            <line number="63" hits="1" branch="false" />
+            <line number="66" hits="1" branch="false" />
+            <line number="67" hits="1" branch="false" />
+            <line number="71" hits="1" branch="false" />
+            <line number="73" hits="1" branch="false" />
+            <line number="74" hits="1" branch="false" />
+            <line number="77" hits="1" branch="false" />
+            <line number="80" hits="1" branch="false" />
+            <line number="81" hits="1" branch="false" />
+          </lines>
+        </class>
+        <class name="TestApp.UnitTests.PalindromeIntegersTests" filename="C:\Users\TOSHIBA\Downloads\QA path\Programming for QA\Programming Fundamentals and Unit Testing\20-Unit-Testing-Methods-Exercise-Resources\TestApp.UnitTests\PalindromeIntegersTests.cs" line-rate="1" branch-rate="1" complexity="5">
+          <methods>
+            <method name="Test_FindPalindromes_EmptyList_ReturnsEmptyList" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="14" hits="1" branch="false" />
+                <line number="16" hits="1" branch="false" />
+                <line number="19" hits="1" branch="false" />
+                <line number="20" hits="1" branch="false" />
+                <line number="23" hits="1" branch="false" />
+                <line number="24" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="Test_FindPalindromes_NoPalindromes_ReturnsEmptyList" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="28" hits="1" branch="false" />
+                <line number="30" hits="1" branch="false" />
+                <line number="33" hits="1" branch="false" />
+                <line number="34" hits="1" branch="false" />
+                <line number="37" hits="1" branch="false" />
+                <line number="38" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="Test_FindPalindromes_OnlySingleDigitsElements_ReturnsSameIntegersList" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="42" hits="1" branch="false" />
+                <line number="44" hits="1" branch="false" />
+                <line number="47" hits="1" branch="false" />
+                <line number="48" hits="1" branch="false" />
+                <line number="51" hits="1" branch="false" />
+                <line number="52" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="Test_FindPalindromes_AllElementsArePalindromes_ReturnsSameIntegersList" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="56" hits="1" branch="false" />
+                <line number="58" hits="1" branch="false" />
+                <line number="61" hits="1" branch="false" />
+                <line number="62" hits="1" branch="false" />
+                <line number="65" hits="1" branch="false" />
+                <line number="66" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="Test_FindPalindromes_PalimdromesAndNoPalindromesIntegers_ReturnsOnlyPalindromes" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="70" hits="1" branch="false" />
+                <line number="72" hits="1" branch="false" />
+                <line number="73" hits="1" branch="false" />
+                <line number="76" hits="1" branch="false" />
+                <line number="77" hits="1" branch="false" />
+                <line number="80" hits="1" branch="false" />
+                <line number="81" hits="1" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="14" hits="1" branch="false" />
+            <line number="16" hits="1" branch="false" />
+            <line number="19" hits="1" branch="false" />
+            <line number="20" hits="1" branch="false" />
+            <line number="23" hits="1" branch="false" />
+            <line number="24" hits="1" branch="false" />
+            <line number="28" hits="1" branch="false" />
+            <line number="30" hits="1" branch="false" />
+            <line number="33" hits="1" branch="false" />
+            <line number="34" hits="1" branch="false" />
+            <line number="37" hits="1" branch="false" />
+            <line number="38" hits="1" branch="false" />
+            <line number="42" hits="1" branch="false" />
+            <line number="44" hits="1" branch="false" />
+            <line number="47" hits="1" branch="false" />
+            <line number="48" hits="1" branch="false" />
+            <line number="51" hits="1" branch="false" />
+            <line number="52" hits="1" branch="false" />
+            <line number="56" hits="1" branch="false" />
+            <line number="58" hits="1" branch="false" />
+            <line number="61" hits="1" branch="false" />
+            <line number="62" hits="1" branch="false" />
+            <line number="65" hits="1" branch="false" />
+            <line number="66" hits="1" branch="false" />
+            <line number="70" hits="1" branch="false" />
+            <line number="72" hits="1" branch="false" />
+            <line number="73" hits="1" branch="false" />
+            <line number="76" hits="1" branch="false" />
+            <line number="77" hits="1" branch="false" />
+            <line number="80" hits="1" branch="false" />
+            <line number="81" hits="1" branch="false" />
+          </lines>
+        </class>
+        <class name="TestApp.UnitTests.PrimeFactorTests" filename="C:\Users\TOSHIBA\Downloads\QA path\Programming for QA\Programming Fundamentals and Unit Testing\20-Unit-Testing-Methods-Exercise-Resources\TestApp.UnitTests\PrimeFactorTests.cs" line-rate="1" branch-rate="1" complexity="2">
+          <methods>
+            <method name="Test_FindLargestPrimeFactor_PrimeNumber" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="9" hits="1" branch="false" />
+                <line number="11" hits="1" branch="false" />
+                <line number="14" hits="1" branch="false" />
+                <line number="17" hits="1" branch="false" />
+                <line number="18" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="Test_FindLargestPrimeFactor_LargeNumber" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="22" hits="1" branch="false" />
+                <line number="24" hits="1" branch="false" />
+                <line number="25" hits="1" branch="false" />
+                <line number="28" hits="1" branch="false" />
+                <line number="31" hits="1" branch="false" />
+                <line number="32" hits="1" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="9" hits="1" branch="false" />
+            <line number="11" hits="1" branch="false" />
+            <line number="14" hits="1" branch="false" />
+            <line number="17" hits="1" branch="false" />
+            <line number="18" hits="1" branch="false" />
+            <line number="22" hits="1" branch="false" />
+            <line number="24" hits="1" branch="false" />
+            <line number="25" hits="1" branch="false" />
+            <line number="28" hits="1" branch="false" />
+            <line number="31" hits="1" branch="false" />
+            <line number="32" hits="1" branch="false" />
+          </lines>
+        </class>
+        <class name="TestApp.UnitTests.SignOfIntegerNumbersTests" filename="C:\Users\TOSHIBA\Downloads\QA path\Programming for QA\Programming Fundamentals and Unit Testing\20-Unit-Testing-Methods-Exercise-Resources\TestApp.UnitTests\SignOfIntegerNumbersTests.cs" line-rate="1" branch-rate="1" complexity="4">
+          <methods>
+            <method name="Test_CheckSign_NotAnIntegerValue_ReturnErrorMessage" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="14" hits="1" branch="false" />
+                <line number="16" hits="1" branch="false" />
+                <line number="17" hits="1" branch="false" />
+                <line number="20" hits="1" branch="false" />
+                <line number="23" hits="1" branch="false" />
+                <line number="24" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="Test_CheckSign_ZeroValueInput_ReturnMessageForZero" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="28" hits="1" branch="false" />
+                <line number="30" hits="1" branch="false" />
+                <line number="31" hits="1" branch="false" />
+                <line number="34" hits="1" branch="false" />
+                <line number="37" hits="1" branch="false" />
+                <line number="38" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="Test_CheckSign_NegativeValueInput_ReturnMessageForNegativeInteger" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="42" hits="1" branch="false" />
+                <line number="44" hits="1" branch="false" />
+                <line number="45" hits="1" branch="false" />
+                <line number="48" hits="1" branch="false" />
+                <line number="51" hits="1" branch="false" />
+                <line number="52" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="Test_CheckSign_PositiveValueInput_ReturnMessageForPositiveInteger" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="56" hits="1" branch="false" />
+                <line number="58" hits="1" branch="false" />
+                <line number="59" hits="1" branch="false" />
+                <line number="62" hits="1" branch="false" />
+                <line number="65" hits="1" branch="false" />
+                <line number="66" hits="1" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="14" hits="1" branch="false" />
+            <line number="16" hits="1" branch="false" />
+            <line number="17" hits="1" branch="false" />
+            <line number="20" hits="1" branch="false" />
+            <line number="23" hits="1" branch="false" />
+            <line number="24" hits="1" branch="false" />
+            <line number="28" hits="1" branch="false" />
+            <line number="30" hits="1" branch="false" />
+            <line number="31" hits="1" branch="false" />
+            <line number="34" hits="1" branch="false" />
+            <line number="37" hits="1" branch="false" />
+            <line number="38" hits="1" branch="false" />
+            <line number="42" hits="1" branch="false" />
+            <line number="44" hits="1" branch="false" />
+            <line number="45" hits="1" branch="false" />
+            <line number="48" hits="1" branch="false" />
+            <line number="51" hits="1" branch="false" />
+            <line number="52" hits="1" branch="false" />
+            <line number="56" hits="1" branch="false" />
+            <line number="58" hits="1" branch="false" />
+            <line number="59" hits="1" branch="false" />
+            <line number="62" hits="1" branch="false" />
+            <line number="65" hits="1" branch="false" />
+            <line number="66" hits="1" branch="false" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+  </packages>
+</coverage>
