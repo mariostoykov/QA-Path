@@ -1,0 +1,1 @@
+C:\Users\TOSHIBA\Downloads\QA path\Programming for QA\Programming Fundamentals and Unit Testing\22-Unit-Testing-Lists-Exercise-Resources\22-Unit-Testing-Lists-Exercise-Resources\TestApp.UnitTests\obj\Debug\net6.0\TestApp.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
