@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\2.1.Regular-Expressions-Regex\1. Match Full Name\obj\Debug\net8.0\1. Match Full Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\2.1.Regular-Expressions-Regex\1. Match Full Name\obj\Debug\net8.0\1. Match Full Name.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\2.1.Regular-Expressions-Regex\1. Match Full Name\obj\Debug\net8.0\1. Match Full Name.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\2.1.Regular-Expressions-Regex\1. Match Full Name\obj\Debug\net8.0\1. Match Full Name.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\2.1.Regular-Expressions-Regex\1. Match Full Name\bin\Debug\net8.0\1. Match Full Name.exe
+C:\Users\TOSHIBA\source\repos\2.1.Regular-Expressions-Regex\1. Match Full Name\bin\Debug\net8.0\1. Match Full Name.deps.json
+C:\Users\TOSHIBA\source\repos\2.1.Regular-Expressions-Regex\1. Match Full Name\bin\Debug\net8.0\1. Match Full Name.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\2.1.Regular-Expressions-Regex\1. Match Full Name\bin\Debug\net8.0\1. Match Full Name.dll
+C:\Users\TOSHIBA\source\repos\2.1.Regular-Expressions-Regex\1. Match Full Name\bin\Debug\net8.0\1. Match Full Name.pdb
+C:\Users\TOSHIBA\source\repos\2.1.Regular-Expressions-Regex\1. Match Full Name\obj\Debug\net8.0\1. Match Full Name.dll
+C:\Users\TOSHIBA\source\repos\2.1.Regular-Expressions-Regex\1. Match Full Name\obj\Debug\net8.0\refint\1. Match Full Name.dll
+C:\Users\TOSHIBA\source\repos\2.1.Regular-Expressions-Regex\1. Match Full Name\obj\Debug\net8.0\1. Match Full Name.pdb
+C:\Users\TOSHIBA\source\repos\2.1.Regular-Expressions-Regex\1. Match Full Name\obj\Debug\net8.0\1. Match Full Name.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\2.1.Regular-Expressions-Regex\1. Match Full Name\obj\Debug\net8.0\ref\1. Match Full Name.dll
