@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\3.1.DictionariesLambdaLINQ\3.1.DictionariesLambdaLINQ\bin\Debug\net8.0\1.CountRealNumbers.exe
+C:\Users\TOSHIBA\source\repos\3.1.DictionariesLambdaLINQ\3.1.DictionariesLambdaLINQ\bin\Debug\net8.0\1.CountRealNumbers.deps.json
+C:\Users\TOSHIBA\source\repos\3.1.DictionariesLambdaLINQ\3.1.DictionariesLambdaLINQ\bin\Debug\net8.0\1.CountRealNumbers.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\3.1.DictionariesLambdaLINQ\3.1.DictionariesLambdaLINQ\bin\Debug\net8.0\1.CountRealNumbers.dll
+C:\Users\TOSHIBA\source\repos\3.1.DictionariesLambdaLINQ\3.1.DictionariesLambdaLINQ\bin\Debug\net8.0\1.CountRealNumbers.pdb
+C:\Users\TOSHIBA\source\repos\3.1.DictionariesLambdaLINQ\3.1.DictionariesLambdaLINQ\obj\Debug\net8.0\1.CountRealNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\3.1.DictionariesLambdaLINQ\3.1.DictionariesLambdaLINQ\obj\Debug\net8.0\1.CountRealNumbers.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\3.1.DictionariesLambdaLINQ\3.1.DictionariesLambdaLINQ\obj\Debug\net8.0\1.CountRealNumbers.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\3.1.DictionariesLambdaLINQ\3.1.DictionariesLambdaLINQ\obj\Debug\net8.0\1.CountRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\3.1.DictionariesLambdaLINQ\3.1.DictionariesLambdaLINQ\obj\Debug\net8.0\1.CountRealNumbers.dll
+C:\Users\TOSHIBA\source\repos\3.1.DictionariesLambdaLINQ\3.1.DictionariesLambdaLINQ\obj\Debug\net8.0\refint\1.CountRealNumbers.dll
+C:\Users\TOSHIBA\source\repos\3.1.DictionariesLambdaLINQ\3.1.DictionariesLambdaLINQ\obj\Debug\net8.0\1.CountRealNumbers.pdb
+C:\Users\TOSHIBA\source\repos\3.1.DictionariesLambdaLINQ\3.1.DictionariesLambdaLINQ\obj\Debug\net8.0\1.CountRealNumbers.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\3.1.DictionariesLambdaLINQ\3.1.DictionariesLambdaLINQ\obj\Debug\net8.0\ref\1.CountRealNumbers.dll

@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\3.1.DictionariesLambdaLINQ\3.WordSynonyms\bin\Debug\net8.0\3.WordSynonyms.exe
+C:\Users\TOSHIBA\source\repos\3.1.DictionariesLambdaLINQ\3.WordSynonyms\bin\Debug\net8.0\3.WordSynonyms.deps.json
+C:\Users\TOSHIBA\source\repos\3.1.DictionariesLambdaLINQ\3.WordSynonyms\bin\Debug\net8.0\3.WordSynonyms.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\3.1.DictionariesLambdaLINQ\3.WordSynonyms\bin\Debug\net8.0\3.WordSynonyms.dll
+C:\Users\TOSHIBA\source\repos\3.1.DictionariesLambdaLINQ\3.WordSynonyms\bin\Debug\net8.0\3.WordSynonyms.pdb
+C:\Users\TOSHIBA\source\repos\3.1.DictionariesLambdaLINQ\3.WordSynonyms\obj\Debug\net8.0\3.WordSynonyms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\3.1.DictionariesLambdaLINQ\3.WordSynonyms\obj\Debug\net8.0\3.WordSynonyms.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\3.1.DictionariesLambdaLINQ\3.WordSynonyms\obj\Debug\net8.0\3.WordSynonyms.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\3.1.DictionariesLambdaLINQ\3.WordSynonyms\obj\Debug\net8.0\3.WordSynonyms.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\3.1.DictionariesLambdaLINQ\3.WordSynonyms\obj\Debug\net8.0\3.WordSynonyms.dll
+C:\Users\TOSHIBA\source\repos\3.1.DictionariesLambdaLINQ\3.WordSynonyms\obj\Debug\net8.0\refint\3.WordSynonyms.dll
+C:\Users\TOSHIBA\source\repos\3.1.DictionariesLambdaLINQ\3.WordSynonyms\obj\Debug\net8.0\3.WordSynonyms.pdb
+C:\Users\TOSHIBA\source\repos\3.1.DictionariesLambdaLINQ\3.WordSynonyms\obj\Debug\net8.0\3.WordSynonyms.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\3.1.DictionariesLambdaLINQ\3.WordSynonyms\obj\Debug\net8.0\ref\3.WordSynonyms.dll

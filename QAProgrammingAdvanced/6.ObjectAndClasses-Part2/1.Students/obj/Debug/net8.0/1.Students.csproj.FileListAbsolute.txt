@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\4.2. ObjectAndClasses\4.2. ObjectAndClasses\bin\Debug\net8.0\1.Students.exe
+C:\Users\TOSHIBA\source\repos\4.2. ObjectAndClasses\4.2. ObjectAndClasses\bin\Debug\net8.0\1.Students.deps.json
+C:\Users\TOSHIBA\source\repos\4.2. ObjectAndClasses\4.2. ObjectAndClasses\bin\Debug\net8.0\1.Students.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\4.2. ObjectAndClasses\4.2. ObjectAndClasses\bin\Debug\net8.0\1.Students.dll
+C:\Users\TOSHIBA\source\repos\4.2. ObjectAndClasses\4.2. ObjectAndClasses\bin\Debug\net8.0\1.Students.pdb
+C:\Users\TOSHIBA\source\repos\4.2. ObjectAndClasses\4.2. ObjectAndClasses\obj\Debug\net8.0\1.Students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\4.2. ObjectAndClasses\4.2. ObjectAndClasses\obj\Debug\net8.0\1.Students.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\4.2. ObjectAndClasses\4.2. ObjectAndClasses\obj\Debug\net8.0\1.Students.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\4.2. ObjectAndClasses\4.2. ObjectAndClasses\obj\Debug\net8.0\1.Students.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\4.2. ObjectAndClasses\4.2. ObjectAndClasses\obj\Debug\net8.0\1.Students.dll
+C:\Users\TOSHIBA\source\repos\4.2. ObjectAndClasses\4.2. ObjectAndClasses\obj\Debug\net8.0\refint\1.Students.dll
+C:\Users\TOSHIBA\source\repos\4.2. ObjectAndClasses\4.2. ObjectAndClasses\obj\Debug\net8.0\1.Students.pdb
+C:\Users\TOSHIBA\source\repos\4.2. ObjectAndClasses\4.2. ObjectAndClasses\obj\Debug\net8.0\1.Students.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\4.2. ObjectAndClasses\4.2. ObjectAndClasses\obj\Debug\net8.0\ref\1.Students.dll

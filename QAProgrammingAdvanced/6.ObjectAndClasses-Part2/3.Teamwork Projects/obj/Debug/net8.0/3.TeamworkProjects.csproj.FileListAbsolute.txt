@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\4.2. ObjectAndClasses\3.Teamwork Projects\obj\Debug\net8.0\3.TeamworkProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\4.2. ObjectAndClasses\3.Teamwork Projects\obj\Debug\net8.0\3.TeamworkProjects.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\4.2. ObjectAndClasses\3.Teamwork Projects\obj\Debug\net8.0\3.TeamworkProjects.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\4.2. ObjectAndClasses\3.Teamwork Projects\obj\Debug\net8.0\3.TeamworkProjects.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\4.2. ObjectAndClasses\3.Teamwork Projects\bin\Debug\net8.0\3.TeamworkProjects.exe
+C:\Users\TOSHIBA\source\repos\4.2. ObjectAndClasses\3.Teamwork Projects\bin\Debug\net8.0\3.TeamworkProjects.deps.json
+C:\Users\TOSHIBA\source\repos\4.2. ObjectAndClasses\3.Teamwork Projects\bin\Debug\net8.0\3.TeamworkProjects.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\4.2. ObjectAndClasses\3.Teamwork Projects\bin\Debug\net8.0\3.TeamworkProjects.dll
+C:\Users\TOSHIBA\source\repos\4.2. ObjectAndClasses\3.Teamwork Projects\bin\Debug\net8.0\3.TeamworkProjects.pdb
+C:\Users\TOSHIBA\source\repos\4.2. ObjectAndClasses\3.Teamwork Projects\obj\Debug\net8.0\3.TeamworkProjects.dll
+C:\Users\TOSHIBA\source\repos\4.2. ObjectAndClasses\3.Teamwork Projects\obj\Debug\net8.0\refint\3.TeamworkProjects.dll
+C:\Users\TOSHIBA\source\repos\4.2. ObjectAndClasses\3.Teamwork Projects\obj\Debug\net8.0\3.TeamworkProjects.pdb
+C:\Users\TOSHIBA\source\repos\4.2. ObjectAndClasses\3.Teamwork Projects\obj\Debug\net8.0\3.TeamworkProjects.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\4.2. ObjectAndClasses\3.Teamwork Projects\obj\Debug\net8.0\ref\3.TeamworkProjects.dll

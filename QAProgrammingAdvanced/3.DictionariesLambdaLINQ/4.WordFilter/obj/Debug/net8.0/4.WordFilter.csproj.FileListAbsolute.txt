@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\3.1.DictionariesLambdaLINQ\4.WordFilter\bin\Debug\net8.0\4.WordFilter.exe
+C:\Users\TOSHIBA\source\repos\3.1.DictionariesLambdaLINQ\4.WordFilter\bin\Debug\net8.0\4.WordFilter.deps.json
+C:\Users\TOSHIBA\source\repos\3.1.DictionariesLambdaLINQ\4.WordFilter\bin\Debug\net8.0\4.WordFilter.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\3.1.DictionariesLambdaLINQ\4.WordFilter\bin\Debug\net8.0\4.WordFilter.dll
+C:\Users\TOSHIBA\source\repos\3.1.DictionariesLambdaLINQ\4.WordFilter\bin\Debug\net8.0\4.WordFilter.pdb
+C:\Users\TOSHIBA\source\repos\3.1.DictionariesLambdaLINQ\4.WordFilter\obj\Debug\net8.0\4.WordFilter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\3.1.DictionariesLambdaLINQ\4.WordFilter\obj\Debug\net8.0\4.WordFilter.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\3.1.DictionariesLambdaLINQ\4.WordFilter\obj\Debug\net8.0\4.WordFilter.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\3.1.DictionariesLambdaLINQ\4.WordFilter\obj\Debug\net8.0\4.WordFilter.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\3.1.DictionariesLambdaLINQ\4.WordFilter\obj\Debug\net8.0\4.WordFilter.dll
+C:\Users\TOSHIBA\source\repos\3.1.DictionariesLambdaLINQ\4.WordFilter\obj\Debug\net8.0\refint\4.WordFilter.dll
+C:\Users\TOSHIBA\source\repos\3.1.DictionariesLambdaLINQ\4.WordFilter\obj\Debug\net8.0\4.WordFilter.pdb
+C:\Users\TOSHIBA\source\repos\3.1.DictionariesLambdaLINQ\4.WordFilter\obj\Debug\net8.0\4.WordFilter.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\3.1.DictionariesLambdaLINQ\4.WordFilter\obj\Debug\net8.0\ref\4.WordFilter.dll

@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\4.1. ObjectsAndClasses\4.1. ObjectsAndClasses\bin\Debug\net8.0\1.Songs.exe
+C:\Users\TOSHIBA\source\repos\4.1. ObjectsAndClasses\4.1. ObjectsAndClasses\bin\Debug\net8.0\1.Songs.deps.json
+C:\Users\TOSHIBA\source\repos\4.1. ObjectsAndClasses\4.1. ObjectsAndClasses\bin\Debug\net8.0\1.Songs.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\4.1. ObjectsAndClasses\4.1. ObjectsAndClasses\bin\Debug\net8.0\1.Songs.dll
+C:\Users\TOSHIBA\source\repos\4.1. ObjectsAndClasses\4.1. ObjectsAndClasses\bin\Debug\net8.0\1.Songs.pdb
+C:\Users\TOSHIBA\source\repos\4.1. ObjectsAndClasses\4.1. ObjectsAndClasses\obj\Debug\net8.0\1.Songs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\4.1. ObjectsAndClasses\4.1. ObjectsAndClasses\obj\Debug\net8.0\1.Songs.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\4.1. ObjectsAndClasses\4.1. ObjectsAndClasses\obj\Debug\net8.0\1.Songs.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\4.1. ObjectsAndClasses\4.1. ObjectsAndClasses\obj\Debug\net8.0\1.Songs.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\4.1. ObjectsAndClasses\4.1. ObjectsAndClasses\obj\Debug\net8.0\1.Songs.dll
+C:\Users\TOSHIBA\source\repos\4.1. ObjectsAndClasses\4.1. ObjectsAndClasses\obj\Debug\net8.0\refint\1.Songs.dll
+C:\Users\TOSHIBA\source\repos\4.1. ObjectsAndClasses\4.1. ObjectsAndClasses\obj\Debug\net8.0\1.Songs.pdb
+C:\Users\TOSHIBA\source\repos\4.1. ObjectsAndClasses\4.1. ObjectsAndClasses\obj\Debug\net8.0\1.Songs.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\4.1. ObjectsAndClasses\4.1. ObjectsAndClasses\obj\Debug\net8.0\ref\1.Songs.dll

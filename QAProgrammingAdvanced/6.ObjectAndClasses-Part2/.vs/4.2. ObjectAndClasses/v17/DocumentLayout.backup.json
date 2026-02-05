@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TOSHIBA\\source\\repos\\4.2. ObjectAndClasses\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7224E8-DD9A-4D21-9D1D-0EAD8F32552F}|4.PokemonTrainer\\4.PokemonTrainer.csproj|c:\\users\\toshiba\\source\\repos\\4.2. objectandclasses\\4.pokemontrainer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A7224E8-DD9A-4D21-9D1D-0EAD8F32552F}|4.PokemonTrainer\\4.PokemonTrainer.csproj|solutionrelative:4.pokemontrainer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE881BC5-7DFD-49AC-8B6F-E3A5A67B24AB}|3.Teamwork Projects\\3.TeamworkProjects.csproj|c:\\users\\toshiba\\source\\repos\\4.2. objectandclasses\\3.teamwork projects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE881BC5-7DFD-49AC-8B6F-E3A5A67B24AB}|3.Teamwork Projects\\3.TeamworkProjects.csproj|solutionrelative:3.teamwork projects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB038B88-4B58-4166-85EE-FEA54DB3F710}|2.Articles\\2.Articles.csproj|c:\\users\\toshiba\\source\\repos\\4.2. objectandclasses\\2.articles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB038B88-4B58-4166-85EE-FEA54DB3F710}|2.Articles\\2.Articles.csproj|solutionrelative:2.articles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9105E24-C4DC-4FE5-A344-D480B29381A0}|4.2. ObjectAndClasses\\1.Students.csproj|c:\\users\\toshiba\\source\\repos\\4.2. objectandclasses\\4.2. objectandclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9105E24-C4DC-4FE5-A344-D480B29381A0}|4.2. ObjectAndClasses\\1.Students.csproj|solutionrelative:4.2. objectandclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\source\\repos\\4.2. ObjectAndClasses\\4.PokemonTrainer\\Program.cs",
+              "RelativeDocumentMoniker": "4.PokemonTrainer\\Program.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\source\\repos\\4.2. ObjectAndClasses\\4.PokemonTrainer\\Program.cs",
+              "RelativeToolTip": "4.PokemonTrainer\\Program.cs",
+              "ViewState": "AgIAABkAAABgMzMzMzM9wBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T16:31:36.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\source\\repos\\4.2. ObjectAndClasses\\3.Teamwork Projects\\Program.cs",
+              "RelativeDocumentMoniker": "3.Teamwork Projects\\Program.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\source\\repos\\4.2. ObjectAndClasses\\3.Teamwork Projects\\Program.cs",
+              "RelativeToolTip": "3.Teamwork Projects\\Program.cs",
+              "ViewState": "AgIAAA8AAACgmZmZmZkwwGkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T16:31:14.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\source\\repos\\4.2. ObjectAndClasses\\2.Articles\\Program.cs",
+              "RelativeDocumentMoniker": "2.Articles\\Program.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\source\\repos\\4.2. ObjectAndClasses\\2.Articles\\Program.cs",
+              "RelativeToolTip": "2.Articles\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T16:30:33.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\source\\repos\\4.2. ObjectAndClasses\\4.2. ObjectAndClasses\\Program.cs",
+              "RelativeDocumentMoniker": "4.2. ObjectAndClasses\\Program.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\source\\repos\\4.2. ObjectAndClasses\\4.2. ObjectAndClasses\\Program.cs",
+              "RelativeToolTip": "4.2. ObjectAndClasses\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T16:29:29.629Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

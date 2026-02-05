@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\4.2. ObjectAndClasses\4.PokemonTrainer\bin\Debug\net8.0\4.PokemonTrainer.exe
+C:\Users\TOSHIBA\source\repos\4.2. ObjectAndClasses\4.PokemonTrainer\bin\Debug\net8.0\4.PokemonTrainer.deps.json
+C:\Users\TOSHIBA\source\repos\4.2. ObjectAndClasses\4.PokemonTrainer\bin\Debug\net8.0\4.PokemonTrainer.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\4.2. ObjectAndClasses\4.PokemonTrainer\bin\Debug\net8.0\4.PokemonTrainer.dll
+C:\Users\TOSHIBA\source\repos\4.2. ObjectAndClasses\4.PokemonTrainer\bin\Debug\net8.0\4.PokemonTrainer.pdb
+C:\Users\TOSHIBA\source\repos\4.2. ObjectAndClasses\4.PokemonTrainer\obj\Debug\net8.0\4.PokemonTrainer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\4.2. ObjectAndClasses\4.PokemonTrainer\obj\Debug\net8.0\4.PokemonTrainer.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\4.2. ObjectAndClasses\4.PokemonTrainer\obj\Debug\net8.0\4.PokemonTrainer.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\4.2. ObjectAndClasses\4.PokemonTrainer\obj\Debug\net8.0\4.PokemonTrainer.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\4.2. ObjectAndClasses\4.PokemonTrainer\obj\Debug\net8.0\4.PokemonTrainer.dll
+C:\Users\TOSHIBA\source\repos\4.2. ObjectAndClasses\4.PokemonTrainer\obj\Debug\net8.0\refint\4.PokemonTrainer.dll
+C:\Users\TOSHIBA\source\repos\4.2. ObjectAndClasses\4.PokemonTrainer\obj\Debug\net8.0\4.PokemonTrainer.pdb
+C:\Users\TOSHIBA\source\repos\4.2. ObjectAndClasses\4.PokemonTrainer\obj\Debug\net8.0\4.PokemonTrainer.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\4.2. ObjectAndClasses\4.PokemonTrainer\obj\Debug\net8.0\ref\4.PokemonTrainer.dll
