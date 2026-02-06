@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\5.1.ExceptionsHandling\3.SumOfIntegers\bin\Debug\net8.0\3.SumOfIntegers.exe
+C:\Users\TOSHIBA\source\repos\5.1.ExceptionsHandling\3.SumOfIntegers\bin\Debug\net8.0\3.SumOfIntegers.deps.json
+C:\Users\TOSHIBA\source\repos\5.1.ExceptionsHandling\3.SumOfIntegers\bin\Debug\net8.0\3.SumOfIntegers.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\5.1.ExceptionsHandling\3.SumOfIntegers\bin\Debug\net8.0\3.SumOfIntegers.dll
+C:\Users\TOSHIBA\source\repos\5.1.ExceptionsHandling\3.SumOfIntegers\bin\Debug\net8.0\3.SumOfIntegers.pdb
+C:\Users\TOSHIBA\source\repos\5.1.ExceptionsHandling\3.SumOfIntegers\obj\Debug\net8.0\3.SumOfIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\5.1.ExceptionsHandling\3.SumOfIntegers\obj\Debug\net8.0\3.SumOfIntegers.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\5.1.ExceptionsHandling\3.SumOfIntegers\obj\Debug\net8.0\3.SumOfIntegers.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\5.1.ExceptionsHandling\3.SumOfIntegers\obj\Debug\net8.0\3.SumOfIntegers.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\5.1.ExceptionsHandling\3.SumOfIntegers\obj\Debug\net8.0\3.SumOfIntegers.dll
+C:\Users\TOSHIBA\source\repos\5.1.ExceptionsHandling\3.SumOfIntegers\obj\Debug\net8.0\refint\3.SumOfIntegers.dll
+C:\Users\TOSHIBA\source\repos\5.1.ExceptionsHandling\3.SumOfIntegers\obj\Debug\net8.0\3.SumOfIntegers.pdb
+C:\Users\TOSHIBA\source\repos\5.1.ExceptionsHandling\3.SumOfIntegers\obj\Debug\net8.0\3.SumOfIntegers.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\5.1.ExceptionsHandling\3.SumOfIntegers\obj\Debug\net8.0\ref\3.SumOfIntegers.dll

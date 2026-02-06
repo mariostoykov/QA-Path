@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\Exercise - Dictionaries,LamdbaAndLINQ\5.StudentAcademy\bin\Debug\net8.0\5.StudentAcademy.exe
+C:\Users\TOSHIBA\source\repos\Exercise - Dictionaries,LamdbaAndLINQ\5.StudentAcademy\bin\Debug\net8.0\5.StudentAcademy.deps.json
+C:\Users\TOSHIBA\source\repos\Exercise - Dictionaries,LamdbaAndLINQ\5.StudentAcademy\bin\Debug\net8.0\5.StudentAcademy.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\Exercise - Dictionaries,LamdbaAndLINQ\5.StudentAcademy\bin\Debug\net8.0\5.StudentAcademy.dll
+C:\Users\TOSHIBA\source\repos\Exercise - Dictionaries,LamdbaAndLINQ\5.StudentAcademy\bin\Debug\net8.0\5.StudentAcademy.pdb
+C:\Users\TOSHIBA\source\repos\Exercise - Dictionaries,LamdbaAndLINQ\5.StudentAcademy\obj\Debug\net8.0\5.StudentAcademy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\Exercise - Dictionaries,LamdbaAndLINQ\5.StudentAcademy\obj\Debug\net8.0\5.StudentAcademy.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\Exercise - Dictionaries,LamdbaAndLINQ\5.StudentAcademy\obj\Debug\net8.0\5.StudentAcademy.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\Exercise - Dictionaries,LamdbaAndLINQ\5.StudentAcademy\obj\Debug\net8.0\5.StudentAcademy.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\Exercise - Dictionaries,LamdbaAndLINQ\5.StudentAcademy\obj\Debug\net8.0\5.StudentAcademy.dll
+C:\Users\TOSHIBA\source\repos\Exercise - Dictionaries,LamdbaAndLINQ\5.StudentAcademy\obj\Debug\net8.0\refint\5.StudentAcademy.dll
+C:\Users\TOSHIBA\source\repos\Exercise - Dictionaries,LamdbaAndLINQ\5.StudentAcademy\obj\Debug\net8.0\5.StudentAcademy.pdb
+C:\Users\TOSHIBA\source\repos\Exercise - Dictionaries,LamdbaAndLINQ\5.StudentAcademy\obj\Debug\net8.0\5.StudentAcademy.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\Exercise - Dictionaries,LamdbaAndLINQ\5.StudentAcademy\obj\Debug\net8.0\ref\5.StudentAcademy.dll

@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\Exercise - Dictionaries,LamdbaAndLINQ\4.SoftUniParking\obj\Debug\net8.0\4.SoftUniParking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\Exercise - Dictionaries,LamdbaAndLINQ\4.SoftUniParking\obj\Debug\net8.0\4.SoftUniParking.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\Exercise - Dictionaries,LamdbaAndLINQ\4.SoftUniParking\obj\Debug\net8.0\4.SoftUniParking.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\Exercise - Dictionaries,LamdbaAndLINQ\4.SoftUniParking\obj\Debug\net8.0\4.SoftUniParking.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\Exercise - Dictionaries,LamdbaAndLINQ\4.SoftUniParking\bin\Debug\net8.0\4.SoftUniParking.exe
+C:\Users\TOSHIBA\source\repos\Exercise - Dictionaries,LamdbaAndLINQ\4.SoftUniParking\bin\Debug\net8.0\4.SoftUniParking.deps.json
+C:\Users\TOSHIBA\source\repos\Exercise - Dictionaries,LamdbaAndLINQ\4.SoftUniParking\bin\Debug\net8.0\4.SoftUniParking.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\Exercise - Dictionaries,LamdbaAndLINQ\4.SoftUniParking\bin\Debug\net8.0\4.SoftUniParking.dll
+C:\Users\TOSHIBA\source\repos\Exercise - Dictionaries,LamdbaAndLINQ\4.SoftUniParking\bin\Debug\net8.0\4.SoftUniParking.pdb
+C:\Users\TOSHIBA\source\repos\Exercise - Dictionaries,LamdbaAndLINQ\4.SoftUniParking\obj\Debug\net8.0\4.SoftUniParking.dll
+C:\Users\TOSHIBA\source\repos\Exercise - Dictionaries,LamdbaAndLINQ\4.SoftUniParking\obj\Debug\net8.0\refint\4.SoftUniParking.dll
+C:\Users\TOSHIBA\source\repos\Exercise - Dictionaries,LamdbaAndLINQ\4.SoftUniParking\obj\Debug\net8.0\4.SoftUniParking.pdb
+C:\Users\TOSHIBA\source\repos\Exercise - Dictionaries,LamdbaAndLINQ\4.SoftUniParking\obj\Debug\net8.0\4.SoftUniParking.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\Exercise - Dictionaries,LamdbaAndLINQ\4.SoftUniParking\obj\Debug\net8.0\ref\4.SoftUniParking.dll

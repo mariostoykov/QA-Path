@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\Exercise - Dictionaries,LamdbaAndLINQ\2.AMinerTask\bin\Debug\net8.0\2.AMinerTask.exe
+C:\Users\TOSHIBA\source\repos\Exercise - Dictionaries,LamdbaAndLINQ\2.AMinerTask\bin\Debug\net8.0\2.AMinerTask.deps.json
+C:\Users\TOSHIBA\source\repos\Exercise - Dictionaries,LamdbaAndLINQ\2.AMinerTask\bin\Debug\net8.0\2.AMinerTask.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\Exercise - Dictionaries,LamdbaAndLINQ\2.AMinerTask\bin\Debug\net8.0\2.AMinerTask.dll
+C:\Users\TOSHIBA\source\repos\Exercise - Dictionaries,LamdbaAndLINQ\2.AMinerTask\bin\Debug\net8.0\2.AMinerTask.pdb
+C:\Users\TOSHIBA\source\repos\Exercise - Dictionaries,LamdbaAndLINQ\2.AMinerTask\obj\Debug\net8.0\2.AMinerTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\Exercise - Dictionaries,LamdbaAndLINQ\2.AMinerTask\obj\Debug\net8.0\2.AMinerTask.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\Exercise - Dictionaries,LamdbaAndLINQ\2.AMinerTask\obj\Debug\net8.0\2.AMinerTask.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\Exercise - Dictionaries,LamdbaAndLINQ\2.AMinerTask\obj\Debug\net8.0\2.AMinerTask.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\Exercise - Dictionaries,LamdbaAndLINQ\2.AMinerTask\obj\Debug\net8.0\2.AMinerTask.dll
+C:\Users\TOSHIBA\source\repos\Exercise - Dictionaries,LamdbaAndLINQ\2.AMinerTask\obj\Debug\net8.0\refint\2.AMinerTask.dll
+C:\Users\TOSHIBA\source\repos\Exercise - Dictionaries,LamdbaAndLINQ\2.AMinerTask\obj\Debug\net8.0\2.AMinerTask.pdb
+C:\Users\TOSHIBA\source\repos\Exercise - Dictionaries,LamdbaAndLINQ\2.AMinerTask\obj\Debug\net8.0\2.AMinerTask.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\Exercise - Dictionaries,LamdbaAndLINQ\2.AMinerTask\obj\Debug\net8.0\ref\2.AMinerTask.dll

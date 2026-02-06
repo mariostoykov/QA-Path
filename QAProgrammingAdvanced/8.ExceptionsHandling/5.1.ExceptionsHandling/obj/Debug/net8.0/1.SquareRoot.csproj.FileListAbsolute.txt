@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\5.1.ExceptionsHandling\5.1.ExceptionsHandling\bin\Debug\net8.0\1.SquareRoot.exe
+C:\Users\TOSHIBA\source\repos\5.1.ExceptionsHandling\5.1.ExceptionsHandling\bin\Debug\net8.0\1.SquareRoot.deps.json
+C:\Users\TOSHIBA\source\repos\5.1.ExceptionsHandling\5.1.ExceptionsHandling\bin\Debug\net8.0\1.SquareRoot.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\5.1.ExceptionsHandling\5.1.ExceptionsHandling\bin\Debug\net8.0\1.SquareRoot.dll
+C:\Users\TOSHIBA\source\repos\5.1.ExceptionsHandling\5.1.ExceptionsHandling\bin\Debug\net8.0\1.SquareRoot.pdb
+C:\Users\TOSHIBA\source\repos\5.1.ExceptionsHandling\5.1.ExceptionsHandling\obj\Debug\net8.0\1.SquareRoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\5.1.ExceptionsHandling\5.1.ExceptionsHandling\obj\Debug\net8.0\1.SquareRoot.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\5.1.ExceptionsHandling\5.1.ExceptionsHandling\obj\Debug\net8.0\1.SquareRoot.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\5.1.ExceptionsHandling\5.1.ExceptionsHandling\obj\Debug\net8.0\1.SquareRoot.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\5.1.ExceptionsHandling\5.1.ExceptionsHandling\obj\Debug\net8.0\1.SquareRoot.dll
+C:\Users\TOSHIBA\source\repos\5.1.ExceptionsHandling\5.1.ExceptionsHandling\obj\Debug\net8.0\refint\1.SquareRoot.dll
+C:\Users\TOSHIBA\source\repos\5.1.ExceptionsHandling\5.1.ExceptionsHandling\obj\Debug\net8.0\1.SquareRoot.pdb
+C:\Users\TOSHIBA\source\repos\5.1.ExceptionsHandling\5.1.ExceptionsHandling\obj\Debug\net8.0\1.SquareRoot.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\5.1.ExceptionsHandling\5.1.ExceptionsHandling\obj\Debug\net8.0\ref\1.SquareRoot.dll
