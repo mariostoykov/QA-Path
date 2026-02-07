@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TOSHIBA\\Downloads\\QA path\\Programming for QA\\Programming Advanced for QA\\09-Resources-Unit-Testing-Exercise-Classes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8FD84A-ACC4-4024-9704-B4C11070BEAD}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\toshiba\\downloads\\qa path\\programming for qa\\programming advanced for qa\\09-resources-unit-testing-exercise-classes\\testapp.unittests\\articletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8FD84A-ACC4-4024-9704-B4C11070BEAD}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\articletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8FD84A-ACC4-4024-9704-B4C11070BEAD}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\toshiba\\downloads\\qa path\\programming for qa\\programming advanced for qa\\09-resources-unit-testing-exercise-classes\\testapp.unittests\\planettests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8FD84A-ACC4-4024-9704-B4C11070BEAD}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\planettests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8FD84A-ACC4-4024-9704-B4C11070BEAD}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\toshiba\\downloads\\qa path\\programming for qa\\programming advanced for qa\\09-resources-unit-testing-exercise-classes\\testapp.unittests\\persontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8FD84A-ACC4-4024-9704-B4C11070BEAD}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\persontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EEF27A-7821-446A-B339-144B4F177830}|TestApp\\TestApp.csproj|c:\\users\\toshiba\\downloads\\qa path\\programming for qa\\programming advanced for qa\\09-resources-unit-testing-exercise-classes\\testapp\\planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EEF27A-7821-446A-B339-144B4F177830}|TestApp\\TestApp.csproj|solutionrelative:testapp\\planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticleTests.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\QA path\\Programming for QA\\Programming Advanced for QA\\09-Resources-Unit-Testing-Exercise-Classes\\TestApp.UnitTests\\ArticleTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\ArticleTests.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\QA path\\Programming for QA\\Programming Advanced for QA\\09-Resources-Unit-Testing-Exercise-Classes\\TestApp.UnitTests\\ArticleTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\ArticleTests.cs",
+              "ViewState": "AgIAAC0AAADAZmZmZmYiwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T20:17:12.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Planet.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\QA path\\Programming for QA\\Programming Advanced for QA\\09-Resources-Unit-Testing-Exercise-Classes\\TestApp\\Planet.cs",
+              "RelativeDocumentMoniker": "TestApp\\Planet.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\QA path\\Programming for QA\\Programming Advanced for QA\\09-Resources-Unit-Testing-Exercise-Classes\\TestApp\\Planet.cs",
+              "RelativeToolTip": "TestApp\\Planet.cs",
+              "ViewState": "AgIAABAAAACgmZmZmZk2wCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T21:22:34.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlanetTests.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\QA path\\Programming for QA\\Programming Advanced for QA\\09-Resources-Unit-Testing-Exercise-Classes\\TestApp.UnitTests\\PlanetTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\PlanetTests.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\QA path\\Programming for QA\\Programming Advanced for QA\\09-Resources-Unit-Testing-Exercise-Classes\\TestApp.UnitTests\\PlanetTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\PlanetTests.cs",
+              "ViewState": "AgIAAAUAAAAgMzMzMzMbwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T21:17:34.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonTests.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\Downloads\\QA path\\Programming for QA\\Programming Advanced for QA\\09-Resources-Unit-Testing-Exercise-Classes\\TestApp.UnitTests\\PersonTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\PersonTests.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\Downloads\\QA path\\Programming for QA\\Programming Advanced for QA\\09-Resources-Unit-Testing-Exercise-Classes\\TestApp.UnitTests\\PersonTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\PersonTests.cs",
+              "ViewState": "AgIAABkAAAAAMzMzMzMLwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T19:44:35.973Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
